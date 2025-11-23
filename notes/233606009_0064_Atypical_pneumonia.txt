@@ -1,0 +1,67 @@
+22/11/25 09:12 – Tel consult – bulk billed (walk-in, first time here)
+
+Pt: 29F RN, works metro hospital. Non-smoker. No reg meds, NKDA.
+
+Reason for call: wants “Centrelink form + medical cert + antibiotics”. Says ongoing “chesty infection”.
+
+Illness hx (bit all over the place):  
+~10 days cough started after sore throat, initially dry, now still mostly dry, tiny bit clear/yellow sputum. Fatigued, “wiped out”, low-grade temps at home up to 38.3° mostly evenings with chills. Mild sharp chest pain with deep breath/cough, central/left, no radiation.  
+SOB only on exertion (e.g. stairs), none at rest. Talking in full sentences on phone. No haemoptysis, no wheeze reported, no ankle swelling, no orthopnoea/PND. Eating/drinking ok though ↓ appetite, no GI upset.
+
+Works on medical ward, lots of URTI exposure. Says last winter “this turned into pneumonia” and usual GP “always gives antibiotics early”. Saw another GP ~5 days ago at different clinic, told “probably viral” and no abx – unhappy about this, wants “strong antibiotics like azithro or even IV if needed”.
+
+COVID: RAT x2 negative (day 3, day 6). No PCR, no CXR yet.
+
+Red flag screen (phone only):  
+No resting SOB, no central crushing chest pain, no calf pain/swelling, no haemoptysis, no confusion. Not pregnant.
+
+Phone “exam”:  
+Voice a bit tired but not breathless, full sentences, occasional dry cough heard. No obvious distress. Can’t get obs/O2 over phone.
+
+Social – brief: share house, worried about rent if off work >1–2 wks → reason for Centrelink. No partner mentioned.
+
+Bit demanding re forms: repeatedly “I need the Centrelink paperwork done today, I can’t wait weeks” and “I know how this goes, I look after these patients all the time”. Explained limitations of phone consult, need for CXR/obs etc before long-term capacity forms. She not thrilled but stayed polite enough.
+
+Impression (provisional):  
+?Atypical community-acquired pneumonia / LRTI rather than simple viral URTI now given:  
+- cough + systemic sx >7 days  
+- low-grade fevers, exertional SOB  
+- mild pleuritic-type pain  
+- exposure in hospital environment  
+No obvious red flags by phone but limited assessment. DDx: viral LRTI incl COVID/other resp virus, early bacterial CAP, ?pertussis, PE unlikely from hx.
+
+Plan (a bit out of order):
+
+– Scripts:  
+• Doxycycline 100 mg PO BD x 7 days (PBS). Counselling re upright with water, food if nausea, photosensitivity – discussed briefly.  
+• Paracetamol up to 1 g QID PRN fever/pain (max 4 g/24 h).
+
+She initially pushing for “azithro or IV like we do on the ward”. Explained outpatient mild case → oral doxy first line, IV not indicated if stable and tolerating PO. Some back and forth, eventually accepted.
+
+– Ix (same day if possible):  
+• CXR PA/LAT – r/o pneumonia/assess extent.  
+• COVID PCR + resp viral panel (if lab does this) given hospital exposure.  
+• FBC, CRP, U&E, LFTs baseline + inflammatory markers.
+
+Explained need for objective evidence before filling Centrelink disability / capacity forms. She asked “Can’t you just assume it’s pneumonia and sign it?” → explained medico-legal + standard of care. Eventually agreed.
+
+– Certificates / forms:  
+• Medical certificate provided for absence from work 22/11/25–28/11/25 for LRTI / probable atypical pneumonia.  
+• Centrelink medical form: NOT completed today. To be done after review with results + response to tx (3–5 days). Documented that complex forms not done on brief phone-only consult without exam/obs. She unhappy but accepted short delay.
+
+– Safety net:  
+Advised ED/urgent review if SOB at rest / unable to speak full sentences, high fevers not settling, chest pain at rest, palpitations, confusion/syncope, haemoptysis. RTC if any deterioration.
+
+– Follow-up:  
+Booked F2F review 2–3 days (or earlier if worse) to:  
+• check vitals, O2 sats, chest exam  
+• review CXR + bloods  
+• confirm dx and decide on duration off work  
+• complete Centrelink form if ongoing functional impairment and pneumonia confirmed.
+
+If can’t get in here, advised can see local GP/after-hours with same plan once results available on system.
+
+She also briefly raised “months of exhaustion from double shifts / maybe burnout and mental health certificate”. Advised separate longer consult once acute illness settled – not addressed today due to time. She a bit frustrated about needing multiple visits.
+
+Bulk billed (MBS 91809 – phone consult <20 mins).  
+09:34 – note finished, may need to recheck dates at review (Centrelink form likely next week, not today).

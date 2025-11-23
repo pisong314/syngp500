@@ -1,0 +1,115 @@
+22/11/25  10:05  
+
+Pt: 34F Aboriginal Aust early childhood educator  
+Reason for visit  
+C/O L eye blurry vision few wks  
+
+HPC  
+Onset gradual ~3/52  
+Intermittent blur L>R worse end of day feels like straining L eye  
+Mild photophobia L needs to squint outdoors  
+Dull ache around L eye occ not severe nil sharp pain  
+Nil discharge gritty sensation or itch  
+Nil flashes floaters curtain VF loss  
+R eye "ok maybe not as sharp as before"  
+No specs or CL last optom check few yrs ago "at the shops" told normal  
+More noticeable reading stories at work and smartboard from back of room also TV and med labels at home  
+Still driving but ↓ confidence esp night signs bit fuzzy  
+
+Prev eye hx  
+Similar episode L eye ~18/12 ago red painful light sensitive  
+Seen ED → hospital eye clinic per pt told inflammation inside eye ?ant uveitis  
+Given steroid drops several weeks stopped when ran out sx resolved did not attend f/u  
+No known glaucoma cataract surgery trauma  
+
+PMHx  
+Nil known autoimmune dx  
+Nil arthritis back pain mouth/genital ulcers diarrhoea psoriasis chronic cough  
+Nil renal disease TB exposure  
+Meds none regular  
+Allergies NKDA  
+
+SHx  
+Works FT early childhood in metro Syd long hrs lots of close work + admin on computer nights  
+Lives w partner 2 kids  
+Non smoker occ EtOH  
+Drives  
+Has Medicare cost a concern re repeated specialist but will attend if needed  
+
+FHx  
+Nil FHx glaucoma AMD  
+Maternal aunt arthritis in 30s details unclear  
+
+O/E  
+Vitals BP 118/72 HR 74 RR 14 Temp 36.6C SpO2 99 RA  
+Gen well appering NAD  
+
+Eyes  
+Inspection  
+L eye mild ciliary flush around limbus nil obvious discharge nil lid swelling  
+R eye white quiet  
+VA Snellen approx in room chart  
+R 6/9  
+L 6/18 → ~6/12 pinhole  
+Pupils equal round reactive slight consensual discomfort L when light in R nil RAPD  
+EOM full nil diplopia  
+VF confront grossly normal OU  
+Fundoscopy undilated limited discs sharp OU nil obvious haemorrhage or exudates maculae grossly normal nil clear RD  
+Cornea grossly clear AC depth appears normal nil hypopyon on torch  
+Nil periocular rash  
+
+Imp  
+1 Suspected recurrent anterior uveitis L>R 2° intraocular inflammation hx similar episode on steroid drops  
+   VA ↓ L mild photophobia ciliary flush consensual discomfort prev hosp dx per pt  
+   Nil features acute angle closure or RD currently  
+2 Possible underlying systemic assoc ?HLA B27 etc not yet worked up  
+3 Preventive/general health issues not addressed today time  
+
+Dx code  
+Anterior uveitis SNOMED 128473001  
+
+Plan  
+- Urgent same day ophthal r/v  
+  Phoned local hospital eye clinic accepted for review this afternoon  
+  Written ref via HealthLink incl hx prev episode current findings concern recurrent ant uveitis  
+  Advised pt not to drive if feels unsafe partner to drive  
+- No steroid drops started in GP setting need slit lamp + baseline IOP first  
+- Analgesia  
+  Paracetamol 500–1000mg PO up to QID PRN eye discomfort max 4g/24h  
+- Sunglasses advised avoid bright light where possible  
+
+Safety net  
+Explained likely dx uveitis inflammation inside eye can → scarring glaucoma cataract perm vision loss if not treated  
+Stressed importance attending eye clinic today and following drop regimen exactly  
+Advised not to stop steroid drops abruptly without med advice  
+Reassured phone/computer use not cause though may ↑ awareness of sx  
+
+Investigations  
+Given same day ophthal review deferred broad autoimmune/ID screen from GP side to avoid duplication  
+Noted in ref that systemic work up may be required eg HLA B27 ANA ESR CRP ACE syphilis serology TB screen etc  
+Plan to coordinate bloods once ophthal advice available  
+
+F/U  
+GP f/u booked 1/52 (or earlier PRN) to  
+- Review ophthal findings and tx plan  
+- Arrange systemic investigations as per ophthal  
+- Check for steroid drop side effects IOP etc as needed  
+
+Red flags  
+Pt advised attend GP/ED urgently if  
+- Sudden ↓ vision new flashes floaters curtain over vision  
+- Severe eye pain headache N/V  
+- Marked ↑ redness or swelling of eye or lids  
+Also generic advice to return if fever >38.5 severe SOB chest pain or confusion  
+
+Deferred  
+General health check BP lipids cervical screening vax etc briefly mentioned will book longer appt once acute issue settled  
+
+Pt engaged asked re long term vision risk and steroid SE says generally adherent w meds  
+
+Review 03/05/2023 15/08/2024 29/11/2025 booked  
+
+[Addendum 22/11/25 16:40 Jnr Dr note  
+Pt attended hosp eye clinic per My Health Record entry dx confirmed as ant uveitis L started on pred acetate 1% q1h while awake + cycloplegic drops IOP normal  
+Ophthal requested GP arrange HLA B27 ANA ENA ESR CRP ACE syphilis serology Quantiferon next visit  
+Will f/u in eye clinic 1/52]

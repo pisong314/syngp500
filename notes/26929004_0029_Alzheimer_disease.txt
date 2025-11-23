@@ -1,0 +1,75 @@
+22/11/25 09:10  
+
+79F, retired admin, known Alzheimer’s / mixed vascular dementia + BPSD, f/up today mainly “to go through the latest bloods and that brain scan report” + meds questions.
+
+Came with husband (main carer). Very well read re: “NMDA antagonists and acetylcholinesterase inhibitors”, asking re evidence for mixed dementia and when to stop per NICE etc. Worried about “losing more function if we change the meds”.
+
+Subjective – bit all over the place:
+- Husband: gradual decline last 6–9/12 – more repetition, sometimes unsure of day/date, needs prompting for meds/meals, now needs help with finances/complex IADLs, still OK with basic ADLs.  
+- Pt: notices “not as sharp with new information” but feels day-to-day “fairly stable”.  
+- Behaviour: evenings – ↑ agitation, restlessness, irritable, some suspiciousness (“moving my things”). No aggression, no clear hallucinations (occasionally misreads shadows). Sleep fragmented, up 1–2x/night wandering to kitchen.  
+- PRN risperidone 0.25 mg used 1–2x in last 2/12 only.  
+- Queries: caffeine + donepezil interaction, and whether recent heatwave “fried a few more neurons”. Reassured – likely natural progression + vascular factors, heat/dehydration can worsen confusion but not primary cause.
+
+Meds (as per EMR, confirmed):
+- Donepezil 10 mg nocte (>18/12)  
+- Memantine 10 mg mane (was 20 mg, reduced due dizziness ~4/12 ago, now settled)  
+- Aspirin 100 mg mane  
+- Atorvastatin 40 mg nocte  
+- Perindopril 5 mg mane  
+- Risperidone 0.25 mg nocte PRN severe agitation (rare use)  
+- Vit D 1000 IU daily  
+No anticoagulant.
+
+AE: mild wt loss ~3–4 kg over yr (1 kg↓ vs 6/12 ago), appetite small but stable. No GI upset. No falls, no syncope. Dizziness better since memantine dose↓.
+
+Exam (quick – out of time):
+BP 132/76, HR 64 reg, RR 16, SpO2 98% RA, afebrile. Wt 57 kg, BMI ~22.  
+Pleasant, articulate, well kempt. Looks to husband to fill gaps.  
+Neuro: alert, oriented to person/place, only “sometime in November” for date. Fluent speech. Short-term recall 2/3 at 5 mins with prompting. No focal neurology, gait slightly slow but steady.
+
+Results reviewed today (QML – 10 days ago, compared with earlier set ~6/12 ago where available):
+- FBC, UEC, Cr, LFT: WNL, eGFR ~70 (stable vs ~72 six months ago)  
+- TSH 1.6 (normal, similar to prior 1.7)  
+- B12 360 pmol/L (normal), folate normal  
+- Lipids: LDL 2.1 (adequate on atorva; was 2.3), HDL 1.4, TG 1.2  
+- Random glucose 5.4 (no DM)  
+
+MRI brain (regional service, ~3/52 ago):  
+Gen cortical atrophy, more in medial temporal lobes. Mod periventricular + subcortical ischaemic change. No acute infarct / mass / hydrocephalus. Impression: AD pattern + small vessel ischaemic disease → mixed dementia.  
+Pt asked if normal thyroid/B12 means “we can be confident this is pure neurodegeneration rather than something reversible” – explained these exclude common reversible bits, but imaging + course fit AD + vascular.
+
+Dx / impression (messy):
+1) Alzheimer’s disease with mixed vascular dementia – mild–mod stage. Slowly progressive, currently reasonably stable on donepezil 10 mg + memantine 10 mg. MRI consistent with known mixed picture. Reversible causes screened (TSH/B12/folate/metabolic) – none obvious.  
+2) BPSD – mild–mod: evening agitation, irritability, mild suspiciousness, some sleep disturbance. No current distressing psychosis, no aggression. Rare PRN risperidone use.  
+3) Vascular risk factors – HTN, hyperlipidaemia reasonably controlled, renal function OK for ongoing memantine.  
+4) Mild wt loss – likely multifactorial incl age, dementia, possible cholinesterase inhibitor contribution. No alarm features today.
+
+Plan (bit scattered):
+- Continue donepezil 10 mg nocte – tolerating, benefit > risk at present.  
+- Continue memantine 10 mg mane – higher dose caused dizziness, current dose OK, still within evidence for moderate AD/mixed dementia.  
+- Explained MRI in simple terms: “changes from Alzheimer’s plus small vessel disease, nothing new or fixable surgically”.  
+- Reassured: instant coffee not driving progression; advise moderation + good hydration esp in heat.
+
+BPSD:
+- Keep environmental/behavioural measures as first line (calmer evenings, orienting cues etc – discussed briefly).  
+- Keep risperidone 0.25 mg PRN only for severe agitation/distress. Warned (again) re ↑ stroke/metabolic risk esp with vascular disease. Told them to call if needing more than ~1 dose/fortnight or if any new neuro sx.
+
+Monitoring / follow-up:
+- Longer review in ~3/12 for formal cognitive + functional assessment (MMSE or similar + carer report) and care planning. Book 30‑min.  
+- At each visit: check wt, BP, BPSD pattern. Asked husband to keep rough diary of significant agitation episodes + PRN risperidone use.  
+- Safety net: seek urgent review/ED if sudden acute confusion, falls, new focal neuro signs, marked behaviour change, poor intake.
+
+Vascular / general:
+- Continue atorvastatin 40 mg nocte, perindopril 5 mg mane, aspirin 100 mg mane.  
+- Lipids/BP formal review 6–12/12 unless issues. No new path ordered today as recent set OK.
+
+Future planning (ran out of time):
+- She wanted detailed discussion re “pros and cons of stopping cholinesterase inhibitors once I’m more severely affected” and latest guidelines – flagged for next long appt; mentioned abrupt cessation can sometimes precipitate noticeable decline.  
+- Need to cover driving, home safety, carer supports, EPA/ACPs next time – care plan then.
+
+Printed brief summary of results + current plan for them to take (remote property, may not access My Health Record easily).
+
+RTC 3/12 or earlier if deterioration.  
+
+11:02 – note finished, bits copied forward from last review 05/05/25 (corrected where out of date).

@@ -1,0 +1,141 @@
+22/11/2025  
+
+C/O  
+L sided weakness  
+
+HPI  
+76yo male Anglo Aus retired electrician new to clinic walk in  
+Poor historian abit vague re timing + meds  
+Says woke this morning and L arm "not working right" then later "mightve been a few days maybe last week"  
+Unable to give clear LSW time  
+Noted dragging L leg when up to toilet today time unknown  
+Neighbour brought him in thought "face looked a bit funny" speech earlier "slurry" per neighbour  
+
+Current sx  
+L arm weak dropping objects ↓ grip cant lift above shoulder  
+L leg weak wobbly holds furniture  
+Mild slurred speech earlier now mostly settled per pt  
+Nil HA CP SOB palps  
+Nil visual loss diplopia  
+Nil head trauma nil seizure  
+
+Past Hx  (pt reliability limited)  
+AF "heart a bit jumpy" duration ?  
+T2DM  
+Likely HTN  
+Prev hospitalisation "for my heart" details unclear  
+?Prev stroke TIA pt unsure  
+
+Meds  
+Pt unsure names doses  
+"little white pill for the heart or blue one"  
+"tablet for sugar" "tablet for pressure"  
+Thinks used to be on warfarin → maybe changed to a NOAC "the dear one"  
+Unclear if currently anticoagulated  
+No clear antiplatelet hx  
+
+Allergies  
+NKDA (pt not certain)  
+
+Social  
+Lives with wife own home regional independent ADLs pre event  
+Ex smoker ?still occasional cig  
+Occasional beer weekends  
+Still driving short trips  
+
+FHx  
+?IHD in mother  
+Nil clear FHx stroke  
+
+O/E  
+Gen  
+Elderly male mildly dishevelled alert GCS 15 some confusion re timeline  
+
+Obs  
+BP 178/96 R arm sitting  
+HR 88 irregularly irregular  
+RR 16  
+SpO2 96 RA  
+Temp 36.9  
+
+CVS  
+Pulse irregularly irregular rate ~80–90 HS I+II nil murmur periph oedema nil  
+
+Resp  
+Chest clear AE good  
+
+Neuro (focused)  
+Speech mild dysarthria comprehension intact  
+CN: mild L lower facial droop forehead sparing EOMI pupils equal reactive VF grossly intact to confrontation tongue midline  
+Motor  
+R side 5/5  
+L UL 3/5 prox distal ↓ grip drift present  
+L LL 4/5 mild drift  
+Tone ↑ L UL cf R  
+Reflexes brisk L vs R plantars L equivocal R downgoing  
+Sensory L side "bit dull" responses inconsistent  
+Gait not fully tested when stood w assist clear L leg drag unsafe to continue  
+Nil meningism  
+
+POC  
+BGL 8.7 mmol/L  
+ECG AF VR ~85 no acute ST-T chg  
+
+Impression  
+Acute focal neuro deficit L hemiparesis facial droop dysarthria in 76yo M w AF T2DM HTN  
+High suspicion R MCA territory ischaemic stroke ?cardioembolic vs large vessel disease  
+Onset time unclear poss wake up stroke poss >4.5h → thrombolysis eligibility uncertain needs ED stroke team  
+Stroke mimics less likely given clear focal signs BGL ok nil seizure  
+
+Dx  
+1 Suspected acute ischaemic stroke R carotid/MCA distribution  
+2 AF rate controlled anticoag status unknown  
+3 T2DM  
+4 HTN  
+
+Plan  
+This is an emergency explained to pt neighbour in plain language that sx most likely stroke on R side of brain risk of permanent disability death if delay  
+
+1 Transfer  
+000 called urgent ambulance to regional referral hospital ED stroke capable  
+Verbal handover to paramedics re  
+- L hemiparesis facial droop dysarthria  
+- AF T2DM HTN  
+- Uncertain LSW time  
+- Unknown anticoag meds  
+Printed brief summary sent with pt  
+
+2 ED / hospital requests  
+- Urgent CT brain ± CTA to exclude haemorrhage assess LVO  
+- Clarify LSW via wife neighbour  
+- Assess for IV thrombolysis and/or EVT as per stroke protocol  
+- Start aspirin once ICH excluded if not on anticoag or unless contraindicated  
+- Admit to stroke unit for monitoring BP control swallow screen rehab etc  
+
+3 Chronic / secondary prevention issues flagged for later  
+- AF confirm current anticoag if nil then likely start DOAC for stroke prevention post acute phase as per guidelines  
+- T2DM check HbA1c adjust meds dietitian etc  
+- BP long term target <130/80 likely need regular ACEi/ARB ± other  
+- Lipids start high intensity statin eg atorvastatin 40–80mg nocte PBS  
+- Smoking status clarify offer cessation support  
+
+Med changes today  
+Nil commenced in clinic given suspected acute stroke and pending imaging  
+No aspirin given here as anticoag status unknown and onset unclear  
+
+Counselling  
+Pt initially wanted to go home "have a lie down" and see usual GP later strongly advised against given time critical nature after discussion pt agreed to ambulance transfer  
+Neighbour contacted wife from rooms advised to meet him in ED  
+
+Safety net  
+ED to manage acutely  
+Advised pt to return to GP after hospital discharge for ongoing care  
+
+Follow up  
+GP f/u r/v 1–2/52 post discharge with discharge summary for  
+- stroke secondary prevention plan antiplatelet/anticoag statin BP  
+- AF + DM management  
+- functional status rehab needs driving clearance etc  
+
+Billing  
+Bulk billed standard consult MBS 23 (acute emergency → time limited)

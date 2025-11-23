@@ -1,0 +1,58 @@
+22/11/25  RACF BRIS
+
+29F temp respite. Wants “housing form done”
+
+CC: “chronic sinus infection” x ~3–4/12. Wants letter to say current housing making her unfit to live/work there
+
+HPI  
+Nasal blockage + congestion (↑ am + nocte)  
+Thick yellow nasal d/c bilat + PND  
+Frontal/facial pressure esp bending fwd  
+Intermittent dull HA, ↓ smell  
+No visual change, no periorbital swell, no high fevers, no neck stiffness, no confusion  
+Prev amoxil 7/7 ~6/52 ago, no real benefit  
+Daily OTC nasal decong “for ages” → likely >3–4/52 (discussed rebound)  
+Very fixated on housing / “toxic aircon” / mould / traffic fumes as cause. Wants wording re “severe chronic infection causing disability”
+
+Obs: afeb 36.8  BP 118/74  HR 78  RR 16  SpO₂ 99% RA
+
+Exam (targeted)  
+Gen: alert, orientated, agitated/arguing but cooperative  
+Nose: pale oedematous mucosa, bilat mucopurulent d/c, no obvious polyps ant  
+Sinus: mild bilat frontal/max TTP  
+Eyes: no periorbital erythema/oedema, EOMI, no diplopia  
+Throat: mild post pharyngeal mucus, no tonsillar exudate  
+Chest: clear
+
+A  
+1) Chronic rhinosinusitis w/o red flags  
+   - >12/52 sx, nasal obs + mucopurulent d/c + facial pressure + ↓ smell  
+   - No red flag features, no systemic toxicity  
+   - Likely contrib rhinitis medicamentosa from prolonged topical decong  
+2) Admin request – housing/Centrelink  
+   - Pt requesting strong statement housing = primary cause + “unfit for work/housing”  
+   - Current findings → symptomatic but not disabled. Env factors may aggravate but not proven. Needs longer dedicated appt
+
+P  
+CRS  
+- Start intranasal steroid: budesonide (Rhinocort) 64mcg 2 sprays each nostril mane (PBS) → use daily min 4–6/52  
+- Saline nasal irrigation OD–BD (FESS or homemade)  
+- Advise wean/cease OTC nasal decong  
+  • Plan: limit to nocte, alt nostrils x 1/52 then stop. Pt resistant but agreed partially  
+- No abx today – chronic picture, no acute bacterial features explained. Pt unhappy but noted
+
+Ix  
+- Nil immediate. If poor response after 4–6/52 → consider ENT + CT sinuses ± allergy workup
+
+Admin / forms  
+- Explained cannot write “toxic aircon causing disability / unfit for all work/housing” on current evidence  
+- Offered: can document dx CRS, current mgmt, note env irritants may worsen sx  
+- Complex housing/Centrelink forms → needs long appt in rooms (not RACF round) + more detailed functional assessment  
+- Gave brief written summary for housing worker today. Pt dissatisfied but took copy
+
+Safety / f/up  
+- Red flags d/w (visual change, periorbital swell, severe HA/neck stiffness, high fever, confusion, rapid deterioration) → ED  
+- F/up GP clinic 4/52, book long appt → review response to spray/cessation decong + consider ENT/allergy + complete housing/Centrelink paperwork then  
+- RACF nursing asked to prompt daily Rhinocort use + note adherence while here
+
+RTC earlier if worse or new red flags

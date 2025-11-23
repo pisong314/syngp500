@@ -1,0 +1,53 @@
+22/11/25  15:42  
+
+69F f/up abdo pain LLQ. Known sigmoid diverticular disease (CT ~3/12 ago, outpt Rx). Missed colonoscopy + f/up  
+
+HPI  
+4–5/7 dull LLQ ache 5–6/10, similar to last episode but milder. Worse y/day. No radiation. Worse w movement / when very full bowels, some relief post BM  
+Alt constip/loose over wk. No PR bleed, no melaena. Says stools “a bit narrower sometimes” but not persistent. +flatus. No V+. Mild on/off nausea. Appetite ↓ a bit but still eating  
+?fevers/chills day 1–2, no temps recorded. Now just “off” but coping ADLs  
+No dysuria, freq, flank pain. No CP, SOB  
+Admits only took 3–4/7 of prev Augmentin then stopped. No fibre changes. Still uses ibuprofen intermittently despite prior advice  
+
+Obs  
+BP 138/82 HR 88 RR 16 SpO2 98% RA T 37.4 BMI ~26  
+
+Exam (focused)  
+Abdo soft ND. LLQ local T+, mild–mod. No guarding/rebound. No gen peritonism. No palpable mass. BS N. No CVA T  
+
+Imp  
+1) Recurrent LLQ pain in pt w known sigmoid diverticular disease → likely uncomplicated diverticulitis vs SUDD. Currently stable, tolerating PO, no sepsis / peritonism / obstruction  
+2) Non-adherence to prev mgmt (abx incomplete, colonoscopy not done, diet not changed)  
+3) Need to excl CRC given age + prev diverticulitis + intermittent narrower stool calibre  
+
+Ix  
+– FBC, UEC, CRP, LFT today → SNP path, results pending  
+– Urine dip in rooms: NIT -ve LEU -ve blood -ve → UTI unlikely  
+→ If bloods abn / sx ↑ or no improvement 24–48h → urgent CT abdo/pelvis w contrast (local imaging) + likely ED  
+
+Plan  
+– Treat as presumed uncomplicated diverticulitis  
+  • Amoxycillin + clavulanic acid 875/125 PO BD 7/7 (PBS) → stressed must complete course  
+  • Analgesia: paracetamol 1 g QID prn. Avoid NSAIDs (↑ GI bleed/divertic risk) – discussed, pt agrees to try stop Nurofen  
+  • Diet: low residue/soft 48–72h then ↑ fibre as settles. Encourage fluids  
+– Bowels: if constipated → advised OTC macrogol sachets 1–2/d, avoid straining  
+
+Colonoscopy / CRC screen  
+– Re-discussed need for post-diverticulitis scope to excl malignancy (age + stool calibre change). Pt reluctant re prep/travel but agrees in principle  
+– Re-referral to public hospital gastro/surg for colonoscopy sent today via HealthLink → “post-diverticulitis, r/o malignancy”  
+– Suggested daughter assist w prep/transport  
+
+Adherence  
+– Forgetful / avoids “hassle”. Suggested pill box + phone alarms. Wrote abx schedule for fridge.  
+– Will ask PN to phone in few days to check abx adherence / colonoscopy booking progress  
+
+Safety net  
+– ED if sudden severe gen abdo pain, rigid abdo, high fevers/rigors, unable keep fluids down, no stool/flatus + distension/V+, large PR bleed or melaena, presyncope  
+– Same-day review here if pain ↑ next 24–48h despite abx or new V+  
+
+F/up  
+– Review booked 48h (short appt) → check sx, vitals, path results  
+→ If improving + bloods OK → complete 7/7 abx, advance diet, reinforce colonoscopy  
+→ If no better / worse → same-day CT abdo/pelvis + likely ED  
+
+Bulk billed today (time mostly acute abdo + adherence + colonoscopy discussion – preventive care deferred, to book longer appt later)

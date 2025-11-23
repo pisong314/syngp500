@@ -1,0 +1,167 @@
+22/11/2025  
+
+Reason for visit  
+F/U BV / Trichomonas  
+New URTI type sx – sneezing blocked nose  
+
+ID  
+29 y/o Aboriginal woman hosp admin  
+Lives Brisbane share house works full time  
+Nonsmoker ETOH low  
+
+HPI  
+
+#1 Sneezing nasal congestion  
+Onset ~4/7 ago  
+Sx  
+- frequent sneezing  
+- blocked nose  
+- clear rhinorrhoea  
+- mild itchy eyes  
+- mild frontal pressure bending forward  
+Nil purulent d/c nil facial or tooth pain nil anosmia  
+Systemic  
+- nil fevers nil rigors appetite ok abit tired from poor sleep  
+Chest  
+- nil cough SOB wheeze CP  
+
+Triggers  
+Thinks maybe aircon conc@work or jasmine outside unit  
+Sx slightly ↑ at work ↓ when away from office  
+Hx atopy – past hayfever teen yrs nil asthma  
+
+Meds tried  
+Saline nasal spray prn a couple of times mild benefit  
+Nil decongestants  
+
+COVID  
+Prev COVID last yr different sx mainly fatigue + cough  
+Triple vaxxed  
+Offered RAT if systemic sx develop currently low suspicion  
+
+#2 BV / Trichomonas f/u  
+Seen 2/52 ago thin fishy discharge  
+Vaginal swab +BV +Trichomonas vaginalis  
+Other STI screen HIV syphilis chlamydia gonorrhoea all neg in results inbox  
+
+Tx  
+Completed metronidazole 400mg PO BD 7/7 finished ~1/52 ago  
+Pt says took all tabs nil missed doses abstained from alcohol  
+
+Current sx  
+Discharge and odour almost resolved  
+Mild ↑ clear discharge only  
+Nil itch pain dyspareunia dysuria  
+Nil pelvic pain  
+
+Partner  
+One regular male partner  
+Partner treated with metronidazole via sexual health clinic they abstained during tx  
+Pt query re side effects – had metallic taste transient nausea now resolved reassured these expected  
+
+Gyn  
+LMP ~10/7 ago cycles 28–30/7 regular  
+Pt says no chance current pregnancy  
+Uses condoms “most of the time” nil IUD nil hormonal contraception  
+Open to more reliable contraception but concerned re SEs aware copper IUD may ↑ BV recurrence  
+
+Past Hx  
+- BV + Trichomonas current episode  
+- Intermittent allergic rhinitis adolescence  
+- Nil known chronic med conditions  
+- Nil known drug allergies  
+
+Meds  
+Nil regular  
+Completed metronidazole as above  
+
+Examination  
+
+Vitals  
+BP 112/70 HR 78 RR 14 Temp 36.8°C SpO₂ 99% RA  
+
+Gen  
+Well appearing alert interactive  
+
+ENT  
+Nasal mucosa boggy congested turbinates pale pink swollen clear rhinorrhoea  
+Nil purulent nasal d/c  
+Nil sinus tenderness  
+Oropharynx mild post nasal drip nil tonsillar exudate nil marked erythema  
+TMs normal  
+
+Resp  
+Chest clear AE good nil wheeze crackles  
+
+CVS  
+HS dual nil murmur  
+
+Abdo  
+Soft NT  
+
+GU  
+Not re examined today time limited sx improved  
+Pt happy to defer r/v if sx recur  
+
+Assessment  
+
+1 Likely viral URTI vs mild allergic rhinitis flare  
+Short duration 4/7 clear rhinorrhoea sneezing nasal obstruction itchy eyes benign exam nil fever  
+Hx hayfever plus possible triggers (aircon jasmine) suggests allergic component  
+Recent contact with coughing colleagues → viral contribution also plausible  
+Nil red flags bacterial sinusitis – nil high fever nil severe facial or tooth pain nil purulent d/c >7–10/7  
+Nil clinical indication for abx as per national primary care URTI guidance  
+
+2 BV (SNOMED CT 419760006) with Trichomonas vaginalis recent treated clinically improved  
+Completed 1st line oral metronidazole regimen as per sexual health guidelines  
+Sx largely resolved partner reportedly treated concurrent abstinence maintained → ↓ risk reinfection  
+Current picture not c/w persistent infection  
+Full STI screen 2/52 ago all neg  
+Discussed recurrence risk and modifiable factors  
+
+Plan  
+
+#1 Sneezing nasal congestion  
+- Continue saline nasal spray prn  
+- Trial non sedating antihistamine 2' possible allergic rhinitis  
+  • Cetirizine 10mg PO mane prn up to once daily for 5–7/7 then prn  
+- Simple analgesia eg paracetamol if sinus pressure or HA develops  
+- Non pharm  
+  • Advise minimise direct aircon exposure where possible  
+  • Usual rest fluids avoid smoke etc (briefly discussed)  
+
+Safety net  
+- R/V if  
+  • onset high fevers  
+  • worsening facial or tooth pain  
+  • purulent nasal d/c >7–10/7  
+  • SOB CP  
+  • or sx persist >~2/52 without improvement  
+- RAT for COVID if systemic sx or lower resp sx develop  
+
+#2 BV / Trichomonas f/u  
+- Nil repeat abx at this stage given resolution sx good adherence  
+- Explained mild ↑ normal clear discharge can occur post tx as vaginal microbiome re equilibrates  
+- Education  
+  • avoid douching perfumed vaginal products  
+  • continue condom use especially next few mths to ↓ recurrence and other STIs  
+  • if discharge odour itch pelvic pain or dysuria recur → both pt and partner need reassessment and likely re testing and tx  
+- Documented prior STI results HIV syphilis chlamydia gonorrhoea all neg  
+- No further tests ordered today  
+
+Contraception  
+- Briefly revisited options COCP POP implant hormonal IUD vs copper IUD  
+- Noted copper IUD associated with ↑ BV recurrence risk so would avoid if recurrent BV issue  
+- Time limited today advised separate longer appt for detailed contraception counselling and cervical screen status check pt agreeable  
+
+Preventive / Admin  
+- Deferred broader preventive health review (lipids BSL etc) to later dedicated appt  
+- Review 7–10/7 PRN if nasal sx not settling earlier if red flags  
+- F/U PRN re vaginal sx  
+
+Pt understanding  
+Pt able to repeat plan back coherantly “use the saline and antihistamine for the nose come back if it drags on and if the discharge or smell comes back we check again and maybe treat both of us”  
+
+Time  
+Std ~15 min consult focus URTI sx + brief BV/Trich r/v  
+Prev r/v 03/05/2023 15/08/2024 noted in file unrelated issues

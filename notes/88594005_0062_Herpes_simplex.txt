@@ -1,0 +1,77 @@
+22/11/25  
+
+34F  
+
+CC: “need more of the herpes tablets”  
+
+Hx  
+Known recurrent oral HSV-1  
+On/off valaciclovir PRN in past (per EMR multiple small scripts last 18/12, last 3/12 ago)  
+Now ↑ flares “every month or two now, used to be hardly ever” but v poor historian, dates all over the place  
+Prodrome typical: tingling/burning R upper lip → blisters → crust. Today just “a bit tingly, feels like it’s about to blow up” no vesicles yet  
+No fevers, no HA, no confusion, no photophobia, no genital sx “nothing downstairs”  
+Hx atopic dermatitis since childhood, mild currently, flares with stress/handwashing  
+Background “mild immunodeficiency / autoimmune thing” per old letters, on/off low-dose pred in past. Pt: “I was on some immune tablets ages ago, and steroids when it flares, can’t remember which”  
+No current high-dose immunosuppression on med list. Needs longer appt to sort  
+
+Meds (per EMR + pt – unreliable)  
+- Valaciclovir 500 mg tabs PRN cold sores – finished  
+- Pred 5 mg PRN autoimmune flares – “not for ages”  
+- Topical steroid for eczema (unclear which)  
+- COCP  
+NKDA  
+
+O/E  
+Obs WNL (BP 118/72 HR 76 afebrile)  
+Looks well, NAD  
+Lips: tiny erythematous area R upper vermilion, minimal swell, no clear vesicles yet  
+No oral ulcers, no pharyngeal changes  
+Skin: mild flexural eczema only, no widespread vesicles, no tender rash, no c/f eczema herpeticum  
+Neuro grossly normal  
+
+Dx  
+1. Recurrent oral HSV-1 – prodrome today, immunocompromised background (intermittent) + atopy  
+2. Atopic dermatitis – mild, stable  
+3. Immunocompromised state / ?UCTD – details unclear, not on significant IS currently  
+
+Plan  
+HSV  
+- Treat early given prodrome + ↑ risk host  
+- Valaciclovir 500 mg tabs  
+  • 4 tabs (2 g) bd x 1 day at onset of sx (start today when home – already tingling)  
+  • Qty for 3 episodes + 1 repeat for episodic use  
+- Discussed suppressive option (valaciclovir 500 mg daily 6/12) if truly frequent/severe. Given unreliable hx, for now:  
+  • Keep simple diary of episodes (dates / severity / likely triggers) next 3–4/12  
+  • Review & consider suppressive Rx if ≥1/mth or worse flares  
+- Basic advice re early dosing, avoid contact when lesions active, hand hygiene. Pt works as RN on ward – reminded re avoiding contact with neonates/immunocompromised if lesions active  
+
+Red flags (brief)  
+- ED / same-day review if: rapidly spreading painful rash on eczema areas, clusters of vesicles, feels very crook → ?eczema herpeticum  
+- Or new severe HA, fever, confusion, neck stiffness, photophobia → ?encephalitis  
+- Eye involvement or finger lesions → urgent review  
+
+Eczema  
+- Stable. Continue current emollients + usual topical steroid PRN  
+- Avoid potent steroid directly over active HSV lesions  
+- Full eczema / steroid potency review next long appt – asked to bring all creams  
+
+Immunocompromised / autoimmune hx  
+- Needs clarification – too complex for short HSV script visit  
+- Plan longer appt to:  
+  • Review old haematology/rheum letters in detail  
+  • Reconcile past and current IS meds  
+  • Consider baseline bloods (FBC, U&E, LFTs, ±HIV, Ig levels) if not done recently  
+
+Meds today  
+- Valaciclovir 500 mg tabs as above (PBS)  
+- OK to use paracetamol / ibuprofen PRN if pain – no contraindications evident  
+
+F/U  
+- Long review 3/12 to:  
+  • Reassess HSV frequency/severity & consider daily suppressive valaciclovir  
+  • Clarify immunodeficiency / autoimmune dx and IS exposure  
+  • Review eczema management / topical steroid potency  
+- Earlier if ↑ frequency, poor response to valaciclovir, or any red flags above  
+
+Time  
+Std short consult ~10–15 min mainly HSV script + safety-netting; other issues deferred to long review.

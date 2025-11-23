@@ -1,0 +1,90 @@
+22/11/25  
+
+Reason for visit  
+F/U baby fever ?infection per mum  r/v mum R ear pain blocked  
+
+Pt  
+29F Anglo-Australian early childhood educator new to clinic lives regional town with partner 7wk old baby  
+
+HPC  
+Main concern baby 7/52 old  had fever yday up to 38.2 tympanic at home  seen ED obs done bloods urine per mum "all clear"  no abx  home this morning  since then baby abit more sleepy feeds a bit slower but still feeding ok wet nappies adequate  nil vom nil diarrhoea nil resp distress  mum anxious re sepsis "seen some really sick bubs"  
+
+Secondary issue own R ear pain x ~3/7  gradual onset worse last night throbbing blocked ↓hearing R  nil otorrhoea nil dizziness nil facial weakness  mild URTI sx currently rhinorrhoea nasal congestion  took Panadol 1g tds yday partial relief  no Nurofen yet  nil h/o chronic ear dz grommets TM perf  nil recent flying or swimming  
+
+Social  
+Lives with supportive partner on leave  partner smokes outdoors  mum asks if smoke on clothes affecting baby  financially ok prefers BB  non smoker  ETOH rare none since birth  
+
+Family/carer input  
+Partner also concerned re baby "a bit more sleepy than usual" per mum  mum primary carer currently  
+
+Meds  
+Occasional paracetamol only  breastfeeding  using condoms  denies pregnancy  NKDA  
+
+O/E  
+Vitals mum  
+BP 112/72 HR 82 RR 16 Temp 37.4 SpO2 99% RA  
+
+Gen  
+Well looking 29F no acute distress breastfeeding in room  
+
+ENT  
+R ear TM erythematous bulging ↓light reflex ↓mobility on insufflation  no obvious perf no discharge canal  no mastoid tend or swelling  L TM normal  
+Nasal mucosa mildly congested clear d/c  OP clear nil tonsillar exudate  
+
+Chest  
+CTAB  nil added sounds  
+
+Neuro  
+No focal neuro signs  gait normal  
+
+Baby (brief check only not full paeds consult)  
+Pink well perfused responsive strong cry settles at breast  feeding observed strong suck  nil resp distress  nil rash  appears clinically stable  
+
+Ax  
+1  Acute otitis media R  likely post viral  otherwise well adult  nil red flags mastoiditis intracranial spread systemic sepsis  
+2  Maternal anxiety re 7/52 old with recent febrile illness  ED yday excluded sepsis per report  baby currently well on brief exam  still high risk age group if deteriorates  
+
+Dx codes  
+1 Acute otitis media R ear SNOMED 65363002  
+
+Plan  
+
+# Mum – AOM R  
+- Discussed natural hx AOM  usu settles 2–3/7 sx may last up to 7/7  
+- Start oral abx given sig pain bulging TM need to remain functional caring for newborn  
+  • Amoxycillin 500mg PO 8 hourly x 5/7  
+- Analgesia  
+  • Paracetamol 1g PO 6 hourly prn max 4g/24h  
+  • Ibuprofen 400mg PO 8 hourly prn wf if nil GI renal issues  
+- Safe in breastfeeding at these doses reassured  
+- Adv complete course  RTC if rash SOB severe diarrhoea or if pain ↑ despite regular analgesia  
+- Red flags for urgent r/v or ED  ↑severe ear pain esp nocturnal  post auricular swell/redness  facial weakness  persistent high fevers feeling systemically very unwell  
+
+# Baby – brief advice ?self limiting viral illness (no formal dx today)  
+- Reassured current exam reassuring  emphasised age <2/12 high risk  low threshold for ED  
+- Safety net given to mum  
+  • ED immediately if temp ≥38 again (rectal/axillary)  
+  • poor feeding eg misses ≥2 feeds or ↓wet nappies  
+  • lethargic floppy difficult to wake  
+  • fast or laboured breathing grunting blue lips  
+  • persistent vomiting or new rash  
+  • or "just not right" major change in behaviour  
+- Smoke exposure  advised partner to smoke outside wash hands change shirt before handling baby where possible  wood smoke may irritate airways but unlikely main issue here  
+- Visitors  ok to limit contact with unwell visitors esp from childcare  emphasised hand hygiene  
+
+Meds changes today  
+- New Rx Amoxycillin 500mg TDS x 5/7 for AOM  
+- Suggested add ibuprofen prn in addition to paracetamol for pain control  
+
+Other  
+Mum asked briefly re going back to work and vaccines for herself  advised separate longer appt for postpartum check incl immunisation mental health screen return to work planning  she will book when baby more settled  
+
+Safety net  
+Pt advised to attend ED if fever >38.5°C severe SOB chest pain confusion or rapidly worsening condition  for self or baby  otherwise GP r/v  
+
+F/U  
+- R/V mum 2–3/7 if ear pain not improving or sooner if worsening / systemically unwell  
+- For baby  advised ED rather than clinic if any red flag sx as above  
+- Longer postpartum check 30min suggested in next 2–4/52 for own health r/v and further infant care Qs  
+
+(Review 22/11/25  03/05/23 entry template used – updated for current consult)

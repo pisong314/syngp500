@@ -1,0 +1,44 @@
+22/11/25 10:05 RACF review  
+
+82M, long-term pt. Seen in room.
+
+CC: R great toe pain + brief chronic dz review (NAFLD/HTN/met syn).
+
+Toe Hx (4–5/7):  
+- 1st MTP R: insidious onset, “throbbing”, worse WB/+sheet touch  
+- ↑pain last 2/7 then plateau  
+- Mild swell + erythema, warm. No trauma, no wound, afebrile, systemically well  
+- Able to mobilise w frame but favouring R foot  
+- Past ?gout other foot yrs ago, NSAID-responsive. No hx septic arthritis  
+
+Nursing: note ↑Panadol use last few days; no temps recorded.  
+
+O/E:  
+Vitals: BP 138/76, HR 78 reg, RR 16, SpO₂ 97% RA, T 36.8  
+R foot: 1st MTP erythema+, warmth+, tender++, ↓ROM 2° pain. No breaks, no tophi, no streaking, no cellulitis. Pulses +, CRT <2s, sens intact. Other joints NAD.  
+No stigmata CLD. CVS/resp/abd grossly WNL.
+
+Impr:  
+1) Acute monoarthritis R 1st MTP ?gout flare >> ?septic arthritis (low susp but RACF → monitor)  
+2) NAFLD / met syn – clinically stable, needs updated w/up  
+3) HTN – controlled  
+4) Impaired glucose / met syn – ongoing
+
+Meds (relevant): irbesartan 150 mane, amlodipine 5 mane, atorva 20 nocte, metformin XR 500 mane, aspirin 100 mane, Panadol 1g qid PRN (bd recent). No NSAIDs, no ULT.
+
+Plan:  
+Toe / ?gout:  
+- Colchicine PBS: 1mg stat now → 0.5mg 1h later (max 1.5mg D1) then 0.5mg mane x5/7 if still sx  
+- Avoid NSAIDs (age/CV/renal risk)  
+- Continue paracetamol 1g up to qid PRN (max 4g/24h)  
+- Nursing: obs for T>38, ↑erythema/spread, unable WB, delirium/unwell → urgent GP / ED  
+
+Met syn / NAFLD / HTN:  
+- Path (S&N next round ≤1/52): FBC, U&E/eGFR, LFTs, INR, fasting lipids, fasting BSL, HbA1c, urate  
+- Review BP/renal/electrolytes once results back  
+- Will calc FIB-4 + reassess CV/met risk next visit  
+
+11:00 – Spoke with RN: instructions re monitoring + path forms left.  
+Daughter usually EPOA contact – RN to update re gout flare + bloods.  
+
+FU: 1–2/52 routine RACF round or earlier if toe not improving 3–5/7 or any red flags.

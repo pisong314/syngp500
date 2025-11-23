@@ -1,0 +1,150 @@
+22/11/25  
+
+RACF GP R/V – routine round  
+
+Reason  
+Resident asking R/V re “different pains inside my head and tummy”  
+Med check  
+Known infrarenal AAA  
+
+ID  
+84yo man long term RACF retired construction worker  
+
+HPC  
+Abdo pain  
+- ~3/52 hx vague central/lower abdo aching  
+- Worse when twisting in bed not clearly exertional  
+- Nil sudden onset nil radiation to back  
+- Nil vomit nil PR bleed bowels abit sluggish baseline  
+- Appetite slightly ↓ but still eating most meals  
+- Wonders if new margarine upsetting stomach  
+
+Head  
+- Intermittent brief R frontal / parietal “pressure in head” a few times per wk minutes only  
+- Nil visual change speech disturbance limb weakness facial droop  
+- Nil thunderclap nil early am vomit  
+
+Peripheral  
+- Occ sharp “jab” L calf when moving in bed settles quickly  
+- Nil rest pain nil colour change nil ulcers  
+- Mobility v limited uses 4WW with staff  
+
+AAA context  
+- Aware of “bulge in big artery”  
+- Nil acute severe abdo or back pain nil collapse  
+- Mild usual postural light headed only  
+- Staff: nil fevers chills rigors  
+- Mild wt loss ~1–2kg over 3/12 consistent frailty  
+
+Meds / adherence  
+- In RACF meds given by staff  
+- Pt: “I keep forgetting my tablets but the girls here keep shoving them at me”  
+- Staff report occasional refusal of AM meds few times per wk  
+- Pt ran out of “heart tablets” prior to RACF not on them for ages pre admission  
+
+Specialist f/u  
+- Did not attend planned vascular clinic pre RACF entry last yr  
+- Nil recent vascular R/V  
+
+PMHx  
+- Infrarenal AAA US 18/08/23 5.3cm plan vascular clinic and 6–12/12 surveillance pt did not attend  
+- CAD NSTEMI 2017 PCI x1  
+- Ischaemic CVA 2020 mild residual L arm weakness  
+- Hx infective endocarditis native valve 2019 IV abx no surgery  
+- HTN HLD  
+- Ex smoker >40 pack yr quit ~10yrs ago  
+- Mild cognitive impairment ?early dementia  
+
+Meds (RACF chart key)  
+- Aspirin 100mg mane  
+- Atorvastatin 40mg nocte  
+- Perindopril 5mg mane  
+- Metoprolol succinate 23.75mg mane  
+- PRN paracetamol 1g q6h  
+- Bowel regimen vit D PRN oxazepam  
+
+Allergies  
+NKDA  
+
+Social  
+Widowed in RACF daughter EPOA visits ~fortnightly  
+Needs assist for ADLs ↓ vision some hearing imp  
+
+Exam  
+Obs (RACF) BP 138/72 HR 76 reg RR 18 SpO2 97% RA Temp 36.7C  
+
+Gen frail elderly man NAD talking coherant  
+CVS HS dual soft ES murmur aortic area known nil new murmur nil oedema feet warm CR ~3s pulses DP/PT difficult to palp  
+Resp chest clear  
+Abdo soft mildly distended non tender nil guarding or rigidity nil palpable mass AAA not clearly palpable no pulsatile tender mass BS present  
+Neuro A+O to person place not exact date speech fluent CN grossly intact power 4+/5 L arm (old) 5/5 elsewhere gait not fully assessed transfers with 4WW + 1 assist slow stable nil new focal signs  
+Skin legs intact nil ulcers nil IE stigmata  
+
+Ix  
+To be arranged via RACF / practice  
+- Abdo USS AAA surveillance urgent but non emergent within 1–2/52 “known AAA 5.3cm 2023 new intermittent abdo pain pls compare”  
+- Bloods FBC U&E LFT CRP ESR lipids HbA1c TFTs  
+
+If fevers or acute deterioration RACF to call GP / ambulance for urgent R/V ± ED transfer blood/urine cultures if concern sepsis IE mycotic aneurysm  
+
+Assessment  
+1. Intermittent non specific abdo pain in pt with known infrarenal AAA 5.3cm 2023  
+   - Haemodynamically stable abdo soft NT  
+   - Nil red flags for rupture today nil sudden severe pain nil hypotension nil collapse  
+   - Given size + >2yrs since last imaging high priority for repeat USS ± vascular R/V  
+   - Mycotic aneurysm / IE extension less likely currently afebrile systemically well  
+
+2. Intermittent “head pressure”  
+   - Likely benign multifactorial ?tension type ?age related cerebrovascular change mild dehydration  
+   - Nil red flag features nil new neuro deficit  
+
+3. Polyvascular disease CAD CVA AAA very high CV risk  
+   - On aspirin statin ACEi beta blocker aim 2° prevention symptom control realistic targets given age frailty  
+
+4. Hx infective endocarditis  
+   - Nil clinical evidence recurrence  
+
+5. Med adherence issues  
+   - Now mostly supervised in RACF intermittent refusal persists pattern of poor engagement with specialist care  
+
+Plan  
+AAA / abdo pain  
+- No ED transfer today stable pain mild chronic exam benign  
+- Arrange abdo USS as above  
+- RACF nursing  
+  - Daily obs x5/7  
+  - Escalate to ambulance / ED if sudden severe abdo or back pain collapse syncope new hypotension tachycardia acute confusion fever rigors or new focal abdo tenderness  
+- Analgesia paracetamol 1g q6h PRN max 4g/24h avoid NSAIDs  
+
+Headache  
+- Monitor only no imaging today  
+- Use PRN paracetamol  
+- If new neuro sx eg weakness speech/vision change sudden worst ever headache repeated vomit → call ambulance ?stroke  
+
+Meds / CV risk  
+- Continue aspirin 100mg mane atorvastatin 40mg nocte perindopril 5mg mane metoprolol 23.75mg mane  
+- Brief education re importance for heart stroke AAA risk pt: “I know but some mornings I just cant be bothered”  
+- Ask nursing to note med refusals and reasons offer with food gentle encouragement not force  
+
+Medication changes today  
+- Nil changes to regular cardiac meds  
+- Confirmed paracetamol PRN charted to max 4g/24h (previously written but dose limit not clearly documented on RACF chart now clarified)  
+
+Infection / IE risk  
+- Nil abx  
+- Staff to watch for new fevers rigors sweats unexplained deterioration  
+
+Logistics / family  
+- RACF RN to book USS and transport  
+- To inform daughter/EPOA once imaging done for vascular f/u likely telehealth or hospital clinic rather than multiple community appts  
+
+F/U  
+- GP R/V in RACF 1–2/52 or earlier if USS results back  
+- ED if sudden deterioration as above  
+- Issues to address at later long appt with daughter present  
+  - Full med review including psychotropics bowel regimen  
+  - Cognition formal screen goals of care ACD  
+
+Patient advised to return / staff to call if fever >38.5 severe SOB chest pain or confusion  
+
+[Added 16:30 by Dr L Chan – pathology request forms e-sent to local lab RACF to bleed pt next routine round lipids HbA1c added as last set >18/12 ago trend needed for CV risk review]

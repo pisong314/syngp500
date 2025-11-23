@@ -1,0 +1,45 @@
+22/11/25  
+
+62M electrician  
+
+CC: “bit dizzy + nauseous last few days, feel wiped out” + palps  
+
+HPC  
+4–5/7 intermittent light-headedness (pre-syncope esp on standing / fast walking) + nausea, 1x vomit y/day  
+Exertional CP x2 this wk – “tightness across chest” 5–10 mins, walking fast / carrying gear → settles w rest. Assoc SOB, fatigue. No true syncope  
+Palps 2–3/7, brief runs “heart racing” a few mins, mainly pm on site  
+No fever, no focal neuro sx, no pleuritic pain, no calf sx  
+
+Obs  
+BP 148/92 HR 96 reg RR 18 SpO₂ 97% RA afebrile  
+Overweight ~BMI 28  
+
+CVS exam: dual HS, no murmur, no oedema, JVP not ↑  
+Resp: clear  
+
+ECG (in rooms): SR ~95. ~1mm horiz ST dep V4–6, II, aVF + T flattening lat leads → ?ischaemia / NSTEACS. No STE  
+
+Imp  
+1) ?ACS – likely NSTEACS (UA/NSTEMI)  
+   Age + male + smoker + FHx + new exertional CP + SOB + nausea + concerning ECG → high risk. Time-critical  
+2) Dizziness / nausea / palps likely part of ACS picture (no red flag focal neuro, no clear primary arrhythmia in rooms)  
+3) CV risk – smoker, probable HTN, ?lipids (for later)  
+
+Plan  
+- Explained likely ACS, risk arrhythmia / MI / death if delay. Pt initially “just need something for nausea, got a meeting” but agreed to hosp after discussion  
+- Aspirin 300mg PO stat (chewed) given here  
+- O₂ not needed (sats 97% RA)  
+- NBM until ED review  
+- No GTN here as pain-free at rest during consult  
+
+Disposition  
+- 000 called → urgent transfer to tertiary ED w cardiology. Not safe to self-drive  
+- Handover to ambos: ?NSTEACS, exertional CP, ECG changes, aspirin given, NKDA  
+- ECG + brief referral printout sent w pt  
+- Advised wife to meet at ED – pt to call from ambulance  
+
+F/up  
+GP review 1/52 post-discharge (or as per cardiology) for meds, risk factor work-up, cardiac rehab referral etc  
+Safety net: attend ED / 000 if CP or collapse  
+
+Billing: Level C, private, usual gap charged (busy clinic)

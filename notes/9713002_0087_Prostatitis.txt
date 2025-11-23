@@ -1,0 +1,48 @@
+22/11/2025  09:40  
+
+42M FU prostatitis  
+
+HPI  
+- Dx acute prostatitis 3/52 ago → E.coli on MSU (cipro-sensitive). Hosp 7/7 abx then relapse → current cipro 500 bd planned 4/52. Today D21.  
+- Now dysuria 0, freq ~baseline, mild end-of-day perineal ache only.  
+- No fevers/chills/rigors, no flank pain, no N/V, no retention, no haematuria.  
+- Cipro SE: early loose stools + mild nausea if empty stomach → now ↓, tolerable. No tendon pain, no neuropathy, no rash.  
+- Mildly anxious re no fever; reassured. Monogamous, no STI RF volunteered.  
+
+PMHx  
+- Prostatitis x1/12 (?evolving chronic bacterial)  
+- NKDA  
+Meds: cipro 500 bd (D21/28), ibuprofen PRN (last few days ago).  
+SHx: electrician, drives/sits long periods, non-smoker, ETOH wkend.  
+
+O/E  
+- Vitals: BP 124/78, HR 76 reg, RR 14, T 36.8, SpO2 99% RA.  
+- Gen: well, NAD.  
+- Abdo: SNT, no SP/CVA tend.  
+- PR: prostate mildly ↑ size, slightly boggy, minimal diffuse TTP, no focal fluct, no nodules, not hot. Tone N.  
+
+Ix  
+- MSU M/C/S sent today (post-abx completion check given prior relapse).  
+- PSA deferred (acute prostatitis → false ↑, not useful now).  
+
+A  
+1) Chronic bacterial prostatitis (9713002) – improving on extended cipro, 3/4/52 completed. No red flags for sepsis/abscess (afebrile, sx ↓, PR NAD re focal lesion).  
+2) Cipro SE – mild GI only, resolving, no serious ADR.  
+
+P  
+- Continue cipro 500 mg PO bd to complete 28/7 total.  
+- Couns: stop cipro + urgent review/ED if:  
+  → acute tendon pain/swelling  
+  → severe/bloody diarrhoea  
+  → new neuropathy sx  
+  → high fever/rigors/systemically unwell or urinary retention.  
+- Symptom control: paracetamol ± ibuprofen with food PRN; encourage ↓ prolonged sitting (ute) as able.  
+- MSU today – review result post-course, adjust abx if persistent organism/resistance.  
+- If relapse post 4/52 → repeat MSU + consider urology r/v (?imaging to r/o abscess, ?chronic prostatitis workup).  
+- Safety-net: RTC/ED if fever, rigors, ↑ perineal/rectal pain, retention, vomiting, or no further improvement next 1–2/52.  
+- Back stiffness from work mentioned – advised separate appt if ongoing.  
+
+F/U  
+- Review 1–2/52 post-abx with MSU result.  
+
+Billing: Level B, bulk billed.

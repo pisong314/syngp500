@@ -1,0 +1,70 @@
+22/11/25 AH GP clinic Bris – new pt
+
+27M h/o TGA repair neonate (“arteries switched”) poor f/up
+
+CC: “need a script + check-up, been getting a bit puffed”
+
+HPI  
+≈3–4/52 SOB on exertion only – stairs, rushing for bus  
+Describes “puffed, chest tight” not true pain, no radiation, no pleuritic sx  
+No syncope, a few brief light-headed episodes on standing  
+No palps at rest, HR ↑ with fast walking  
+No orthopnoea/PND/oedema, no recent viral, no fever/cough/sputum  
+No DVT/PE RFs, non-smoker, no drugs  
+High caffeine – 2–3 energy drinks/d + coffee  
+Lost to ACHD clinic, last review ~2–3 yrs ago  
+Previously on “beta-blocker + something” as teen, self-ceased, no current cardiac meds  
+Also asking for repeat of “white heart rhythm tablet” – name/dose unknown, no box, no records  
+Admits poor adherence “keep forgetting”
+
+Allergies: NKDA
+
+Obs  
+BP 112/70 HR 92 reg RR 16 T 36.8 SpO₂ 96% RA
+
+Exam (targeted)  
+Gen: NAD, speaking full sentences, no SOB at rest, pink, no obvious cyanosis  
+CVS: HS dual, soft systolic ej murmur LUSB 2/6, JVP not ↑, no oedema, pulses reg =  
+Resp: CTAB good AE  
+Abdo: soft NT
+
+ECG (clinic 12L)  
+SR 88, RAD, non-specific IVCD, no acute ischaemic changes  
+Likely post-TGA repair pattern – no prior ECG to compare
+
+Ix  
+Limited after-hours  
+ECG done as above  
+For usual GP / ACHD: FBC, UEC, LFT, TFT, lipids, HbA1c, ±NT-proBNP – to be done via QML/SNP (not done tonight)  
+Echo to be arranged via ACHD (not ordered directly here)
+
+Dx / Impression  
+1) Repaired TGA – complex CHD, now adult, poor f/up, no current cardiac meds  
+2) Intermittent exertional SOB + chest tightness in adult with repaired TGA  
+   – ?arrhythmia/conduction issue  
+   – ?ventricular dysfunction / early HF  
+   – ?deconditioning  
+   – ACS unlikely (age, hx, ECG) but needs ACHD review  
+Currently stable, no red flags at rest  
+3) Med non-adherence / lost to specialist care – ↑ risk given CHD  
+4) High caffeine intake – poss contributing to palps/light-headedness
+
+Plan  
+– Do NOT restart/commence cardiac meds today: previous regimen unknown, complex anatomy, no notes  
+  (no beta-blocker/ACEi/anti-arrhythmic until ACHD advice)  
+– No scripts given for “heart tablet” – explained unsafe without knowing drug/dose  
+
+– Safety net (brief): ED if ↑ SOB, new/worse chest pain esp at rest, syncope/near-syncope, rapid sustained palps, new oedema, cyanosis  
+
+– Caffeine: advise ↓ energy drinks → max 1 caffeinated drink/d until reviewed, avoid OTC stimulants  
+
+– Referral: urgent ACHD cardiology at tertiary hosp (pt thinks [Hospital X])  
+  Letter done today via HealthLink + printed copy – “urgent: symptomatic exertional dyspnoea, repaired TGA, off meds, lost to f/up”  
+  Asked to call Mon to book appt  
+
+– F/up GP: needs regular GP review 3–5/7 to organise bloods (QML/SNP forms to be done there), confirm ACHD appt, reassess sx  
+  ACHD review ideally 1–2/52  
+
+RTC/ED sooner if any red flag as above
+
+(Prev review 03/05/23 – N/A, new pt – left in template)

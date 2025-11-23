@@ -1,0 +1,115 @@
+22/11/25  10:40  
+TH (phone)  RACF r/v  Port Macq region  
+Bulk bill MBS 92032
+
+ID  
+83F Anglo Aus  ex RN  long term pt CKD etc  RACF rm  nurse present briefly
+
+CC  
+Cough
+
+HPC  
+Dry cough ~7/7  worse pm + when supine  
+Nil sputum nil haemoptysis nil SOB @rest nil wheeze nil CP nil pleuritic pain nil fevers/rigors  
+↑fatigue mild only  still mobilising 4WW baseline  PO intake ok  
+Nil sick contacts  nil recent hosp  
+Nasal dryness + noct throat “tickle”  ?aircon irritant  ?new laundry powder  nil rash nil eye sx  
+Nil orthopnoea PND  leg oedema “about same”  nil wt gain noticed  nocturia unchanged (CKD)  
+COVID RAT @RACF 2/7 ago -ve  per staff no COVID/flu outbreak
+
+BG / PMHx  
+CKD 3–4 ?  nephro f/u last ~6/12 per pt (no recent results on file today)  
+Vit D defx long term on supp  last VitD “a while back when at home”  
+?OP  prev DEXA/“bones a bit thin” per pt  nil #  
+HTN HLD  “everything stable”  
+Nil known COPD/asthma  ex-smoker >40yrs (light)
+
+Meds (per pt + quick chart check via RN)  
+Colecalciferol 1000IU mane  
+ACEi/ARB (agent ?  to clarify next visit)  
+Statin nocte  
+LD ASA  
+Other anti-HTN reg  doses stable  
+PRN paracetamol  
+Nil recent abx  nil steroids  nil AEDs  nil rifampicin  
+Allergies  NKDA
+
+SH / supports  
+RACF resident largely indoors  limited sun  goes to courtyard occas if warm  
+Daughter EPOA usually involved Mx not on call today  staff feel cough “annoying but she seems ok”
+
+ROS (targeted)  
+Resp  nil SOB@rest nil chest tightness nil prod sputum nil hx recurrent PNA  
+CV  nil new CP nil palps nil syncope  oedema same as usual  
+Neuro  convo coherent  staff report nil confusion  
+GI/GU unremark  CKD “stable”  nil LUTS
+
+O/E (TH + RN bedside)  
+Obs (RN)  T 36.8  HR 78 reg  BP 134/72  RR 18  SpO2 97% RA  
+Gen  alert orient conversant  intermittent dry cough heard  nil audible SOB on phone  
+Resp (RN)  AE = bilat  nil wheeze nil creps nil focal ↓AE  
+CVS (RN)  HS dual  nil obvious added sounds  mild peripheral oedema baseline  
+Nil acute distress
+
+Ix (today ordered → RACF pathology)  
+UEC eGFR  
+Ca corr PO4  
+PTH  
+25-OH VitD  
+FBC CRP (?occult infectn though low susp)  
+
+(Prev trends not on hand today  last nephro letter ~6/12 ago mentioned CKD stable but no exact eGFR in scanned docs)
+
+Imp / Dx  
+1) Dry cough 1/52 afebrile obs N  chest clear RACF resident  
+→ ?URTI mild vs ?UAW irritation/post-nasal vs environ irritant (aircon/detergent)  
+→ Nil red flags for PNA CCF exac PE COVID/flu currently  
+→ CKD/ACEi cough less likely (long term use no prior issue)  
+
+2) Vit D defx on maint 1000IU daily  elderly RACF + CKD + ?OP → high risk low VitD / bone dz  
+Need updated VitD & mineral bone panel  target VitD ≥50 nmol/L  
+
+3) CKD 3–4 ?  clinically stable by hx  BP ok today  nil vol overload  
+Needs routine labs as above  confirm nephro plan once results back  
+
+Plan / Mx  
+1) Cough  
+Reassure likely mild UAW irrit/viral  non-serious currently  
+Symptomatic only  
+- Encourage PO fluids within renal limits as per care plan  
+- Avoid direct aircon draught if poss  ?humidify room if facility ok  
+- PRN simple linctus (eg glycerol) if on RACF formulary  RN to liaise pharmacy  
+No abx  not indicated  
+No CXR now  if cough >3–4/52 or any red flags → CXR + further w/u  
+Safety net RACF staff  
+→ call GP/after hrs/ED if T>38  ↑SOB  new wheeze  CP  confusion  ↓PO intake  or cough → productive purulent or blood stained  
+
+2) Vit D / bone health (CKD)  
+Continue colecalciferol 1000IU PO daily  
+Bloods as above  esp VitD Ca PO4 PTH UEC/eGFR  
+If VitD <50 (esp <30) → consider ↑dose eg 3000–5000IU/day 6–12/52 with caution given CKD age  ?discuss nephro before big change  
+Avoid megadose regimens  
+Check dietary Ca via RACF dietitian when convenient  
+Encourage brief safe outdoor exposure (mid-morn/late arvo) as tol  
+
+3) CKD  
+No med changes today  partial med chart only this TH  
+Once labs back → review UEC/eGFR trend Ca/PO4/PTH VitD  
+Confirm last nephro r/v date and recs  
+Full med rec + CKD staging next F2F round  
+
+RACF instructions  
+- Obs daily x3–5/7 (T HR BP RR SpO2) or per protocol  
+- Notify GP if any deterioration / red flags as above  
+- Arrange bloods next 1–2 wks when path svc attends  
+
+Deferred (time pressured TH 10–15min)  
+- Full CDM (HTN lipids CKD staging falls risk OP Mx immunisn)  
+- Detailed med rec esp ACEi vs cough ?  to do next F2F RACF round  
+
+F/U  
+RACF GP round ~2/52 or earlier PRN re cough or abn bloods  
+Telehealth sooner if ↑sx  
+Results to be discussed with pt + daughter/EPOA once avail  ?care conf if signif renal bone dz
+
+Note short clinic busy today

@@ -1,0 +1,83 @@
+22/11/2025  
+
+Reason for visit:  
+RACF reveiw – abnormla bloods (low Na, worsening renal fn) in pt on treamtent for urosepsis.  
+
+HPI:  
+74yo male in RACF, known HTN, T2DM, probable CKD. Seen in room after RN faxed path from Sullivan Nicolaides: Na 124 (was 133 four days ago), Cr 245 (baseline ~110–120), eGFR ~20 (prev ~55–60). Urosepsis dx 5 days ago by after hrs GP, now on IV ceftrixone via facillity protocol.  
+
+Pt reports 2–3 days ↑ fatigue, “washed out”, mild nausea, more unsteady on feet. No vomitting, no diarrhoea. No CP, no SOB. ↓ urine vol, darker, over last 1–2 days. No frank confuson but “slower” per wife on phone.  
+
+Meds (per chart):  
+- Perindopril 5mg mane  
+- Furosemide 20mg mane  
+- Metformin 500mg bd  
+- Atorvastatin 20mg nocte  
+- Paracetmol 1g prn (using reg past week)  
+- Ceftriaxone 1g IV daily (day 2, after 3d trimethoprim/sulfamethoxzole)  
+
+Allergies: NKDA  
+
+Examination:  
+Looks tired, in bed.  
+Obs (RACF + my check): T 37.4, HR 96 reg, BP 96/58 sitting (rep 92/54, a bit light headed), RR 18, SpO2 97% RA.  
+Neuro: A&O x3, mild psychomotor slowing, no focal neurology, no asterexis.  
+Chest clear. HS dual, no murmur. JVP not clearly up.  
+Abdo soft, NT, no CVA tendneress.  
+Mild chronic ankle oedema bilat. Mucous membs slightly dry – borderline hypovolaemic vs euvol.  
+
+Recent tests (SN path 22/11, revieiwed today):  
+- Na 124  
+- K 5.2  
+- Cl 89  
+- HCO3 21  
+- Urea 25 ↑  
+- Cr 245 ↑ (x2+ baseline)  
+- eGFR ~20  
+- Glucose 7.8 (fasting)  
+- CRP 86 (down from >150 per RN record)  
+- WCC 11.5 (neuts, down from 15)  
+- LFTs WNL, Alb 33 (sl low)  
+
+Urinalysis (today, MSU): SG 1.020, prot +, blood trace, nitrite +, LE + (ongoing UTI, but clincially improved, afebrile since last night).  
+
+Impression:  
+1) Hyponatraemia (Na 124, falling) – likley hypovolaemic / mixed in setting sepsis, AKI, ACEI + diurtic. Mild sx (weak, unsteady).  
+2) Acute kidney injury on probable CKD3a – KDIGO stage 2–3 (Cr >2x baseline). Likley pre-renal / ATN from sepsis + meds.  
+3) Urosepsis – clincially improving (afebrile, CRP/WCC down) but now c/b AKI + low Na.  
+4) Hypotension – multifactorial (sepsis physio, ACEI, diuretic). Borderline haemodynamically, RACF not safe for ongoing managment.  
+5) Background T2DM, HTN, hyperlip – deprioritised today.  
+
+Plan:  
+Given age, AKI, Na 124, low BP and RACF limits → needs urgent hospital assesment.  
+
+- Cease perindopril now.  
+- Cease furosemide now.  
+- Cease metformin (eGFR ~20, lactic acidosis risk).  
+- Avoid NSAIDs (RN informed).  
+- Continue IV ceftriaxone 1g daily as charted until review in ED (dose to be checked there re renal fn).  
+- Encourage small sips PO while awaiting ambuance, avoid large fluid bolus here due to Na and uncertain vol status.  
+
+Transfer:  
+- Discussed with pt and daugther (EPOA) by phone – both agree to hosp transfer for “kidneys and salts” and closer monitoring.  
+- Spoke to ED reg at Royal [City] Hosp via direct line – handover given: 74yo RACF resident with urosepsis on IV ceftriaxone, new AKI (Cr 245, eGFR 20), Na 124, BP ~90s syst, borderline but stable, no confusion, no seizures. Needs IV fluids, UEC monitoring, renal assesment, possible nephrology.  
+- Ambulance booked as urgent (not code 1).  
+- Printed med chart + latest path + brief transfer summary sent with pt.  
+
+Request for ED/inpatient (not done here):  
+- Repeat UEC, CMP, FBC, CRP, blood cultures if any concern.  
+- Serum/urine osmolality, urine Na to clarify hyponatraemia aetiology.  
+- VBG/ABG if indicated.  
+- Renal tract US to r/o obstruction.  
+- Strict fluid balance, daily weights.  
+- Slow Na correction (≤8–10 mmol/L/24h).  
+- Avoid contrast, other nephrotoxins. Nephro consult if ongoing AKI. Dialyisis only if standard indications.  
+
+Carer input:  
+RN reports ↓ urine output vs baseline and “just not himself, more tired”. Wife on phone says he has been “slower on the phone” last 2 days.  
+
+Billing:  
+RACF visit – bulk billed (DVA Gold card).  
+
+Follow up:  
+Will review hosp discharge summary when avail via HealthLink and arrange RACF post-discharge reveiw 3–5 days after return. RN to call practice if deterioration while waiting amb.

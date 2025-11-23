@@ -1,0 +1,85 @@
+22/11/25  
+
+Here with support worker Jenny (disability enterprise).  
+
+Reason: wants “my COVID and flu needles, I think I’m due again”. Also quick check re swallowing.
+
+HPI / bits of background (mixed in):  
+32 y/o woman, CP + developmental disability, long‑standing dysphagia/aspiration risk, GORD on PPI. In wheelchair, lives in supported accommodation (NDIS, staff manage meds/meals). Poor historian, relies on staff.
+
+Vaccines:  
+- Unsure what she’s had, thinks “the one in the arm last year… or was it the year before?”  
+- Checked EMR/AIR:  
+  - COVID: Pfizer x3, last 18/08/23  
+  - Flu: last 04/04/24  
+- No previous reactions recorded, she recalls only “sore arm”.  
+- No current fever/acute illness per pt + Jenny.
+
+Dysphagia today:  
+- Known oropharyngeal dysphagia, speech path review 2023 – minced & moist + mildly thick fluids, upright 90°, slow, supervised.  
+- Today says “sometimes the food feels a bit stuck here” (points mid sternum). Timing vague (“maybe last week… maybe when we had pizza at work ages ago”).  
+- Jenny: occasional coughing with thin fluids, esp when distracted. No choking needing first aid, no recent ABx, no known recent chest infections.  
+- No SOB, chest pain, wheeze today.  
+- Group home weights reportedly stable (no numbers with them). She says eats “okay except when it’s really chewy meat”.  
+- She thinks maybe due to lying down on couch after dinner, and “juice at work is too cold”.  
+
+PMHx (relevant only):  
+- Cerebral palsy, ambulant with assistance but uses wheelchair here.  
+- Developmental/intellectual disability.  
+- Chronic dysphagia with aspiration risk.  
+- GORD – on esomeprazole 20 mg mane.  
+- No known drug allergies.
+
+Meds (as far as we know – to be confirmed):  
+- Esomeprazole 20 mg mane.  
+- Baclofen 10 mg bd.  
+- PRN paracetamol.  
+- Thickening agent for fluids (variable adherence – Jenny unsure).  
+- OCP stopped 2024.  
+Pt cannot name meds/doses.
+
+Exam – brief:  
+Gen: Slim, alert, pleasant, chatty but vague. No resp distress.  
+Obs: BP 112/68, HR 82, RR 16, SpO₂ 98% RA, T 36.7.  
+Chest: Clear, good AE, no added sounds. No cough during consult.  
+CVS: HS dual, no obvious murmur.  
+Oropharynx: mild drooling, no thrush/lesions seen.  
+Neuro/MSK: baseline CP with spasticity, posture slumped in chair, needs prompts to sit upright.  
+Weight not done today (wheelchair, treatment room busy). Last 54 kg @ 160 cm ~6/12 ago (BMI ~21).
+
+Assessment (rough):  
+1) Vaccination – due for 2025 flu, eligible for further COVID booster (chronic neuro disability). No contraindications today.  
+2) Chronic dysphagia in CP/dev disability – ongoing aspiration risk; symptoms broadly similar, ?occasional oesophageal component (“stuck” mid‑sternum). No current evidence of pneumonia or major weight loss but monitoring patchy.  
+3) GORD – likely contributing to discomfort, appears mostly controlled on PPI but history unreliable.
+
+Plan:  
+Vaccines:  
+- Gave today:  
+  - Influenza vaccine 2025 season IM L deltoid  
+  - COVID‑19 monovalent XBB.1.5 booster IM R deltoid (ATAGI – disability, chronic neuro).  
+- Observed 15 mins, no immediate reaction.  
+- Entered in AIR.  
+- Very brief post‑vax advice to pt + Jenny re sore arm, fever, when to seek urgent care (breathing issues, chest pain, anaphylaxis etc).
+
+Dysphagia / aspiration:  
+- Re‑emphasised existing speech path plan: minced & moist, mildly thickened fluids, upright during and ≥30 mins after meals, small mouthfuls, slow, supervised.  
+- Advised avoid thin/unthickened fluids unless cleared by speech path – Jenny to pass on to house.  
+- Referral: repeat speech pathology review (NDIS if possible) – reassess swallow, consider videofluoro, confirm IDDSI level and strategies.  
+- Asked staff to bring recent weight chart next visit; watch for ↑ coughing with meals, choking, recurrent chest infections, fevers, weight loss, ↓ intake.  
+- If new resp sx or weight loss → consider CXR + bloods (FBC, U&E, LFT, CRP, iron, B12, folate, albumin).
+
+GORD / meds:  
+- Continue esomeprazole 20 mg mane for now.  
+- Asked Jenny to get full current med list from group home/pharmacy for next review – need med reconciliation, check for any sedatives/anticholinergics or difficult‑to‑swallow tablets.  
+- She briefly mentioned “tummy hurts a bit at night” – likely GORD, but no time today for full work‑up; will review if persists.
+
+Carer input:  
+- Jenny confirms no recent hospital/ED visits (last known ED 2022 for gastro in EMR).  
+- She will update house manager and mealtime care plan with today’s advice and referrals.
+
+Follow‑up:  
+- Review with GP in ~3/12 or earlier if choking, recurrent cough, fever, chest infection, or noticeable weight change/reduced intake.  
+- Book longer appt once speech path report + full med list available – consider case conference with group home if ongoing issues.
+
+[Addendum 22/11/25 16:10 – Dr ___]  
+Checked AIR again – COVID and flu both correctly uploaded, no duplicate entries. No further action today.

@@ -1,0 +1,88 @@
+22/11/25 10:15 – Home visit – Brisbane
+
+Reason: pt asked for home visit to “go through all the blood tests and scans properly, the calcium and the vitamin thing”.
+
+79F, lives alone, known primary hyperparathyroidism, osteoporosis, Vit D deficiency, HTN, HLD.
+
+Very tangential historian, long stories re neighbour, Google etc, needed repeated redirection. Main concern = meaning of recent bloods + fear of “too much calcium hardening arteries / kidney stones from vitamin D”.
+
+Path results (S&N, done earlier this month – copied from last review, checked today):
+- Corr Ca 2.82 mmol/L (prev 2.88)
+- PTH 15 pmol/L (↑, similar to prior)
+- eGFR 64 mL/min (stable), Cr 78
+- Phosphate low–normal
+- 25-OH Vit D 44 nmol/L (prev 28)
+- ALP mildly ↑
+
+Known hx:
+- Primary hyperparathyroidism x ~3 yrs, likely single adenoma. Endocrinology at tertiary centre, last seen ~6/12 ago. Surgery discussed previously – pt strongly reluctant, endo happy with conservative mx while Ca only mildly ↑, kidneys ok, no stones, largely asx.
+- Osteoporosis (DEXA ~18/12 ago: LS ~–2.8, hip ~–2.6). On alendronate weekly + Vit D. No Ca tabs.
+- Vit D deficiency – on colecalciferol 1000 IU daily.
+- No known CKD, no nephrolithiasis hx.
+
+Today – symptoms:
+Denies classic hyperCa sx: no polyuria, no polydipsia, bowels ok, no N/V, no acute confusion (daughter also apparently not concerned per phone last week). Longstanding mild fatigue only. No flank pain/haematuria. Chronic low back ache unchanged.
+
+Meds (checked Webster in kitchen):
+- Alendronate 70 mg weekly (Sat)
+- Colecalciferol 1000 IU daily
+- Perindopril 5 mg mane
+- Atorvastatin 20 mg nocte
+- Paracetamol 1 g QID PRN
+No Ca supplements (stopped ~18/12 ago). No OTC/herbals currently.
+
+Obs at home:
+BP 136/72, HR 76 reg, RR 16, SpO2 97% RA, afebrile. Looks well, hydrated, ambulates slowly with 4WW.
+
+Brief exam only (time):
+CVS/resp unremarkable, abdo soft NT, no CVA tenderness. No focal bone tenderness. Gait slow but steady with 4WW.
+
+Assessment (scattered):
+
+1) Primary hyperparathyroidism with chronic mild hypercalcaemia – stable  
+Ca still only mildly ↑ and slightly improved vs last. PTH still ↑ as expected. Renal function preserved. No sx of severe hyperCa. Ongoing conservative mx appropriate per endo.
+
+2) Osteoporosis – high fracture risk but clinically stable  
+On bisphosphonate + Vit D, no recent falls or fractures. Some home falls risks (loose rugs).
+
+3) Vit D deficiency – improving, still suboptimal  
+44 nmol/L on 1000 IU daily. Need modest improvement only, avoid overtreatment given hyperPTH.
+
+4) Communication style – tangential, but intact cognition once redirected. Impacts time/coverage of issues.
+
+Plan:
+
+Hyperparathyroidism / Ca:
+- Continue current conservative approach.
+- Reassured re: current Ca level, explained no urgent concern today.
+- Avoid Ca supplements; dietary Ca in moderation ok.
+- Encourage adequate fluids (no strict target documented).
+- Tests ordered today via QML: UEC, CMP (incl Ca/PO4), PTH, 25-OH Vit D in 6/12 (or earlier if sx). Put reminder in system.
+- Will forward summary + latest results to endocrinology before next review (~6/12).
+
+Osteoporosis:
+- Continue alendronate 70 mg weekly. Reiterated admin (upright 30 min, full glass water, empty stomach) as she reports occasional reflux when lies back down.
+- Continue colecalciferol 1000 IU daily.
+- DEXA: due around 2-year mark (another 6–12/12) – to arrange at clinic visit rather than from home (transport/logistics). Note in recall: “DEXA ~late 2026”.
+- Falls/home safety briefly: advised removal/taping of loose hallway rugs; she will ask home care worker.
+
+Vit D:
+- Keep colecalciferol 1000 IU daily only. No high-dose loading.
+- Aim Vit D ~50–80 nmol/L – recheck with 6/12 bloods.
+- Reassured that at this dose + current Ca, kidney stone risk low, but we’re monitoring.
+
+Other chronic issues:
+- HTN, lipids appear stable today, scripts ok. Comprehensive chronic disease review (BP trend, lipids, vaccines, mood/cognition) deferred – asked to book longer appt (home or clinic) in 2–3/12.
+
+Follow-up:
+- GP review 2–3/12 (home vs clinic depending on mobility) for broader chronic care + check progress with home safety.
+- Repeat bloods 6/12 as above unless new sx.
+- Urgent review/ED if: new confusion, severe constipation or vomiting, can’t keep fluids down, new severe bone pain or fracture, marked ↑ thirst/urination, flank pain/haematuria.
+
+Pt understanding:
+She was able to summarise back (in her own way): “keep sipping water, don’t go mad on the cheese, stay on the little vitamin D, ring if I start weeing heaps or get really muddled”. Left brief written summary + copy of key results for her/daughter.
+
+11:05 – left house.
+
+[Added 16:30 by Dr K. Smith – quick review of note]  
+Realised last DEXA date not in system – checked older scanned report: DEXA 04/05/24 (LS –2.8, TH –2.6). So next DEXA due ~05/26 not 2026/27 – corrected recall to “Review DEXA around 05/26”. Otherwise plan unchanged.

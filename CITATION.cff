@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+authors:
+  - family-names: Songsiritat
+    given-names: Piyawoot
+    email: piyawoot.song@gmail.com
+    affiliation: "Independent Researcher"
+title: "SynGP500: Synthetic Australian General Practice Medical Notes"
+version: 0.9
+date-released: 2025-11-23
+url: "https://github.com/pisong314/syngp500"
+repository-code: "https://github.com/pisong314/syngp500"
+keywords:
+  - synthetic data
+  - medical notes
+  - clinical NLP
+  - general practice
+  - Australian healthcare
+  - machine learning
+  - natural language processing
+  - clinical documentation
+license: CC-BY-NC-SA-4.0
+abstract: >
+  SynGP500 is a collection of 500 synthetic Australian general practice
+  medical notes created to address the critical shortage of publicly
+  available clinical text data for machine learning and natural language
+  processing research. These notes were generated using medical knowledge
+  and technology to simulate realistic GP documentation while ensuring
+  patient privacy is inherently protected. The dataset features diverse
+  clinician styles, various practice settings, and conditions aligned with
+  RACGP curriculum and BEACH study statistics.

@@ -1,0 +1,139 @@
+22/11/25  
+Telehealth video r/v major city hub → remote community  
+
+Pt  
+72yo Aboriginal man remote community retired stockman  
+
+Reason for consult  
+- LBP flare  
+- Ongoing issues re K+ CKD T2DM HHS hx  
+- Multiple other concerns on pt "shopping list" not all addressed today  
+
+HPI  
+
+#1 LBP  
+- Longstanding mech LBP chronic intermittent  
+- Worsened last 5–6/7 after helping grandkids with wood "mightve twisted wrong"  
+- Dull ache central low back ± into both buttocks nil clear leg rad  
+- Pain ~5/10 baseline up to 7/10 with bending twisting worse evenings eased curled up  
+- Nil trauma fall  
+- Red flags screened → nil saddle anaesthesia nil leg weakness nil foot drop nil bladder bowel incont nil fever nil night sweats nil wt loss nil recent infection nil IVDU nil ca hx  
+- Using PCM 1g bd "now and then" partial relief avoids ibuprofen as told kidneys "arent the best"  
+- Mobilises short distances at home uses single point stick outdoors more stiff AM  
+
+#2 Hyperkalaemia risk CKD  
+- Known hyperK in setting T2DM CKD3 ?HHS admission ~3/12 ago tertiary hosp  
+- Prev K+ peak 6.3 settled with insulin dextrose fluids ACEi held per discharge sum  
+- eGFR ~45 at discharge ?CKD3  
+- Current meds per MyHR + pt  
+  - Metformin 500mg mane  
+  - Gliclazide MR 30mg mane  
+  - Ramipril 5mg mane (restarted low dose post HHS)  
+  - Atorvastatin 40mg nocte  
+  - Aspirin 100mg mane  
+  - PCM 500–1000mg prn  
+- Local clinic nurse checked "sugars and salts" ~10/7 ago told "potassium abit up again" no values no ECG since last admit  
+- Today feels "abit sluggish" nil palps nil CP nil presyncope nil frank muscle weakness "just old man weakness" nil SOB  
+- Diet ↑ fresh fruit since admit bananas most mornings using "low salt" substitute from town likely KCl based  
+- Nil NSAIDs nil herbal meds  
+
+#3 T2DM with prior HHS  
+- HHS ~3/12 ago now on simplified oral regimen as above  
+- BSL checked by community nurse 2–3x/week often 14–15 sometimes 8–9 no own glucometer  
+- Currently nil polyuria nil polydipsia nil confusion nil visual blurring  
+- No reliable wt but clothes similar  
+
+Other issues raised (not fully addressed today)  
+- Chronic R shoulder pain "when I reach up"  
+- Thickened toenails "hard to cut"  
+- Intermittent itchy rash shins  
+- Hearing concerns  
+Explained time limits today prioritised back pain + K+/DM safety asked to book longer f/u via clinic pt mildly frustrated but agreeable  
+
+PMHx  
+- T2DM c/b prior HHS  
+- ?CKD stage 3 last known eGFR ~45  
+- HTN  
+- Hyperlipidaemia  
+- Chronic mech LBP degenerative nil spinal surg  
+- Past smoker rollies quit ~10yrs ago  
+- Nil known IHD CVA arrhythmia adrenal disease  
+
+Allergies  
+- NKDA  
+
+SHx brief  
+- Lives remote community with extended family grandkids assist shopping transport  
+- Limited access fresh food ↑ tinned processed  
+- Prefers telehealth travel to city difficult financially  
+
+Telehealth exam (limited)  
+- Gen sitting in chair at home appears stated age mildly overweight speaks full sentences nil resp distress colour ok  
+- Able to stand turn slowly on request grimace with lumbar flex ext but independent  
+- Gait short video with stick slightly stooped slow steady nil obvious foot drop  
+- Gross neuro LL: moves both legs against gravity heel toe stand with chair support nil obvious focal weakness pt says sensation normal  
+- No vitals available today from nurse  
+
+Assessment  
+1 Mechanical LBP acute on chronic likely muscular/degenerative strain on background OA type changes nil red flags on hx telehealth  
+2 Recurrent hyperkalaemia risk in setting CKD3 + ACEi + ↑K+ intake (bananas daily KCl "low salt") + recent severe hyperK 2° HHS currently asymptomatic from cardiac neuro point of view but no recent bloods ECG  
+3 T2DM with prior HHS suboptimal control by hx but nil current HHS features  
+4 Multiple other chronic issues shoulder nails rash hearing deferred to longer appt  
+
+Plan  
+
+#1 LBP  
+- Education re likely mech strain avoid prolonged bed rest maintain gentle activity  
+- Analgesia  
+  - Continue PCM up to 1g q6h prn max 4g/24h check not duplicating products  
+  - Avoid NSAIDs (ibuprofen naproxen diclofenac) given CKD hyperK risk  
+- Non pharm  
+  - Gentle stretches short walks as tolerated heat pack  
+  - Sleep posture advice pillow under knees supine or between knees side lying consider mattress review when feasible  
+- Safety net  
+  - Attend local clinic / ED if new leg weakness numbness saddle anaesthesia bladder bowel change severe night pain fever trauma fall etc  
+
+#2 Hyperkalaemia / CKD / HTN  
+- Treat as urgent but non emergency given nil sx  
+- Request to remote clinic nurses today via secure email fax  
+  - Bloods in next 24–48h  
+    - U&E incl K+ creat eGFR  
+    - HCO3  
+    - FBC LFTs  
+    - Fasting glucose HbA1c lipids  
+  - If K+ ≥5.5 repeat urgently + ECG in clinic if available  
+  - If K+ ≥6.0 or ECG changes or sx (CP palps severe weakness presyncope collapse) arrange immediate transfer to nearest hosp per protocol  
+- Med changes  
+  - Cease ramipril 5mg mane for now until K+ and renal fxn clarified discussed rationale prev K+ 6.3 pt agreed  
+  - Avoid OTC NSAIDs potassium supplements  
+- Diet  
+  - Stop "low salt" substitute immediately  
+  - Advise ↓ high K+ foods portion size bananas oranges big serves tomato potato certain tinned soups until dietitian / AHW input  
+  - Ask clinic to arrange AHW / dietitian input re CKD + DM low K+ diet when available  
+- Safety net  
+  - Urgent r/v if CP palps sudden marked weakness feeling faint collapse etc attend clinic / ED not wait for telehealth  
+
+#3 T2DM / HHS risk  
+- Continue for now  
+  - Metformin 500mg mane  
+  - Gliclazide MR 30mg mane  
+- HbA1c fasting glucose ordered as above to reassess control  
+- Ask clinic nurse to continue BSL checks at least twice weekly discuss access to subsidised glucometer strips  
+- Reinforced basic sick day advice fluids early help if very high sugars confusion unable to drink  
+
+#4 Other issues deferred  
+- Documented R shoulder pain toenails rash hearing concerns for next longer appt  
+- Ask clinic to book 30min GP r/v (telehealth or visiting GP) to go through list MSK shoulder exam podiatry/foot care skin check hearing screen ± audiology ref  
+
+Coordination  
+- Message sent to remote clinic today with summary of plan need for urgent U&E esp K+ creat eGFR within 24–48h request in clinic BP HR wt and ECG if K+ elevated or sx  
+- Ask nurses to assist with BSL monitoring diet education booking longer r/v  
+
+F/U  
+- Telehealth r/v 5–7/7 (or earlier if bloods back) to check K+ renal fxn HbA1c BP and reconsider ACEi vs alternative antihypertensive depending on results  
+
+Pt aware to attend ED / local clinic if ↑ pain fever SOB CP confusion or any of the above red flag sx  
+
+[Added 16:30 by Dr L Brown – pathology results not yet received clinic reports pt booked for bloods tomorrow AM will check MyHR next wk]  
+
+Reviewed and co signed by Dr J Thompson (supervising GP)

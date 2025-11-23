@@ -1,0 +1,122 @@
+22/11/2025  
+
+Reason for visit  
+C/O painful blisters rash all over skin  
+
+ID  
+34yo man hospital orderly known HIV
+
+HPC  
+Pt poor historian  
+Says rash started as "little clear blisters" on face neck about 1–2/52 ago maybe longer then "spread everywhere"  
+Now multiple very sore crusted areas face neck upper chest some arms trunk  
+Pain > itch "stings when I move or touch it"  
+Thinks had "cold sore or something" on lip beforehand gets this when run down  
+Felt "hot and shivery" a few days ago no documented temp feels tired flat  
+No obvious trigger pt wonders re new washing powder aircon@work  
+
+ROS (targeted)  
+Skin hx atopic dermatitis usually flexural says eczema "real bad" last month using some cream from chemist unsure name  
+Oral mild discomfort opening mouth wide eating ok nil dysphagia to fluids  
+Eyes nil visual change nil pain nil discharge  
+Neuro nil headache confusion seizures neck stiffness  
+Resp nil SOB cough  
+GU ?past genital herpes "had something down there once they said it was herpes I think" nil current genital lesions  
+
+PMHx  
+HIV dx several yrs ago per EMR on ART previously adherence poor last spec r/v >12/12  
+Atopic dermatitis chronic  
+Recurrent HSV likely HSV1 ± HSV2  
+Immunocompromised 2° uncontrolled HIV  
+Drug allergies nil known  
+
+Meds  
+Not currently taking ART stopped "months ago"  
+Last EMR script tenofovir/emtricitabine + dolutegravir  
+Topical creams OTC for eczema unknown  
+PRN ibuprofen paracetamol  
+
+SHx  
+Works as hospital orderly in regional hospital  
+Lives remote community with family transport to town difficult  
+Smokes ~5–10 cig/day alcohol few beers weekends nil IDU  
+Sex active condoms inconsistent  
+
+O/E  
+Vitals  
+T 37.8 HR 96 BP 118/74 RR 18 SpO₂ 99% RA  
+
+Gen  
+Looks tired mildly unwell not toxic alert orientated answers but details variable  
+
+Skin  
+Background dry eczematous esp neck AC fossae hands  
+Superimposed widespread monomorphic vesicles punched out erosions with crusting erythematous base over face neck upper chest upper back prox arms some coalescing  
+Very tender to light touch pt winces  
+Few small erosions peri oral nil obvious large intraoral ulcers (pt reluctant to open wide)  
+Nil classic honey coloured crust nil frank pus but some lesions w mild surrounding erythema ?bact superinfection  
+Nil vesicles fingertips nil genital exam today  
+
+HEENT brief  
+Oral mucosa mild erythema nil widespread ulceration nil thrush  
+Eyes clear nil conjunctival injection nil periocular vesicles  
+
+Neuro  
+Non focal speech normal nil meningism  
+
+CVS resp abdo  
+Brief exam unremarkable  
+
+Impression / Dx  
+1 Eczema herpeticum (widespread HSV infection on background atopic dermatitis) in immunocompromised adult HIV off ART  
+   – Acute widespread painful vesicular crusted eruption on eczematous skin systemic malaise HSV hx  
+   – High risk complications encephalitis systemic spread bact superinfection  
+2 Recurrent HSV likely HSV1 ± multifocal cutaneous involvement  
+3 HIV infection likely poorly controlled (off ART unknown VL/CD4) needs urgent re engagement w HIV care  
+4 Atopic dermatitis flare underlying will address once acute infection stabilised  
+
+Plan  
+Given extent of lesions immunocompromised status not safe for community mgmt  
+
+– Discussed dx in simple terms "herpes infection has spread over your eczema because your immune system is a bit weak need hospital for strong antiviral through a drip"  
+Pt asked if cream alone enough advised not appropriate ↑risk serious infection given HIV  
+
+Investigations  
+– HSV PCR swab taken from fresh vesicle neck for confirmation sent to QML  
+– Bact swab M/C/S from crusted erosion r/o secondary infection  
+– Basic bloods to be done in ED (discussed w ED reg)  
+  FBC UEC LFT CRP HIV VL + CD4 blood cultures if febrile STI screen incl syphilis GC/CT as per hosp protocol  
+Results pending  
+
+Acute mgmt / disposition  
+– Phoned regional hospital ED discussed w ED reg accepted for urgent transfer dx suspected eczema herpeticum in HIV+ pt off ART high risk  
+– Ambulance transfer arranged due to pain extent rash potential deterioration pt agreeable  
+– ED handover rec  
+   • Start IV aciclovir dose per wt and renal fn  
+   • Analgesia regular paracetamol consider opioid if pain severe  
+   • Consider IV fluclox/cefazolin if clinical concern bact superinfection after their r/v  
+   • Contact precautions given active HSV lesions and pt works in hospital  
+
+Topical / skin care (mostly for ward)  
+– Avoid topical steroids over active herpetic lesions until ID/derm happy  
+– Gentle emollients only to uninvolved dry skin  
+
+Counselling / advice  
+– Advised avoid close skin to skin contact esp babies pregnant women immunocompromised until cleared  
+– Must not attend work until lesions crusted/healed and cleared by occ health  
+– Explained washing powder aircon unlikely cause though irritants can flare eczema → ↑risk infections like this  
+
+HIV / chronic disease  
+– Need to restart ART once stable to be coordinated by hospital ID team  
+– Detailed ART hx sexual health counselling vax status to be done later when not acutely unwell  
+
+Admin  
+– Referral letter sent via secure messaging to ED summarising hx exam working dx swabs taken  
+– Time spent ~25 mins extended consult incl coordination of transfer phone calls  
+
+Safety net  
+– If any sudden worsening en route eg fever >38.5 severe SOB chest pain confusion seizure to alert ambulance staff / ED urgently  
+– GP F/U 1–2/52 post discharge to r/v hosp summary skin status need ongoing HSV suppression (eg oral aciclovir/valaciclovir) optimise eczema mgmt coordinate ongoing HIV care w regional spec telehealth etc  
+
+Review  
+F/U 1–2/52 after hospital discharge or earlier PRN

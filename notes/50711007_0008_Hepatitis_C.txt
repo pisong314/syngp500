@@ -1,0 +1,72 @@
+22/11/25 Tel consult – pt rang re “that hepatitis test that came back positive – do I need tablets or not, I’ve only got 10 minutes”
+
+54M Known HIV+, chronic HBV, T2DM, obese. Lives regional.
+
+HPI  
+New HCV Ab +ve on routine CDM blds 2/52 ago → RNA done → +ve 1.2mil IU/mL in EMR  
+Today feels “generally alright, just tired all the time” thinks DM/Coke.  
+No jaundice, no abdo pain, no N/V, no fevers, no confusion, no PR bleed/melaena, no leg swelling.  
+Urine “a bit darker” thinks dehydrated. No RUQ pain, no itch.  
+Very time-pressured, keeps asking “can you just give me the Hep C tablets now and sort the rest later”
+
+PMHx (relevant)  
+HIV – on DTG/ABC/3TC OD via ID clinic, last VL undetectable, CD4 ~580 (6/12 ago)  
+Chronic HBV – HBsAg +ve, HBeAg -ve, low HBV DNA, on tenofovir via ART  
+T2DM – metformin 1g BD, gliclazide MR 60mg mane, HbA1c 8.4%  
+Alcohol wkend beers ~8–10  
+
+Recent ix (EMR)  
+LFTs: ALT 98↑ AST 76↑ ALP 130↑ GGT 210↑ Bili 11 N Alb 39 N  
+HCV Ab +ve  
+HCV RNA PCR detected 1.2 x10^6 IU/mL (no genotype yet)  
+HBV: HBsAg +ve, HBeAg -ve, HBV DNA low (last yr)  
+HIV: VL undetectable, CD4 ok  
+Renal: eGFR >90  
+
+O/E  
+Phone only. No exam. Last in-person 6/12 ago BP 138/86 HR 84 BMI 32  
+
+Impression  
+1) Chronic HCV infection – new dx, likely longstanding, compensated, high risk liver disease (HCV + HBV + HIV + DM/obesity)
+2) HIV – stable on current ART (tenofovir-containing)  
+3) Chronic HBV – on tenofovir, low VL, reactivation risk with DAA but partially covered  
+4) T2DM – suboptimal control, NAFLD risk  
+
+Plan – kept v brief (pt rushing)  
+HCV  
+- Explained HCV curable with 8–12/52 oral DAAs but need fibrosis staging + check drug interactions + HBV status before PBS scripts  
+- Advised cannot “just script today” given HIV/HBV co-inf + need to know cirrhosis status per guidelines  
+- Pt eventually agrees “Alright, but make it quick next time”  
+
+Ix ordered (e-path)  
+- HCV RNA quant + genotype  
+- LFTs, INR, FBC, U&E, fasting lipids, HbA1c  
+- HBV panel: HBsAg, HBeAg, HBV DNA  
+- Non-invasive fibrosis → will calc APRI/FIB-4 from blds  
+- FibroScan booked local service (faxed form)  
+- Liver US incl HCC screen (multiple RFs, unknown fibrosis)  
+
+Referrals  
+- e-referral to local liver/ID clinic (tertiary) for shared care HCV tx in HIV/HBV co-inf. Marked routine but mentioned ↑risk factors  
+- Copy of note/results to HIV clinic re planned HCV tx + HBV monitoring  
+
+Meds  
+- No changes today (ART and DM meds unchanged)  
+- Will choose DAA once genotype + fibrosis + specialist advice re interactions. Likely glecaprevir/pibrentasvir vs sofosbuvir/velpatasvir (PBS authority at that time)  
+
+Counsel (very brief)  
+- Reinfection possible, Ab stays +ve even after cure  
+- Advised condoms with current male partner, recommend partner testing HCV/HBV/HIV via GP/sexual health  
+- No current IVDU per pt. Advised no sharing needles/razors etc  
+- Advised ↓ alcohol for liver, esp during tx  
+
+Follow-up / safety net  
+- F2F appt 2/52 to review blds, FibroScan/US if back + any specialist advice (reception to find morning slot)  
+- ED/urgent review if jaundice, confusion, vomiting blood, black stools, severe abdo pain, ↑abdo girth, fevers/very unwell  
+- Bring full med list incl OTC/herbals to next F2F  
+
+DM etc  
+- Briefly mentioned better sugar/weight helps liver. Pt: “Can we do the diabetes another time, I really gotta go” → defer full DM review, vaccines, ETOH assessment, MH/social to later CDM visit  
+
+Billing  
+- Tel consult ~12 mins, level B, bulk billed via Medicare

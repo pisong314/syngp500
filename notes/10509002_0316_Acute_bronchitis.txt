@@ -1,0 +1,75 @@
+22/11/25 08:55  
+
+34F teacher, non-smoker. Known health anxiety.  
+
+CC: “vax update” + cough  
+
+HPI  
+- 5–6/7 cough post-URTI  
+- Dry → mildly productive yellow sputum  
+- Chest tight/tender “from coughing”  
+- Intermittent nocturnal wheeze, mild DOE uphill  
+- No pleuritic pain, no haemoptysis, no wt loss, no rigors, no documented fever  
+- Concerned re ?pneumonia / ?lung Ca, requesting CXR/bloods  
+- Thinks bleach / dusty air-con may have triggered  
+
+Vax  
+- Wants “school shots” – asks re dTpa, flu, “pneumonia one”, COVID  
+- No records. dTpa >10 yrs by recall, missed this yr’s flu, last COVID ~2 yrs (?)  
+
+PMHx: nil asthma/COPD/cardiac. No reg meds. NKDA. No recent travel, no known COVID/pertussis contacts.  
+
+Obs 09:00  
+- BP 112/70  
+- HR 84 reg  
+- RR 16  
+- Temp 36.9°C  
+- SpO₂ 99% RA  
+- BMI ~24 (est)  
+
+Ex  
+- Gen: Well, anxious, speaking full sentences, no ↑WOB  
+- ENT: Mild nasal congestion, mild pharyngeal erythema, no exudate  
+- Chest: CW tenderness sternally on palp/cough. Exp wheeze diffuse, coarse insp crackles clearing w cough. No focal creps, no bronchial BS. Good AE bilat  
+- CVS: HS dual, no murmur, no oedema  
+
+Impression  
+1) Acute bronchitis post-URTI (?viral LRTI) – no clinical features of PNA/HF/pertussis  
+2) Health anxiety – reassurance seeking, heavy “Dr Google” use  
+3) Vax status unclear – non-urgent, defer until current resp illness settled  
+?CXR if sx >3/52 or red flags  
+
+Ix  
+- No bloods/CXR today – low yield, obs/exam reassuring. Explained.  
+- No RAT/PCR – >5/7 sx, mild, no high-risk contacts  
+
+Plan 09:12  
+Acute bronchitis  
+- Dx + natural hx explained (cough up to 3/52, sometimes 8/52)  
+- No ABx / steroids / SABA / OTC combo meds – not indicated uncomplicated acute bronchitis  
+- Analgesia:  
+  - Paracetamol 500–1000 mg PO q4–6h PRN (max 4 g/24h)  
+  - Ibuprofen 200–400 mg PO TDS PRN with food if needed, short term  
+- General: fluids, avoid irritant cleaning products/smoke, ok to use steam with care  
+- Safety-net: ED/urgent review if ↑SOB at rest, pleuritic CP, fever >38° >48h, rigors, confusion, haemoptysis, or generally much worse. RTC if no improvement 7–10/7 or cough >3/52 → consider CXR / chronic cough w/u  
+
+Vax  
+- Defer non-urgent vax until cough settled (~1–2/52)  
+- Plan next visit:  
+  - Flu vax (missed this season)  
+  - dTpa booster (likely >10 yrs)  
+  - Check COVID booster need per ATAGI once AIR/MyGov record available  
+  - Pneumococcal not indicated at 34F otherwise well – discussed briefly  
+- Asked to bring AIR printout/MyGov record next appt  
+- Book nurse/GP vax appt 1–2/52 once improved  
+
+Health anxiety  
+- Validated concern, advised reducing online searching  
+- Structured reassurance given re low risk Ca/PNA today, clear follow-up plan  
+- Offered longer appt later if ongoing health worry → consider CBT/psychology referral; pt prefers to “see how cough goes first”  
+
+F/U  
+- RN/GP review 1–2/52: cough reassess + vax update  
+- Earlier review if red flags / deterioration  
+
+Time: 15 min std consult (acute bronchitis + vax discussion; MH/vax planning deferred to longer review).

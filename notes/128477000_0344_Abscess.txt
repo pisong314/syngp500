@@ -1,0 +1,114 @@
+22/11/25   1015  
+Telehealth video consult  
+GP in Brisbane  pt in remote AMS clinic room AHW present  
+
+Reason  
+F/U lung lesion ?abscess on recent CT post hosp  
+
+ID  
+54yo Aboriginal woman community health worker  
+
+Subjective / HPI  
+Recent admit regional hosp 10/7 for LLL pneumonia with cavitating lesion on CT  
+Dx there as probable lung abscess  
+Had IV pip/tazo then oral Augmentin Duo Forte on d/c  
+
+Today  
+Says feels "mostly alright now just abit chesty"  
+Cough still productive esp am yellow sputum nil haemoptysis since d/c  
+Mild L lower chest twinge only on big breath or hard cough nil sig pleuritic pain  
+SOB only if walks fast to bus can do light housework now  
+Nil current fevers or rigors mild fatigue ↓appetite improving est wt ↓2–3kg over ~4/52  
+Nil night sweats nil calf pain/swelling  
+
+Pt wonders if dusty aircon @work or lying down after big feed might have contributed  
+
+Meds (per pt + MyHR)  
+Augmentin Duo Forte 875/125 BD currently day 7/10  
+Prednisolone 10mg mane long term for polymyalgia type condition rheum r/v booked next mth  
+Pantoprazole 40mg mane  
+Paracetamol 1g PRN up to QID using 1–2/d  
+Nil reg inhalers  NKDA  
+
+PMHx  
+Chronic steroid use immune compromise prev shingles  
+?borderline BSLs in past nil formal DM dx  
+GORD  
+
+Social  
+Lives remote with extended family cares for grandkids  
+Non smoker occasional ETOH  
+Transport to imaging difficult relies on community / family  
+
+Carer / AHW input  
+AHW says family a bit worried she "doesnt like to say when shes crook" tends to push on with work  
+
+Telehealth exam  
+Gen alert speaking full sentences looks slightly tired not toxic  
+Colour ok nil obvious cyanosis  
+Resp RR 18 on obs from clinic occasional wet cough on call nil ↑WOB  
+CVS appears comfortable  
+Gait walked a few steps in room steady nil obvious SOB  
+Vitals (clinic)  
+BP 126/78 HR 84 reg Temp 36.8 SpO₂ 96% RA  
+
+Ix reviewed (MyHR)  
+CT chest 10/7  
+LLL cavitating lesion ~3.5cm with air fluid level surrounding consolidation c/w lung abscess post pneumonia  
+Nil clear mass nil mediastinal LAD nil empyema  
+Rec rpt imaging 4–6/52 to ensure resolution / exclude underlying malignancy  
+CXR prior LLL consolidation ?cavity  
+Bloods in hosp WCC 15→9.8 CRP 180→45 U&E LFTs essentially N blood cultures x2 NG  
+
+Assessment  
+1 Lung abscess LLL post pneumonia improving clinically on oral abx vitals stable O2 sats N  high risk due to chronic steroids  malignancy less likely given acute course + response but cannot fully exclude until rpt CT  
+2 Immune compromise 2° long term pred  ↑risk complicated infection  
+3 GORD  poss aspiration risk esp lying flat after meals currently on PPI  
+4 Access / remote context  will need support for imaging transport telehealth f/u  
+
+Plan  
+1 Lung abscess  
+- Complete current 10/7 Augmentin course as per hosp  
+- Extend oral abx due to abscess + steroids  
+  → new script Augmentin Duo Forte 875/125 BD further 4/52 PBS  
+- Rpt CT chest with contrast in ~4–6/52 request sent to nearest radiology via clinic fax  AHW to assist booking + transport  
+- If rpt CT shows persistent cavity or ?underlying lesion → resp ref public clinic ± bronchoscopy  
+
+Safety net  
+Advised urgent ED / 000 if  
+fever or rigors recur  
+↑SOB esp with simple tasks or cant speak full sentences  
+worsening or sharp pleuritic chest pain  
+coughing up blood  
+feeling much more unwell confused or very weak  
+Reinforced she is not "a bother" given steroids low threshold to present family encouraged to bring her in early  
+
+2 Immune compromise / steroids  
+- Continue pred 10mg mane as per rheum plan nil change today  
+- Reinforced infection risk early r/v if any deterioration  
+
+3 GORD / aspiration  
+- Continue pantoprazole 40mg mane  
+- Simple advice avoid lying flat straight after big meals head of bed slightly elevated  
+
+4 Monitoring / tests  
+- Path form to local clinic for 1/7  
+  FBC CRP U&E LFTs while on prolonged abx  
+- Nurse / AHW to recheck BP HR SpO₂ at same visit  
+
+5 Preventive / chronic issues (deferred today time)  
+- To address next longer appt  
+  long term steroid mgmt bone health DEXA  
+  vaccines pneumo flu COVID booster  
+  DM screen given borderline BSL hx  
+
+Follow up  
+- Telehealth r/v 1/7 after bloods booked via clinic  
+- Telehealth again ~5–6/52 once CT done to discuss results  
+- Earlier in person / ED if red flags as above or if AHW/family concerned  
+
+Billing  
+Telehealth Level C equiv  bulk billed  
+
+[Addendum 24/11/25 1630 – Dr Lee]  
+Spoke briefly with AHW by phone  CT booking made for 5/52 transport arranged via community bus  plan unchanged

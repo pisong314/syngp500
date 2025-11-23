@@ -1,0 +1,79 @@
+22/11/25  
+Telehealth (phone) – std consult ~15 mins  
+
+58M truckie (known pt)  
+
+Reason: “vax top-up for work” – unsure which  
+
+Hx  
+Thinks had “something couple yrs ago” at depot “big tent” – ?COVID ?flu, no paperwork from employer  
+No current sx: denies fevers, SOB, CP  
+
+Incidental: teeth “shot”, intermittent R lower molar pain months+ on/off, worse cold drinks/poor brushing. No facial swelling, no trismus, no dysphagia, no feeling systemically unwell. Taking “little white pain tabs” OTC – ?paracetamol/NSAID  
+
+PMHx (EMR + pt, poor historian)  
+- IHD – NSTEMI 2018  
+- HTN  
+- HLD  
+- Depression/anxiety  
+- Chronic poor dentition  
+
+Meds (per EMR – adherence ?):  
+- Atorva 40 nocte  
+- Perindopril 5 mane  
+- Metoprolol succ 47.5 mane  
+- Aspirin 100 mane  
+- Sertraline 50 mane (since 2023)  
+Pt: takes “heart one + cholesterol one most days”, unsure re sertraline  
+
+Allergies: NKDA  
+
+Imms (AIR/EMR)  
+COVID: Pfizer x2 (2021) + booster early 2022, nil since  
+Flu: yearly to 2023, none 2024/25  
+dTpa: 2014  
+Shingrix: nil  
+Pneumo: nil (58, IHD)  
+
+Telehealth exam (limited)  
+Speaking full sentences, no audible SOB, cough or wheeze. No red flag dental features by hx  
+
+A/P  
+1) Vaccination review / work clearance  
+- Incomplete adult schedule for age + CVD  
+- Due:  
+  → Flu vax current season  
+  → COVID booster (≥50 + CVD, none >12/12)  
+  → dTpa booster (last 2014)  
+- No C/I on hx  
+Plan:  
+- Explained needs in-person, can’t do via phone  
+- Nurse appt within 1–2/52 for flu + COVID booster (if still due on day) + dTpa. Quick BP check if time  
+- Reception to SMS/email appt details for employer  
+- Consider pneumococcal + Shingrix at future review (see below)  
+
+2) Chronic dental disease – intermittent R lower molar pain, no red flags today  
+- Likely caries/periodontal dz, long-standing, ↑risk: diet, hygiene, smoking, poor f/up  
+Plan:  
+- Analgesia only short term: paracetamol up to 1 g QID PRN (max 4 g/24h). Cautioned re NSAIDs given CVD – avoid excess OTC  
+- Needs dentist – advised non-urgent but early review next few weeks (public/low-cost options discussed briefly)  
+- RTC/ED/urgent dental if ↑pain, facial/neck swelling, fever, dysphagia, dyspnoea, trismus, spreading erythema, “feels really crook”  
+
+3) CVD (IHD/HTN/HLD) – stable by report, meds adherence ?  
+- No CP/SOB currently  
+- Needs proper CVD review (BP, lipids, meds rec, bloods). Last labs ?overdue (no recent results in EMR – Review 03/05/2023 15/08/2024)  
+Plan:  
+- Book long F2F 4–6/52 (pt to align with roster) for:  
+  → BP, lipids, U&E, FBP, HbA1c, LFTs (if not done in last 12/12)  
+  → Meds reconciliation + adherence  
+  → Discuss pneumococcal + Shingrix at same time  
+
+4) Depression/anxiety – chronic, current control ?  
+- Pt vague re sertraline use + mood  
+Plan:  
+- Same long F2F 4–6/52 for MH review, med check, screen severity  
+
+F/up  
+- Nurse vax appt 1–2/52 (flu + COVID booster if due + dTpa, BP if possible)  
+- Long GP F2F 4–6/52 for CVD + MH review, labs, further adult vax  
+- Earlier review/ED if dental or cardiac red flags as above

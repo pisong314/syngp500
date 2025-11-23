@@ -1,0 +1,112 @@
+22/11/25  
+
+# Reason for visit  
+Req rpt script COVID antivirals  
+Med cert for time off  
+
+# HPI / Subjective  
+34F pt primary school teacher generally well  
+Recent COVID dx 5/7 ago RAT +ve same day as sx onset  
+Day 1 sx sore throat headache myalgias low grade fevers dry cough fatigue  
+Nil SOB nil chest pain nil confusion  
+
+Had telehealth day 1 with other GP paxlovid prescribed but pt did not start  
+says "didnt seem that bad" worried re SEs  
+Now day 5 feels mostly fine just abit tired scratchy throat only  
+Nil fever last 48h cough improving eating ok hydrating  
+
+Requesting  
+- rpt script paxlovid to keep at home "just in case" over holidays  
+- med cert for this week off work  
+
+Denies SOB @ rest or on mild exertion pleuritic CP dizziness palps N/V D  
+nil loss taste or smell  
+Nil hx asthma or chronic lung disease  
+Non smoker  
+Nil reg meds NKDA  
+Not preg BMI ~24 last visit  
+
+COVID vax primary course + 1 booster ~18/12 ago not had most recent booster  
+"keep meaning to get around to it"  
+
+Some tangential comments re too much coffee not enough water aircon at school etc  
+
+# Past Hx  
+Generally well nil sig PMHx recorded  
+
+FHx / SHx brief  
+Works as primary school teacher high viral exposure  
+Lives independently  
+
+# Exam / Obj  
+Afebrile looks well speaking full sentences  
+
+Obs  
+BP 112/70  
+HR 78 reg  
+RR 14  
+SpO₂ 99% RA  
+Temp 36.8°C  
+
+Gen alert NAD  
+Resp chest clear bilat good AE nil wheeze crackles nil ↑WOB  
+CVS HS dual nil murmur periph pulses normal nil oedema  
+ENT mild pharyngeal erythema no exudate no tonsillar enlargment  
+Neuro grossly normal orientated  
+
+# Assessment  
+1 Acute COVID-19 infection day 5 mild improving  
+   - Low risk adult 34yrs nil comorbidities obs normal O₂ sats normal  
+   - Outside optimal window for antivirals now  
+2 Request rpt nirmatrelvir/ritonavir for future self start  
+   - Not indic per current ATAGI / Natl COVID Taskforce guidelines  
+   - Not PBS eligible low risk group stockpiling not appropriate  
+3 Occupational exposure primary school teacher frequent viral URTIs  
+4 Preventive care COVID booster overdue  
+
+DDx other viral URTI but confirmed COVID on RAT  
+
+# Plan  
+
+COVID mgmt current episode  
+- Reassured course consistent with mild uncomplicated COVID  
+- Explained in her age group low risk supportive care standard outcomes excellent  
+- Advised no paxlovid given today not indic low risk outside 5/7 window needs med r/v at time of illness not for future self initiation  
+- Symptomatic care discussed rest fluids simple analgesia PRN paracetamol and ibuprofen if required  
+- No path or imaging ordered today clinical picture straightforward improving  
+
+Safety net  
+- Advised urgent r/v GP or ED if SOB @ rest or minimal exertion chest pain confusion persistent high fevers >38.5° despite regular antipyretics SpO₂ <95% if has oximeter inability to maintain oral intake or rapid deterioration  
+- If sx not improving or worsen after ~7–10/7 to rebook  
+
+Isolation / RTW  
+- Reviewed current state advice avoid work while acutely unwell or febrile  
+- Can RTW once 24h fever free and feels well enough mask hand hygiene esp around vulnerable  
+- Medical certificate provided this week dates in EMR  
+
+Vaccination / prevention  
+- Recommended up to date COVID booster per ATAGI esp given high exposure at school  
+- Discussed timing can be given from ~6/12 post infection  
+- Suggested nurse vax appt or pharmacy when due  
+- Briefly addressed coffee / hydration query reassured not cause of prolonged infection encouraged good hydration self care  
+
+Meds  
+- Nil antiviral scripts issued today  
+- OTC paracetamol ibuprofen PRN as above  
+
+Fatigue / MH etc  
+- Pt mentioned feeling worn out last term fatigue even pre COVID  
+- Due to time today advised longer appt 2–3/52 post recovery for f/u fatigue mental health baseline bloods if persisting  
+
+F/U  
+- R/V PRN if sx not settling over next week  
+- Book longer appt ~3/52 for fatigue + preventive health if pt keen  
+
+Billing  
+- Standard Level B 15 min bulk billed  
+
+[Added 16:30 by Dr K Lee]  
+Reviewed note quick check re antivirals vs PBS criteria agrees low risk pt not eligible  
+No further action  
+
+Reviewed and co signed by Dr K Lee

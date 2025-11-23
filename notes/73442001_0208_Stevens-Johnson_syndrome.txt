@@ -1,0 +1,45 @@
+22/11/25 14:10  
+
+42F teacher  
+
+CC: vax review / update  
+
+Hx: wants “top up on my vaccines – flu, pneumonia, shingles?”. Very vague hx re past vax + meds.  
+Known severe cutaneous ADR – SJS vs early TEN ~8y ago likely 2/2 trimethoprim–sulfamethoxazole (Bactrim). Old hosp letter in file → avoid sulfonamide abx, no rechallenge, med alert bracelet. Pt recalls “skin peeling, in hosp for ages”. Unsure exact drug.  
+No hx anaphylaxis to vax / eggs / gelatin / latex. Reports “felt tired for a week after a flu jab once” only. Multiple QIV 2020–23 here tolerated.  
+No chronic dz recorded. No current reg meds except PRN paracetamol ± ibuprofen (advised previously to avoid NSAIDs around time of SJS – not fully adherent).  
+
+Ex: afebrile, well, NAD. Skin clear, no rash. Chest clear.  
+
+A:  
+1) Immunisation review – adult, prev SJS to sulfonamide (not vax related)  
+   - SJS is drug-related, not C/I to inactivated vax  
+   - Well today, no acute infxn → ok to proceed  
+2) Severe drug allergy – SJS to trimethoprim–sulfamethoxazole  
+   - High‑risk; needs clear EMR flags + pt edu  
+   - ?NSAID contribution noted in old letter but less likely  
+
+P:  
+- Confirmed: not pregnant, no acute febrile illness, no prior vax anaphylaxis.  
+- Vax today:  
+  → 2025 QIV IM L deltoid  
+  → Shingrix dose 1 IM R deltoid (off‑label <50, discussed; not PBS at her age, pt ok to self‑fund)  
+- Pneumococcal: not indicated at 42, otherwise well, no RFs → defer until older / if comorbidities.  
+
+- Counselling (brief): SJS due to meds, not vax. Usual post‑vax SEs discussed. Stay 15 mins post‑vax. Red flag sx explained (anaphylaxis, severe rash/skin peel esp after any new med).  
+
+- Allergy list updated in EMR:  
+  * Trimethoprim–sulfamethoxazole – SJS (life‑threatening, DO NOT RECHALLENGE)  
+  * “Sulfonamide antibiotics” – avoid class  
+- Advised: always tell dr/pharmacist re SJS + “sulfa” allergy. Prefer paracetamol for pain/fever for now; avoid starting new Rx meds without GP review until allergy plan clarified.  
+
+- Rec med alert bracelet “Severe drug allergy – SJS to trimethoprim–sulfamethoxazole (sulfonamide)”. Printed allergy summary for pt (brief).  
+
+F/U:  
+- Nurse/GP appt 2–6/12 for Shingrix dose 2.  
+- Book long appt later for detailed SJS / drug allergy counselling ± derm/allergy clinic referral (formal documentation, med avoidance list).  
+- RTC earlier if rash, mucosal lesions, breathing issues, or generally worse.  
+
+14:30 – observed 15 mins post‑vax, no immediate ADR.  
+
+[Added 16:05 by Dr L: AIR updated with today’s QIV + Shingrix. Batch nos/sites in nurse vax record – see separate entry]

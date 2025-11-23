@@ -1,0 +1,52 @@
+22/11/25  
+
+58M new pt truckie  
+
+CC: severe mid→low back pain 5/7, worse last 24–48h  
+
+HPC:  
+Sudden onset thoraco‑lumbar pain after long interstate drive. Now constant 8/10, midline T11–L1, R>L. Worse with movement, cough, lying flat. Says “feels deep in spine not muscle”. Hx mech LBP but says “this feels different”.  
+Fevers/chills 2–3/7, night sweats ++.  
+Neuro sx: intermittent R leg tingling to mid‑thigh since yesterday, felt “wobbly” this am but walking unaided. No saddle anaesthesia, no bowel incontinence. Mild urinary hesitancy today, no frank retention/incont. Subjective ↓leg strength but exam ~ok.  
+Recent “boil” back of neck 3/52 ago, self‑drained, no abx. No IVDU, no spinal surgery/procedures, no major trauma. No known immunosuppression.  
+
+Meds: Nurofen 400 mg tds PRN, Panadol 1 g q6h PRN  
+NKDA  
+
+O/E:  
+Looks uncomfortable, prefers standing fwd flexed  
+Obs: BP 132/78 HR 104 reg RR 18 Temp 38.3 SpO2 98% RA  
+Back: focal tenderness T11–L1 midline, R paraspinal > L, percussion ++, no deformity, no overlying erythema  
+Neuro LL:  
+- Power: HF 4+/5 bilat (pain‑limited), knees/ankles 5/5  
+- Tone N, reflexes 2+ sym, sensation LT/pinprick intact L1–S1, no saddle loss  
+- SLR 60° bilat → local back pain only  
+Gait cautious but stable, can heel/toe walk  
+
+Imp:  
+Red flag back pain + fever + focal T/L tenderness + evolving neuro sx + recent skin infection → ?spinal epidural abscess (T/L) ± vertebral osteomyelitis/discitis  
+DDx: malignancy less likely (acute), pyelo unlikely (no flank/UTI sx), severe mech back pain doesn’t explain fever  
+
+Plan:  
+Time‑critical → ED  
+- Explained concern re possible spinal infection / SEA, risk cord compression / paralysis  
+- Strongly advised urgent ED at tertiary centre for MRI spine + neurosurg/ortho review  
+- Ambulance transfer recommended (febrile, tachycardic, evolving neuro sx). Pt initially wanted partner to drive but agreed after risks discussed  
+- 000 called from room, handover given: 58M, severe T/L back pain, febrile 38.3, HR 104, focal T11–L1 tenderness, R leg paraesthesia, mild subjective weakness, urinary hesitancy, recent neck boil, ?SEA. Request transfer to major ED for urgent MRI + IV abx + spinal team review  
+
+In ED (recommendations – to be confirmed by ED/ID/neurosurg):  
+- MRI whole spine with contrast ASAP (focus T/L)  
+- Bloods: FBC, U&E, LFT, CRP/ESR, coag, 2x blood cultures prior to abx  
+- Empiric IV abx post cultures: eg fluclox 2 g IV q6h + ceftriaxone 2 g IV daily; consider vanc if MRSA risk / delay to theatre  
+- Urgent spinal team review for possible decompression/drainage  
+- Close neuro obs  
+
+In rooms:  
+- Panadol 1 g PO given while awaiting ambulance  
+- Avoid further NSAIDs/opioids here (keep neuro exam clear for ED)  
+
+F/up:  
+- To return here 1–2/52 post‑hospital discharge for review / ongoing care / work cert etc  
+- Adv to report any ↑weakness, numbness, urinary issues to ambos/ED immediately  
+
+[No local pathology ordered here given direct transfer to ED]

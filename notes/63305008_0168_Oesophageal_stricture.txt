@@ -1,0 +1,59 @@
+22/11/25  RACF round – f/up
+
+82M long-term RACF. Seen in room.
+
+CC: “Just a general check-up doc” → focus today on swallowing
+
+HPC  
+Known benign oesoph stricture + GORD + Barrett + EoE. Last scope ~18/12 ago, Barrett no dysplasia, dilatation then.  
+Last 2–3/52 eating slower, leaving meat. Intermittent solid dysphagia esp meat/bread – “feels like it sticks halfway down then I cough it back up with water”. No complete obstruction, handling saliva, no drooling. No odynophagia, no CP. + occasional regurg undigested food.  
+Pt says “I’m pretty right overall” but staff note pants looser. wt chart ↓ ~2 kg/3/12 (78→76 kg). Appetite “ok but the food’s a bit dry”. Thinks tea “too strong” and “all the tablets together are scratching the food pipe”.  
+Known poor PPI adherence – “I keep forgetting before brekkie… I ran out of those reflux tablets before I came in here and never bothered”. MAR: freq refusals/delays AM meds.  
+RACF RN: often refuses meds, “couldn’t be bothered going into town” re previous appts. Pt confirms.  
+No hx food bolus needing ED. No haematemesis, no melaena, no known IDA. No cough/asp/rec CXR issues.
+
+PMHx (relevant)  
+– Oesoph stricture – GORD/Barrett/EoE related, mult prior dilatations  
+– Barrett oesophagus (non-dyspl last scope)  
+– GORD  
+– EoE (prev topical steroids via gastro)  
+– HL, OA knees, mild CKD 2–3 (eGFR ~55)  
+
+Meds (per chart, adherence poor)  
+– Esomeprazole 20 mg mane (often late/omitted)  
+– Atorvastatin 20 mg nocte  
+– Paracetamol 1 g QID PRN  
+– PRN antacid mix (rare)  
+NKDA
+
+Exam (focused)  
+Gen: frail, NAD, talking full sentences, no drooling  
+Obs: BP 138/76 HR 76 RR 16 SpO₂ 97% RA afeb  
+Abdo soft NT, no epigastric TTP  
+Wt per chart ~76 kg (↓ ~2 kg/3/12)
+
+Recent ix  
+RACF bloods 6/12 ago: FBC N (Hb 132), U&E eGFR 56, LFT N. No recent Fe studies. Last gastro letter 18/12 old – Barrett no dysplasia, stricture dilated.
+
+A  
+1) Oesoph stricture with GORD/Barrett/EoE – recurrent solid dysphagia, no acute red flags (saliva ok, no severe CP, no haematemesis). Likely progression in setting poor PPI adherence. Needs repeat scope ± dilatation, Barrett/EoE reassessment, r/o Ca.  
+2) Poor med adherence – longstanding, contributing to sx.  
+3) Mild unintentional wt loss – likely multifactorial (dysphagia, food texture, age). Needs monitoring.  
+4) Barrett oesophagus – overdue surveillance.  
+5) EoE – needs specialist review re med/diet.
+
+P  
+– ↑ Esomeprazole to 20 mg BD (before breakfast & evening meal) as per eTG. RN to give pre-meals, emphasise “for your swallowing/reflux”, document refusals.  
+– RN: supervised admin all meds; flag if >3 PPI doses missed/week.  
+– Diet: soft/moist diet, extra gravy/sauce, avoid dry meat/crusty bread, smaller slower mouthfuls.  
+– Consider SP review if dysphagia persists or any asp concern.  
+– Safety net to pt + staff: if unable to swallow saliva, drooling, severe CP post food, or food bolus not passing within ~1–2 hrs → call ambulance → ED for urgent scope.  
+– Re-referral to local public gastro clinic for semi-urgent OGD + biopsies (Barrett surveillance, EoE, assess/widen stricture, r/o malignancy). Note prior reluctance to attend – will discuss with kids/EPOA to encourage + help with transport.  
+– Bloods via RACF: FBC, Fe studies, U&E, LFT, CRP.  
+– Wt weekly x 2/12; dietitian if ongoing ↓.  
+– Plan to involve family next review to reinforce meds + need for gastro appt (no time to ring today).  
+– Other chronic issues (HL, OA, CKD) stable, defer detailed review to next round.
+
+F/up  
+– Review 2–3/52 next RACF round: check dysphagia, PPI adherence, bloods, wt, gastro appt details.  
+– Earlier review/ED if obstruction / red flag as above.

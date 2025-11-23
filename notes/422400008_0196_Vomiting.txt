@@ -1,0 +1,138 @@
+22/11/25  
+
+48F  
+
+# Reason for visit  
+"feeling really weak and tired" x ~5/7  
+recent vomiting  
+
+# HPI / Functional focus  
+Office admin works FT desk based  
+Over last 5/7 ↓energy feeling "wiped out" struggles to get through workday  
+Reports 3/7 vomiting prior now largely settled  
+
+Vomiting  
+- Onset 5/7 nausea then vom 4/7 peaked over 2/7 now last vom yesterday am  
+- 5–6x/day at worst food then bile  
+- Assoc ↓oral intake ↓appetite mild crampy epigastric pain only during vom now resolved  
+- Loose stool 1–2x/day during worst now back to usual  
+- Nil haematemesis melena PR bleed nil recent travel nil sick contacts  
+- Nil ETOH excess nil rec drugs nil cannabis  
+
+Functional impact  
+- Feels drained shaky esp on standing  
+- Light headed on fast sit→stand  
+- Mobility independent gait normal pace able to transfer on/off plinth unaided  
+- Able to complete basic ADLs at home slower than usual needs rests  
+- Work: remains at work but ↓productivity fatigues by mid arvo  
+
+IIH hx  
+- Known idiopathic intracranial HTN dx ~18/12 on acetazolamide 250mg BD  
+- Baseline intermittent frontal HA  
+- Today mild frontal HA similar to usual  
+- Brief visual "fuzziness" on standing only nil persistent visual loss nil diplopia  
+- Nil focal neuro sx  
+- Pt adamant current sx "not from my head problem"  
+
+Other  
+- Nil fevers rigors night sweats  
+- Menses regular LMP ~2/52 s/p tubal ligation says zero chance preg declined β‑hCG after discussion  
+- Meds  
+  - Acetazolamide 250mg BD  
+  - Paracetamol up to 3g/day last few days  
+  - Occ ibuprofen not in last wk  
+- Allergies NKDA  
+- Social lives with partner nonsmoker minimal ETOH stressed re sick leave  
+
+Behaviour  
+Pt quite argumentative frequently interrupts quotes internet eg "its probably my thyroid" "docs just say virus and send you home"  
+Required some boundary setting to keep consult on track  
+
+# Examination  
+Gen alert orientated looks tired not toxic nil active vom slightly irritable  
+Vitals BP 104/68 HR 96 RR 16 SpO₂ 99% RA Temp 36.9  
+Postural BP 98/64 HR 108 mild dizziness on standing borderline orthostatic  
+Mucous membranes slightly dry  
+Neuro GCS 15 CN grossly intact PERRL VF grossly full power 5/5 all limbs tone/reflexes WNL gait normal  
+Fundoscopy limited view no obvious papilloedema though not definitive  
+CVS HS dual nil murmur  
+Resp clear  
+Abdo soft NT ND BS normal nil mass  
+Skin nil rash  
+
+Functionally safe to mobilise in room independent turns sit↔stand mildly symptomatic on fast stand improves with pause  
+
+# Assessment  
+1 Weakness fatigue 2° recent gastro like illness with mild dehydration  
+   - Likely self limiting viral or foodborne gastro now improving  
+   - Haemodynamically stable borderline postural changes mild ↓oral intake  
+
+2 Vomiting now settling  
+   - Risk of electrolyte disturbance given several days poor intake + acetazolamide  
+
+3 Known idiopathic intracranial HTN  
+   - Today nil features of acute raised ICP flare  
+   - Recent vom could be contributing but pattern more c/w GI  
+   - Need to monitor vision HA pattern  
+
+Pt strongly focussed on "thyroid" and "vitamins" requested injections and imaging declined today not clinically indicated  
+
+# Plan / Management  
+
+## Symptom + functional management  
+- Encouraged graded oral rehydration small freq sips Hydralyte etc aim to maintain urine output and support return to usual ADLs  
+- Light bland diet as tolerated  
+- Avoid NSAIDs next few days may use paracetamol up to 4g/24h short term for HA  
+
+Meds  
+- New: Ondansetron ODT 4mg 1 tab up to TDS PRN N/V max 3/day for 2/7 only PBS  
+  - Warned re constipation HA stop once settled  
+
+No change to acetazolamide dose today  
+
+## Investigations (pathology today)  
+- FBC  
+- UEC CMP incl LFTs  
+- CRP  
+- Random BSL  
+- TSH iron studies B12 folate added given pt concern re thyroid/iron though explained less likely in acute 5/7 hx  
+
+Explained if sig electrolyte abn or renal issues → ED for IV fluids further mx  
+Pt queried "why waste money on tests when I just need vitamins" rationale discussed eventually agreed  
+
+## Neuro / ICP safety net  
+Reassured nil current red flags on exam  
+Clear advice ED/000 if  
+- sudden severe "worst ever" HA  
+- persistent or ↑vom esp early am  
+- new or worsening visual change blurred diplopia visual loss  
+- confusion speech difficulty limb weakness seizure  
+
+Advised contact neurologist or ED if any concern re IIH flare pt a bit dismissive but verbalised understanding when asked to repeat key points  
+
+## Functional rehab focus  
+- Short term goal 3–5/7  
+  - maintain safe independent mobility with minimal postural sx  
+  - tolerate adequate oral fluids + light meals without vom  
+  - able to complete basic ADLs without near syncope  
+- Medium term goal 2–3/52  
+  - return to baseline work tolerance full office day without sig fatigue  
+  - if fatigue persists beyond resolution of gastro consider graded activity program reconditioning and further workup  
+
+Education  
+- Explained link between dehydration electrolytes and ↓energy postural sx  
+- Normalised temporary ↓exercise tolerance encouraged pacing breaks esp from sit→stand tasks  
+- Briefly addressed internet info re thyroid clarified that acute 5/7 onset with clear GI trigger less typical for thyroid dysfunction though screening ordered  
+
+Pt remained somewhat dissatisfied "youre doing the bare minimum" declined IV fluids "dont need a drip"  
+
+# Billing  
+Standard consult 23  
+Bulk billed  
+
+# Follow up  
+- GP r/v 2–3/7 or earlier if ongoing vom unable to keep fluids down worsening dizziness ↓urine output confusion  
+- Longer appt 1–2/52 if fatigue ongoing once bloods back for more detailed fatigue + IIH mgmt incl possible graded activity plan work accomodations  
+
+[Addendum 16:30 same day – Dr L Tan]  
+Path results not yet available will check tomorrow if abn will call pt for earlier r/v otherwise discuss @ planned f/u

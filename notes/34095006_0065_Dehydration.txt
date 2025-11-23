@@ -1,0 +1,148 @@
+22/11/25  
+
+Reason for visit  
+R/V acute LBP  
+
+History of Presenting Complaint  
+Pt is 54 yr old Anglo-Australian F part time retail worker known short bowel syndrome here for r/v of low back pain  
+
+Onset 4/7  
+Pain mainly across lower lumbar region central bilateral describes as deep ache like kidneys screaming worse after long shifts standing @ checkout and with bending slightly beter lying flat nil specific trauma nil heavy lifting beyond usual work duties  
+
+Nil radiation to legs nil numbness or tingling nil weakness nil saddle anaesthesia nil bowel or bladder incontinence nil fevers rigors night sweats nil recent viral sx  
+
+Has been using OTC ibuprofen 400 mg intermittently at work often on empty stomach partial relief only  
+
+Pt very focused on idea of kidney problem repeatedly says kidneys shutting down from all this diarrhoea and that previous drs have missed things confrontational at times interrupts explanations says you are wrong I know my body insists dx is kidney infection or stones despite nil urinary sx  
+
+Associated sx  
+Mild frontal HA x 2/7 dry mouth feels light headed on standing @work darker urine today and ↓volume says hardly at all today  
+Nil dysuria frequency urgency haematuria nil flank pain nil N/V nil chest pain SOB or palps  
+
+Bowel  
+Known short bowel syndrome post small bowel resection (per past hx) baseline loose stools ~2–3/day over past wk ↑to 4–5/day loose nil blood nil severe cramping  
+Admits ↓fluid intake last wk esp in hot weather and longer shifts says too busy to drink water at work and water there tastes like chemicals mainly coffee + a couple soft drinks  
+
+New mattress 2/52 may be contributing to back pain though pt still convinced primary issue kidneys  
+
+Behaviour / engagement  
+Pt argumentative challenges reassurance re absence of red flags accuses previous drs of missing things initially reluctant for exam and tests but eventually allows after extended explanation and de escalation questions necessity of each ix refers to google repeatedly time spent refocusing on safety issues and hydration limited time for other preventive care advised separate long appt  
+
+Past Medical Hx  
+Short bowel syndrome post small bowel resection  
+Iron deficiency anaemia stable  
+Nil known CKD DM HF  
+
+Meds  
+Loperamide PRN  
+Multivitamin  
+Occasional ibuprofen 400 mg PRN self directed  
+
+Allergies  
+Nil known drug allergies  
+
+Social Hx  
+Lives with partner independent ADLs  
+Works part time retail mostly standing limited breaks for fluids/toilet  
+Non smoker occasional EtOH  
+
+Examination  
+GEN alert mildly irritable ambulant NAD  
+Vitals  
+BP 102/68 sitting 92/60 standing symptomatic dizzy  
+HR 98 reg  
+RR 16  
+Temp 36.8°C  
+SpO2 99% RA  
+
+Hydration  
+Oral mucosa dry mild thirst skin turgor slightly ↓ @ sternum cap refill <2s nil peripheral oedema overall c/w mild–mod dehydration  
+
+Back  
+Inspection normal nil deformity nil bruising  
+Palpation tender over paraspinal muscles L3–L5 bilat nil midline bony tenderness  
+ROM full but uncomfortable esp extension pain reproducible with lumbar extension and prolonged standing  
+SLR neg bilat  
+
+Neuro LL  
+Power 5/5 all groups sensation intact reflexes normal sym gait normal  
+
+Abdo  
+Soft non tender nil organomegaly nil suprapubic tenderness  
+
+Renal angle  
+Nil CVA tenderness bilat  
+
+Cardioresp  
+HS dual nil murmur chest clear  
+
+Ix today  
+Urinalysis dip in surgery  
+SG >1.030 concentrated trace ketones nil nitrites nil leuk nil blood nil protein  
+
+Ordered  
+UEC CMP FBC today to assess for AKI and electrolyte disturbance in context dehydration + SBS  
+Urine MCS only if urinary sx develop currently nil clinical UTI explained pt unhappy initially but accepted plan  
+
+Impression / Assessment  
+1 Mechanical low back pain acute likely muscular strain 2° prolonged standing posture new mattress contributing  
+   - Nil red flag features nil neuro deficit nil weight loss trauma systemic sx nil features of spinal infection malignancy or renal colic / pyelo exam and UA not suggestive renal pathology  
+
+2 Mild–moderate dehydration (SNOMED 34095006) adult with SBS ↑stool freq inadequate fluid intake orthostatic drop ↓UO dark urine HA dry mouth haemodynamically stable nil features severe dehydration or shock  
+
+3 Short bowel syndrome ongoing ↑risk of fluid and electrolyte losses needs structured hydration strategy and specialist f/u  
+
+Plan  
+
+#1 Mechanical LBP  
+Discussed exam findings and UA not c/w kidney infection or failure explained absence CVA tenderness normal temp and clean UA pt challenged repeatedly but eventually acknowledged muscular component though still worried about kidneys  
+Analgesia  
+- Recc paracetamol 1 g QID PRN max 4 g/24h  
+- Adv minimise NSAIDs given dehydration and renal risk if absolutely needed ibuprofen 400 mg with food max TDS avoid if unwell vomiting or ↓oral intake  
+
+Non pharm  
+- Gentle stretching heat pack to lumbar region  
+- Encourage regular micro breaks @work avoid prolonged standing where possible  
+- Offered medical certificate / light duties for a few days pt declined wants to just get this fixed  
+
+Safety net  
+Urgent review / ED if new or worsening leg weakness numbness saddle anaesthesia bowel or bladder incontinence severe unrelenting night pain fever or sudden marked ↑pain  
+
+#2 Dehydration / SBS  
+Explained sx dizziness on standing dark urine HA dry mouth + orthostatic BP drop c/w mild–mod dehydration likely from ↑stool losses + ↓intake + hot weather  
+Pt initially says drinks heaps of coffee so cant be dehydrated discussed diuretic effect and need for appropriate fluids  
+
+Oral rehydration  
+- Advised ORS eg Gastrolyte / Hydralyte as first line esp in SBS avoid relying on plain water and soft drinks alone  
+- Suggested small frequent volumes ~150–200 mL q15–30 mins next few hrs rather than large bolus  
+- Provided written instructions for higher sodium solution St Marks style 6 tsp glucose powder + 1 tsp salt + ½ tsp sodium bicarb / sodium citrate in 1 L water small amount cordial for taste emphasised correct preparation  
+
+Fluid targets  
+Aim pale yellow urine drink to thirst avoid large volumes sugary soft drink and avoid only hypotonic fluids  
+
+Monitoring / escalation  
+Bloods today will phone with results and arrange recall if UEC or CMP abnormal  
+Adv ED if unable to keep fluids down very little or nil urine >8–10h confusion chest pain palps or marked worsening dizziness / syncope  
+
+#3 Short bowel syndrome / longer term  
+Reminded pt of need for periodic specialist r/v last gastro >12/12 per record  
+Suggested re referral to gastro / intestinal failure clinic to optimise longer term fluid and electrolyte management and review supplementation pt sceptical but said ok if it doesnt improve  
+
+#4 Engagement / adherence  
+Noted argumentative style and tendency to challenge recommendations may impact adherence to hydration and NSAID advice  
+Used teach back pt able to state supposed to use proper rehydration sachets sip slowly not just drink Coke and be careful with Nurofen  
+Documented clear safety net and arranged short interval r/v to maintain engagement  
+
+Follow up  
+R/V 3–5/7 for reassessment back pain hydration status or earlier if deterioration  
+Separate long appt advised once acute issues settled for preventive care BP lipids screening and detailed SBS management  
+
+[Added 16:30 by Dr L Brown – pathology results same day]  
+UEC  
+Na 138 K 3.6 Cl 101 HCO3 24 Urea 7.8 mildly ↑ Cr 88 (baseline 80 last yr) eGFR >60  
+CMP LFTs WNL  
+FBC Hb 112 (known IDA) WCC and platelets WNL  
+
+Impression results c/w mild dehydration only nil sig AKI discussed by phone with pt this afternoon reinforced hydration plan and caution with NSAIDs pt sounded calmer on phone agreed to trial ORS over wkend and attend r/v early next wk  
+
+Reviewed and co signed by Dr J Thompson GP supervisor

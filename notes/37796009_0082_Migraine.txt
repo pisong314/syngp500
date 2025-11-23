@@ -1,0 +1,81 @@
+22/11/25  CHC  Review
+
+34F here re sleep. "Only got 10 mins, just need something so I can sleep"
+
+PC:  
+- Insomnia ~3/12, worse 4–6/52  
+  - ↓ sleep onset + maint. Lying awake 1–2h, waking 2–3x/night, ~4–5h broken sleep  
+  - Bedtime all over the place 2230–0100, up 0600  
+  - Screens in bed, TV, falls asleep on couch at times  
+  - Caffeine 3–4 coffees/d (last ~1600–1700) + occ energy drink  
+  - ETOH 1–2 glasses wine 3–4 nights/wk "to wind down" but "sleep still crap"  
+  - Worries re work at night "brain won’t switch off"  
+  - No snoring per partner, no witnessed apnoea, no waking choking. Wakes dry mouth, unrefreshed. Daytime fatigue, no near-miss driving
+
+Hx:  
+- Migraine w/out aura several yrs. Was ~2 d/mth → now 5–6 d/mth last 2/12, pt links to poor sleep  
+  - Typical: uni-lat throbbing + N + photo/phonophobia  
+  - No red flags: no thunderclap, no focal neuro, no visual loss, no speech issues, no fever/neck stiffness  
+  - Meds: ibuprofen 400 PRN, paracetamol 1 g PRN, sumatriptan 50 mg PRN. Triptan ~4 d/mth, NSAID ~8–10 d/mth. No opioids  
+- GAD – long-standing, CBT helped previously, stopped due work. ↑ stress/workload, more ruminations, no panic, no SI  
+- Obesity (prev BMI 33–35). Diet poor, minimal exercise – not priority today
+
+Meds:  
+- Sumatriptan 50 mg PRN  
+- Ibuprofen 400 mg PRN  
+- Paracetamol 500 mg 1–2 PRN  
+- Intermittent Mg OTC  
+Allergies: NKDA
+
+O/E (brief – pt rushing):  
+Tired but NAD, anxious, keeps checking watch  
+BP 126/80, HR 78 reg, afeb, SpO₂ 99% RA  
+Body habitus obese  
+Neuro grossly non-focal, speech normal  
+Mild neck/upper trap tightness
+
+A:  
+1) Insomnia – likely multifactorial: GAD + poor sleep hygiene + ETOH + high screen use. OSA less likely but RF = obesity + unrefreshed sleep → monitor  
+2) Migraine w/out aura – ↑ freq likely 2° sleep deprivation/stress/neck tension. Analgesic + triptan use w/in limits, no MOH currently  
+3) GAD – suboptimally controlled, contributing to 1) and 2)  
+4) Obesity – ongoing, not main focus today
+
+P:  
+Insomnia / GAD / migraine overlap  
+- Very brief sleep hygiene chat (screens, caffeine cutback, ETOH not for sleep, regular bed/wake time). Handout given + apps suggested  
+- Start amitriptyline 10 mg nocte 1–2 h pre-bed (off-label for migraine prophylaxis + sleep + anxiety)  
+  - Warned re AM grogginess, dry mouth, constipation, avoid driving if drowsy  
+  - May ↑ by 10 mg every 1–2/52 up to 30–50 mg nocte if needed, but will review before titrating  
+- Documented potential serotonin syndrome risk if future SSRI/SNRI + triptan – currently not on AD. Advised to tell any prescriber about ami + triptan
+
+Migraine  
+- Continue current acute regime:  
+  - Paracetamol 1 g QID max 4 g/d  
+  - Ibuprofen 400–600 mg Q6H PRN (max 2400 mg/d). Avoid >15 d/mth  
+  - Sumatriptan 50–100 mg at onset, may repeat once ≥2h if partial response (max 300 mg/24h). Limit <10 d/mth  
+- Asked to keep simple HA/sleep diary (incl triggers – sleep, stress, lighting, meals)  
+- If still ≥4 d/mth once sleep improved + on low-dose ami → discuss formal proph (higher-dose ami vs candesartan vs topiramate etc) at longer review  
+- Mentioned neck stretches/ergonomics/physio – pt wants to defer ("no time")
+
+Anxiety  
+- Explained link anxiety ↔ sleep ↔ migraine  
+- Encouraged re-engage psych here – offered referral, she prefers telehealth/early/late if possible. Will revisit  
+- No current AD. Consider SSRI later if ongoing, mindful of triptan/serotonin issues
+
+Obesity / metabolic  
+- Briefly flagged need for lifestyle + screening. Pt: "can’t deal with that today"  
+- Plan longer appt 6–8/52 for weight, diet, exercise, general prevention + bloods
+
+Ix:  
+- None today (time)  
+- At longer review: FBE, U&E, LFT, lipids, fasting BSL/HbA1c, TSH. Consider STOP-BANG; if +ve → sleep study
+
+Safety-net:  
+- ED if sudden worst-ever HA, any neuro deficit (weakness, speech/vision change, confusion), fever/neck stiffness, or chest pain/palps/marked dizziness esp after starting ami  
+- RTC earlier if insomnia or HAs significantly worse on ami
+
+F/U:  
+- 3–4/52 std appt – review sleep, migraine freq, mood, ami SE, diary  
+- Separate 20–30 min appt 6–8/52 for obesity/metabolic screen/lifestyle
+
+[Added 16:30 by Dr L. Smith – brief review of plan with registrar, agree low-dose ami reasonable trial. No change to meds. Will co-review if migraines not improving at next visit.]

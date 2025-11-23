@@ -1,0 +1,134 @@
+22/11/2025  
+Telehealth video consult – pt at home GP in rooms Newcastle  
+Initial consult  
+
+Reason for consult  
+Here to go through biopsy and bloods re rash ongoing fevers  
+
+Hx  
+52yo F part time primary school teacher known seropositive RA 8yrs on MTX 20mg weekly folate 5mg weekly  
+
+Rash x ~3–4/52 painful raised red plaques face neck forearms appeared rapidly over few days 1/52 after finishing 7/7 amoxycillin clav for presumed sinusitis from local GP URTI sx settled  
+
+Rash still present today slightly ↓ tender vs last week multiple raised erythematous violaceous plaques cheeks neck dorsal forearms some coalescing pt says “they look angrier in the evenings” pain burning/tender rather than itch paracetamol gives partial relief nil discharge nil vesicles or crusts reported nil oral ulcers eye pain SOB chest pain abdo pain diarrhoea urinary sx appetite ↓ abit but drinking ok  
+
+Systemic sx initially fevers at home to 38.8 rigors fatigue last few days temps <37.8 feels “washed out but a bit beter”  
+
+Pt queries drug reaction to Augmentin vs irritant from new cleaning products at school  
+
+Telehealth limitations  
+Video connection good able to visualise lesions face and forearms nil hands on exam vitals self reported  
+
+Past Hx  
+RA seropositive f/u rheum Newcastle 6/12 last steroid course >12/12 ago  
+Nil known malignancy IBD sarcoid  
+Recent URTI/sinusitis 5/52 ago treated with amoxycillin clav 7/7  
+
+Meds  
+MTX 20mg PO weekly  
+Folic acid 5mg weekly  
+Paracetamol 1g up to QID PRN  
+Ibuprofen 400mg PRN (not using recently)  
+
+Allergies  
+NKDA  
+
+Social  
+Lives with husband 2 adult kids interstate good supports  
+Non smoker rare EtOH  
+Works 3 days/wk primary school teacher regional NSW currently off sick this wk concerned re more sick leave “look a bit frightening at the moment”  
+
+Family Hx  
+M OA HTN  
+F deceased MI 60s  
+Nil known IBD or haematological malignancy  
+
+Obs (pt reported / video)  
+Temp 37.6 this morning  
+BP 128/78 HR ~86 RR ~16  
+On screen appears tired not acutely unwell speaking full sentences nil obvious SOB colour pink nil cyanosis  
+Skin via video multiple well demarcated raised erythematous violaceous plaques cheeks and dorsal forearms some coalescing surface smooth nil obvious vesicles pustules crusting or ulceration pt reports tender to touch nil obvious facial swelling lips and oral mucosa appear normal when opens mouth nil conjunctival injection  
+
+Ix – results reviewed today  
+Skin punch biopsy forearm (derm last wk – report via Sullivan Nicolaides)  
+Dense dermal neutrophilic infiltrate with papillary dermal oedema nil leukocytoclastic vasculitis organisms not seen features consistent with acute febrile neutrophilic dermatosis Sweet syndrome in appropriate clinical context  
+
+Bloods last wk  
+FBC WCC 15.2 neut 12.8 Hb 122 Plt 380  
+CRP 86 ESR 60  
+U&E LFTs WNL  
+ANA neg ENA neg  
+RF and CCP positive as per known RA  
+Blood cultures no growth at 5 days  
+
+Prev FBC from RA monitoring ~6/12 ago WCC 6.8 neut 3.9 Hb 126 Plt 340 – so new neutrophilia inflammatory picture  
+
+Assessment  
+1 Acute febrile neutrophilic dermatosis Sweet syndrome – biopsy confirmed  
+Classic picture rapid onset painful erythematous plaques face and upper limbs + fevers neutrophilia ↑CRP ESR histology consistent  
+Likely reactive process possibly 2° recent URTI in background of RA drug induced Sweet from amoxycillin clav ? but temporal assoc less clear as sx started after ceasing abx  
+Currently nil clinical evidence bacterial cellulitis or sepsis afebrile to low grade only haemodynamically stable lesions non purulent blood cultures neg  
+
+DDx considered  
+– Cellulitis erysipelas less likely lesions multifocal non purulent pt not systemically toxic  
+– Vasculitis excluded histologically (nil leukocytoclastic vasculitis)  
+– Drug eruption nonspecific less likely given biopsy  
+– Connective tissue disease rash less likely ANA ENA neg  
+
+2 Rheumatoid arthritis seropositive on MTX  
+RA known assoc with Sweet syndrome disease otherwise stable per pt nil recent flares  
+Need to factor in systemic steroid course re bone health glucose infection risk coordinate with rheum  
+
+3 Need to exclude associated malignancy esp haematological  
+Sweet can be assoc with AML MDS lymphoproliferative disorders etc  
+Current FBC shows isolated neutrophilia no cytopenias blasts or abnormal cells reported nil B sx weight loss night sweats lymphadenopathy so malignancy less likely but warrants baseline and ongoing vigilance  
+
+Plan  
+1 Education / dx discussion  
+Explained biopsy and bloods confirm Sweet syndrome acute febrile neutrophilic dermatosis immune mediated inflammatory condition not infection not contagious reassured not due to poor hygiene or new cleaning products at school acknowledged timing re recent infection and abx but emphasised often non specific reaction in context of underlying inflammatory disease like her RA discussed generally good prognosis but risk of recurrence  
+
+2 Pharmacological management – Sweet syndrome  
+Given severity pain functional impact and biopsy confirmed dx with inflammatory markers ↑ and no red flags for sepsis will commence systemic corticosteroids  
+
+– Prednisolone 40mg PO mane with food for 5/7 then taper depending on response likely ↓ by 5–10mg every 5–7/7 will refine at r/v in 5/7  
+– Start PPI while on higher dose steroids esomeprazole 20mg PO mane  
+– Analgesia continue paracetamol up to 1g QID PRN advised avoid NSAIDs for now given concurrent steroids to ↓ GI risk  
+
+Discussed short term steroid SE insomnia mood change ↑appetite fluid retention transient ↑BGL asked to take mane with food limit salt monitor mood sleep pt queried “Should I be worried about these side effects” explained course planned relatively short benefits > risks and aim to taper as soon as clinically safe  
+
+3 RA and immunosuppression  
+Advise continue MTX 20mg weekly and folate as usual for now as RA control important abrupt cessation may ↑ flare risk will flag with rheum  
+Need later discussion re cumulative steroid exposure bone health  
+
+4 Ix – monitoring and malignancy screen  
+Order repeat bloods in 1–2/52 via local pathology QML/SNP FBC CRP ESR U&E LFT to monitor response to steroids and check for evolving haematological abnormalities form to be emailed to pt asked to attend 1–2 days prior to next f/u  
+At subsequent longer consult will ensure age appropriate cancer screening up to date mammogram bowel screening cervical screening given Sweet–malignancy link though currently nil red flags  
+
+5 Specialist communication  
+Dermatology – pt already under local derm for biopsy will send HealthLink letter today summarising dx current steroid plan and request advice re taper and 2nd line options eg colchicine dapsone if inadequate response or relapse  
+Rheumatology – letter to usual rheum Newcastle informing of Sweet dx steroid commencement and plan to continue MTX ask for input re RA management while on steroids and bone protection strategy  
+
+6 Work / function  
+Advised remain off work at least further 1/52 while starting steroids given facial lesions fatigue and ↑ infection risk in school environment on MTX + steroids discussed avoiding close contact with unwell children where possible offered medical certificate to email pt agreed  
+
+7 Safety net  
+Advised urgent r/v GP or ED if  
+– temp >38.5 persisting or rigors  
+– rapid spread of redness new pustules or ulceration  
+– SOB chest pain severe headache confusion  
+– marked mood change or SI on steroids  
+If rash not improving or worsening over 48–72h of steroids or new systemic sx need urgent reassessment to reconsider dx or exclude superimposed infection  
+Advised not to stop pred abruptly once on >few days without medical advice  
+
+8 Deferred issues  
+Due to 15min telehealth slot deferred detailed RA review vaccination status pneumococcal zoster influenza and osteoporosis risk assessment DEXA etc to longer consult once acute issue settles  
+
+F/U  
+Telehealth r/v booked in 5/7 to assess response rash and systemic sx start pred taper adjust dose check SE  
+Repeat bloods FBC CRP ESR U&E LFT in 1–2/52 as above ideally before second f/u visit  
+
+Pt understanding  
+Pt able to restate dx and plan “I’ll keep taking the methotrexate as usual and start the steroids tomorrow morning I’ll keep an eye on my temperature and if it gets high again I’ll call” appears reliable with f/u  
+
+[Addendum 22/11 16:10]  
+Letters to derm and rheum dictated and sent via HealthLink copies filed in notes awaiting any further recs re taper and malignancy screening strategy

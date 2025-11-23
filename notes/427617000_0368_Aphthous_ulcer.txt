@@ -1,0 +1,90 @@
+22/11/25  RACF round – f/up  
+
+79F in RACF Melb. Known Behçet, cyclic neutropenia, long smoker  
+
+CC  
+- wants “strong tablets to stop ciggies – Champix”  
+- painful mouth ulcer x ~5d  
+
+HPC  
+Smoking  
+- 50+ yr smoker, now ~8–10 cig/d (mostly offsite w family / carpark)  
+- demanding varenicline (not available)  
+- refuses “patches/lozenges” initially, hostile, then agrees to trial if framed as “strong”  
+- no ↑cough, no SOB, no CP, no recent LRTI  
+
+Mouth ulcer  
+- single painful oral ulcer 5d, ↓oral intake  
+- similar to prev Behçet flares, no genital/eye sx, no systemic sx  
+- using saline rinses w partial relief  
+
+Meds (RACF chart)  
+- Colchicine 0.5mg BD  
+- Prednisolone 5mg mane  
+- Omeprazole 20mg mane  
+- Amlodipine 5mg mane  
+- Paracetamol 1g QID PRN  
+- Ca/Vit D daily  
+- PRN laxatives  
+- No NRT  
+
+Allergies: NKDA  
+
+Exam (targeted)  
+Obs today: BP 138/76 HR 82 RR 16 SpO₂ 97% RA afeb  
+Oral: single 4–5mm shallow ulcer L buccal mucosa, grey base, ery halo, very TTP, no induration, no suspicious features, no other ulcers  
+Chest clear, CVS N, no nodes  
+
+Impression  
+1) Behçet-related oral aphthous ulcer – minor, no red flags, no sec infection clinically  
+2) Nicotine dependence – long-term, partially motivated, wants pharmacotherapy, varenicline not option → NRT trial  
+3) Behçet’s on colchicine + low-dose pred – stable otherwise  
+4) Cyclic neutropenia – ↑risk oral infection but currently stable  
+5) Fatigue / ?nutritional / ?anaemia – to review separately (time)  
+
+Plan  
+Mouth ulcer  
+- Continue saline mouth rinses  
+- Start triamcinolone acetonide 0.1% dental paste – apply to ulcer TDS after meals, NBM 30min post  
+- Start benzydamine 1% oral gel PRN 2–3 hourly for pain (PBS script, RACF to stock)  
+- Paracetamol PRN already charted – ask RN to offer pre-meals while ulcer painful  
+- RN to monitor size/pain; if not improving or worse at 10–14d or >2–3w total → re‑review, FBE, CRP, B12/folate/iron/zinc ± oral med/dentist for biopsy if atypical  
+
+Smoking  
+- Explained varenicline supply issues + risk profile given age/comorbidities  
+- No obvious CI to bupropion but will defer (age, polypharmacy, behavioural issues) → start with combo NRT  
+- New: nicotine patch 21mg/24h OD (PBS)  
+- New: nicotine lozenges 2mg PRN cravings, max 15/day  
+- Instructions to RN: apply patch daily upper arm/torso, rotate sites, observe for rash; supervise lozenge use; document cig use when offsite if possible  
+- Plan “cut down to quit” over next 4/52 – aim ~50% reduction then review  
+- Pt aware meds assist but not guarantee; somewhat reluctant but consented  
+
+Behçet / neutropenia  
+- No change to colchicine or pred today  
+- RN to watch for fever, spreading oral lesions, ↑pain, swelling, malodour → urgent GP review, FBE  
+
+Ix  
+- None today (time, stable)  
+- Next longer appt (1–2/52) for fatigue/nutrition workup  
+  - FBE (incl neutrophils)  
+  - Iron studies, B12, folate, ± zinc  
+  - U&E, LFTs, TFTs  
+
+RACF comms  
+- Verbal handover to RN: new scripts/orders for triamcinolone paste, benzydamine gel, nicotine patch + lozenges; monitor oral intake, ulcer, smoking pattern; call if ulcer not settling 10–14d or systemic sx  
+
+F/up  
+- Review 1/52 on next RACF round – ulcer + NRT use / cig count  
+- Book separate 20–30min review 2–3/52 for fatigue + bloods – suggest daughter/EPOA join by phone  
+
+Safety net (brief)  
+- Adv pt/RN: seek urgent review if ↑mouth pain, multiple new ulcers, dysphagia, breathing issues, bleeding, neck lumps, or fever/rigors  
+
+Billing  
+- RACF visit, bulk billed (item 731 equivalent RACF attendance – time >20min)  
+
+[Added 16:30 by Dr L. Smith – phone check with RN]  
+- RN confirms triamcinolone + NRT orders transcribed to med chart  
+- Patch to start tomorrow AM, benzydamine ordered from pharmacy  
+- No fever, ulcer unchanged this afternoon  
+- Plan as above – no further changes. Reviewed and OK.

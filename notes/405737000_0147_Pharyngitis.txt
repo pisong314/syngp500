@@ -1,0 +1,67 @@
+22/11/25 – RACF round – f/up review in room  
+
+CC  
+“Sore throat, chest + throat crook again”, URTI sx ~3 days. Staff asked for review.
+
+HPI  
+83y F in RACF, known pt, h/o GORD, chronic rhinosinustis, allergic rhinitus. Longstanding poor med complaiance.
+
+3 days URTI:
+- main c/o sore throat, worse yest “like razor blades”, a bit better today  
+- mild blocked nose + clear runny nose, on/off dry cough, no wheeze  
+- no documented fevers; pt “felt a bit hot last night”, no rigors  
+- eating/drinking ok but ↓ appetite. No diffculty w liquids, no drooling  
+- denies SOB, CP, abdo pain, D+V  
+
+Thinks aircon “blowing on my neck” caused it. Also blames “those reflux tablets” and has been skipping them: “I ran out… didn’t bother saying anything”. Staff confirm multiple PPI refusals over last mth.
+
+Baseline chronic rhinosinusitis/allergic rhinitis – daily congestion, forgets steroid spray “half the time”. No new facial pain, no purulent d/c.
+
+GORD – was well controlled on PPI, now more night throat clearing + some retrosternal discomfort on some nights, not acute today.
+
+Examination (focused)  
+Gen: Thin elderly, mildly unwell but comfy, talking full sentances.  
+Obs: T 37.4, HR 82 reg, BP 138/74, RR 16, SpO₂ 97% RA.  
+Throat: erythematous pharynx/soft palate, no tonsillar exudate, small tonsils, uvula midline, no drooling, no trismus.  
+Neck: small tender ant cerv nodes, mobile, no swellling.  
+Chest: clear, good AE, no wheeze/crackles.  
+Abdo: soft, NT.
+
+Impression  
+1. Acute pharyngitis / URTI – likely viral (cough, rhinorhoea, low/no fever, no exudate, not high‑risk ARF). No signs deep neck infection/airway compromise.  
+2. Chronic rhinosinusitis + allergic rhinitus – suboptimally controlled, contributing to ongoing throat irritation/postnasal drip.  
+3. GORD – poorly controlled due to non‑adherance; may add to chronic throat sx.  
+4. Ongoing med refusals / ?mild cognative issues – needs simple plan + RACF support.
+
+Plan  
+URTI / throat  
+- No abx – discussed viral picture with pt.  
+- Paracetamol 1g QID PRN pain/fever (max 4g/day) – already charted; RN to offer more regularly next 1–2 days if throat pain limiting intake.  
+- Saline gargles + warm fluids, soft diet as tolerated.  
+- Lozenges PRN if RN happy with swallowing.
+
+Red flags – RN to call GP/ambulance if: fever ≥38 persisting, worse throat pain, can’t swallow / refusing fluids, drooling, muffled voice, neck swelling, stridor, SOB, or genrally much more crook.
+
+Ix  
+- Nil today – no throat swab/bloods as mild, stable.  
+- If not improving or worse >5–7 days, consider throat swab + FBE/CRP (QML/SNP as per facility).
+
+Rhinosinusitis / allergic rhinitus  
+- Re‑explained need for regular steroid spray to reduce congestion + throat irritation. Pt: “I forget the nose stuff all the time” but agrees if staff bring with morning meds.  
+- RN: please prompt daily mometasone nasal spray as charted for at least 4/52, document refusals.  
+- Saline nasal spray PRN if available.
+
+GORD  
+- Continue esomeprazole 20mg mane with breakfast. RN to supervise, record any refusals.  
+- Briefly explained reflux can make throat “feel funny”; pt says “If it helps the throat, I’ll try”. Will need more detailed GORD review later (diet, nocturnal sx, bone risk) – book longer appt 2–4/52.
+
+Adherance / cognition  
+- Asked RN to keep closer note of refused meds (PPI + nasal spray esp) and gently reinforce why they’re needed when offering.  
+- Plan longer review with daughter/EPOA present for adherence strategies + possible cog screen.
+
+Follow‑up  
+- Review on next routine RACF round ~1 week – check throat, obs, oral intake.  
+- Earlier review if any deterioration as above.
+
+[Added 16:30 by Dr L. Chan – phoned RN]  
+RN reports pt ate lunch well, took paracetamol and PPI this morn, declined nasal spray “too much fuss” – refusal noted. No fever, obs stable. Plan unchanged, re‑address nasal spray at next visit.

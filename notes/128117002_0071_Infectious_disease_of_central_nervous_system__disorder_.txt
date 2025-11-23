@@ -1,0 +1,132 @@
+22/11/25  
+
+Reason for visit  
+R/V post hospital d/c cryptococcal meningitis persistent fevers + headache  
+
+HPC  
+54 yr Aboriginal man on DSP unemployed known to practice  
+Seen today 3/7 post d/c from regional hospital where treated for cryptococcal meningitis on background HIV advanced renal Tx 2018 deceased donor metastatic NSCLC on hold from systemic Rx  
+
+Main issue today ongoing fevers + headache since home  
+Pt "still getting hot and cold mostly at night" told by hospital to see GP if fevers persisting  
+Home temps up to 38.5 oral mostly evenings taking regular paracetamol partial relief nil rigors reported  
+
+Headache dull generalised 5/10 worse lying flat slightly beter sitting up nil clear photophobia nil neck stiffness volunteered  
+Visual sx mild transient blurring when headache bad nil diplopia nil visual field loss described  
+
+Neuro sx otherwise nil seizures nil new confusion partner confirms "back to his normal self" since leaving hosp nil focal weakness nil speech disturbance nil new sensory change  
+
+GI mild nausea nil vomiting eating light foods keeping fluids down drinking water + cordial  
+
+Resp baseline mild exertional SOB 2' lung CA unchanged nil new cough nil sputum nil pleuritic CP  
+
+GU nil dysuria nil haematuria no change in urine output from usual  
+
+Pt queries ?cheap fan heater or ?tap water at flat making him "crook" explained unlikely more likely related underlying CNS infection + immunosuppression  
+
+Carer input  
+Partner present main carer manages most meds at home uses chart on fridge says he has been "pretty good with the tablets" only noticed ↑tiredness and fevers in evenings denies any episodes of confusion or odd behaviour at home  
+
+Past medical hx  
+- Cryptococcal meningitis recent dx raised ICP required therapeutic LPs last LP 5/7 pre d/c reported improved opening pressure  
+- HIV advanced CD4 46 VL 95 000 copies/mL ART recently re-started in hosp ~2/52 after antifungal start per ID  
+- Renal transplant 2018 tacrolimus + pred mycophenolate held in hosp  
+- Metastatic NSCLC systemic therapy on hold  
+- CKD post Tx baseline Cr 130–150 eGFR ~45  
+- CMV low level viraemia no clinical disease per d/c summary  
+
+Meds (reconciled against boxes)  
+- Fluconazole 400 mg PO mane consolidation phase planned ≥8/52 then maintenance  
+- Co-trimoxazole DS 1 daily PJP prophylaxis  
+- Dolutegravir 50 mg daily  
+- TDF/FTC 300/200 mg daily  
+- Tacrolimus 1 mg BD (recent ↓ dose in hosp)  
+- Prednisolone 5 mg mane  
+- Oxycodone 5 mg PRN 1–2/day for cancer pain  
+- Paracetamol 1 g q6h PRN max 4 g/24h discussed  
+
+Adherence  
+Pt reports taking all meds daily chart on fridge missed one fluconazole dose yesterday fell asleep early otherwise nil missed doses partner agrees  
+
+Allergies  
+NKDA  
+
+Social hx  
+Lives in rental unit in town with partner limited income transport to regional hospital difficult but can attend local GP + path  
+Nil ETOH currently smokes 5–10 cig/day not addressed in detail today  
+On DSP not working  
+
+O/E  
+Gen alert oriented looks tired not toxic converses coherantly cooperative  
+Vitals BP 118/72 HR 96 reg RR 16 SpO₂ 97% RA T 38.1 tympanic  
+
+HEENT nil photophobia on exam fundoscopy attempted limited as pt struggled to keep still no obvious papilloedema though not well visualised  
+
+Neuro  
+GCS 15 CN grossly intact face symm PERRL power 5/5 all limbs tone reflexes normal plantars flexor bilat coordination intact finger nose heel shin normal gait steady able to tandem walk neck supple nil meningism Kernig Brudzinski neg speech normal  
+
+Resp  
+Chest L upper zone breath sounds ↓ known lesion rest clear no added sounds RR comfortable speaking full sentences  
+
+CVS  
+HS dual nil murmur periph perf good cap refill <2s  
+
+Abdo  
+Soft NT no organomegaly renal graft area non tender  
+
+Skin  
+Nil rash nil petechiae  
+
+Mental state  
+Mood appropriate affect congruent understands illness + plan able to repeat key points  
+
+Recent results (from d/c summary 3/7 ago)  
+FBC mild normocytic anaemia WCC 3.2 neut 1.5  
+UEC Cr 145 (baseline 130–150) eGFR ~45 stable range last 6/12  
+LFTs mild ↑ALP/γGT rest ok  
+HIV CD4 46 VL 95 000  
+CMV PCR low level viraemia no end organ disease  
+
+Assessment  
+1 Cryptococcal meningitis recent hosp admission early post d/c r/v persistent low grade fevers + headache haemodynamically stable GCS 15 neuro exam non focal nil meningism high risk host HIV + renal Tx + malignancy need to consider ongoing CNS infection raised ICP IRIS treatment failure or other OI cannot safely exclude raised ICP or relapse in GP setting  
+2 Fever in immunocompromised pt HIV + renal Tx + metastatic CA on steroids DDx ongoing cryptococcal infection IRIS esp given recent ART re start other sepsis source resp urinary line etc currently nil clear localising signs but low threshold for hosp r/v  
+3 HIV advanced on ART recently re commenced high risk IRIS needs close ID f/u VL + CD4 monitoring  
+4 Renal transplant on tacrolimus pred mycophenolate held potential interaction fluconazole ↑tacrolimus levels risk nephrotoxicity vs rejection requires close monitoring tac levels + renal function  
+5 Metastatic NSCLC systemic therapy paused contributes to overall frailty prognosis and threshold for admission  
+Overall impression high risk complex pt with recent CNS OI now with ongoing fever + headache though exam reassuring cannot be managed safely solely in community needs urgent ED assessment  
+
+Plan  
+Disposition  
+- Advised urgent ED r/v today at regional hospital given recent cryptococcal meningitis raised ICP severe immunosuppression persistent fevers + headache and limited capacity in GP to perform CT brain LP or urgent extended workup  
+- Pt agreeable asked if needs to "pack for hospital again" advised likely at least short admission/obs  
+- Phone handover given to ED triage / med reg 54M Aboriginal HIV+ renal Tx metastatic NSCLC recent cryptococcal meningitis treated with 14/7 IV ampho B + flucytosine now on oral fluconazole 400 mane d/c 3/7 ago now febrile 38.1 with headache neuro exam non focal GCS 15 haemodynamically stable but high risk requested assessment incl  
+  - Bloods FBC UEC LFT CRP ESR  
+  - Blood cultures if febrile  
+  - Consider CT brain ± repeat LP for opening pressure + CSF studies  
+  - Review antifungal regimen consider need to escalate  
+  - Check tacrolimus level review for drug interactions  
+  - Screen for other sepsis source and consider IRIS  
+- Ambulance transport arranged given risk of deterioration and limited home transport partner to follow with belongings  
+
+Meds / interim advice  
+- Continue current meds incl fluconazole ART tacrolimus pred until hosp team advise otherwise  
+- Paracetamol up to 1 g q6h PRN max 4 g/24h reinforced  
+- Advised not to drive or stay home alone given risk sudden deterioration seizure confusion etc partner currently providing supervision  
+
+Investigations  
+- SN path forms printed for FBC UEC/Cr LFT CRP ESR tacrolimus level blood cultures though advised these will be repeated more promptly in ED so not done here  
+
+Education / safety net  
+- Explained in plain terms that with his immune system and recent brain infection "even a mild fever can be serious" so need ED r/v rather than waiting at home  
+- Red flags discussed worsening headache visual changes confusion neck stiffness vomiting seizures new weakness chest pain SOB instructed to alert ambos / ED staff immediately if any of these occur en route  
+- Pt able to state back plan go by ambulance now ED to check if bug still active or pressure ↑ keep taking meds unless hospital changes them  
+
+Follow up  
+- Requested in handover that hosp team send d/c summary + updated plan re antifungal duration ART timing ICP strategy to our practice via HealthLink  
+- GP F/U planned within 3–5/7 after next d/c or earlier if requested by hosp  
+- Longer term when stable will need  
+  - Vaccination status review pneumococcal influenza COVID shingles  
+  - Smoking cessation support and broader chronic disease care  
+
+Time  
+Std 15 min appt majority spent assessment discussion with pt + partner and arranging urgent transfer non urgent issues deferred today

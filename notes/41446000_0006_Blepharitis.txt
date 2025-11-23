@@ -1,0 +1,49 @@
+22/11/25 10:05  
+
+RACF review – DM + eyes  
+
+S: 72F T2DM ~6y. Here for BSL review per RN. c/o “sugars up & down” + “eyes a bit crusty”. No polyuria/polydipsia/wt loss/CP/SOB. Eyes: months of gritty/burning OU, worse am, crusting lids, mild redness. No photophobia, ↓VA, FB sensation, purulent d/c, severe pain. Hx recurrent “styes”.
+
+O:  
+- Vitals: BP 128/76, HR 76, RR 14, afeb, SpO₂ 99% RA. BMI ~29.  
+- BSL chart (2/52): Fasting 6.8–9.5; pre-dinner 8–13, occas 15 post-prandial.  
+- Eyes:  
+  • Lids: erythematous margins, collarettes/crusts at lash base OU, mild thickening, few misdirected lashes.  
+  • MGs: plugging/inspissation, turbid secretions on pressure, mild T. Frothy tear film.  
+  • RUL 4–5mm firm NT nodule away from margin → c/w chalazion. No cellulitis.  
+  • Conj: mild inj OU. Cornea clear on torch, no obvious ulcer. PERRL, EOMI.  
+
+A:  
+1) T2DM – suboptimal control, no acute complication. Need HbA1c / CMP.  
+2) Chronic mixed ant/post blepharitis OU (±MGD).  
+3) RUL chalazion, small, stable.  
+4) Fall risk – recent mech fall (RACF).  
+
+P:  
+
+10:20 – DM  
+- Ix (RACF collection):  
+  • HbA1c  
+  • Fasting lipids  
+  • FBC, U&E, LFTs  
+  • Urine ACR if able  
+- Meds: ↑gliclazide MR 60mg mane → 90mg mane (1½ tabs) for BSL 8–15, no hypos reported. Continue metformin XR 1g nocte, atorvastatin 20mg nocte, PRN paracetamol.  
+- RN: continue BSLs as per current protocol; flag hypos or BSL >18 → GP.  
+- Plan long DM review 2–3/52 when bloods back (foot exam incl monofilament, BP targets, statin review, microvascular screen). Ask RACF to invite daughter.  
+
+10:28 – Eyes  
+- Dx blepharitis + MGD explained briefly.  
+- Lid hygiene regimen (to add to RACF care plan):  
+  • Warm compresses OU 2–5 min bd (clean warm cloth, not hot).  
+  • Then gentle lid margin clean bd with commercial lid wipes OR bicarb soln (1 tsp/500mL boiled cooled water) on cotton bud – fresh daily.  
+  • Gentle lid massage towards margin post-compress to express MGs.  
+- No topical abx – no evidence superimposed infection.  
+- Chalazion: conservative only (warm compress), no I&C indicated.  
+- Red flag advice to staff: urgent GP/ED if ↑pain, marked swelling/erythema, ↓vision, photophobia, ↑d/c.  
+
+Referrals:  
+- Non-urgent optom/ophthal review 3–6/12 for VA, DR screen, review blepharitis/chalazion. RACF to discuss logistics with EPOA.  
+
+FU: 2–3/52 GP review with results + reassess lids. If no improvement after ~4/52 good hygiene → consider doxycycline 100mg daily (then 50mg) ± ophthal input.  
+
+RTC/ED earlier if BSLs very high with sx, or eye red flags.

@@ -1,0 +1,46 @@
+22/11/25 08:42  
+
+34M SA background batt. recycling worker  
+
+CC: wants “same capsules for high lead” + iron repeat. “Only got 10 mins need to get back to work”  
+
+Hx  
+Known occ lead exposure ~5y on sorting/crushing line. Prev seen other clinic (no records) – told “lead levels high” → had course of “capsules to clean it out” + iron. Likely oral chelation (succimer) completed months ago.  
+Now mostly well. Mild fatigue only – attributes to double shifts / ↓sleep. Denies headache abdo pain N/V constip neuro Sx mood/cog change SOB CP.  
+Insists on repeat chelation “worked last time” but understands after brief explanation that unsafe w/o current BLL.  
+No current meds. No known allergies.  
+
+SH (brief)  
+Long shifts, hard to get time off. PPE use inconsistent (mask off when hot).  
+
+Ex  
+Obs: BP 132/84 HR 78 RR 14 SpO₂ 99% RA T 36.6 BMI ~27  
+Gen well, no distress. Neuro grossly NAD. CVS/Resp/Abdo unremarkable. No obvious pallor or Burton line.  
+
+Impr  
+1) Occ lead exposure / ?chronic low-level lead toxicity – currently asx. No prior results available. Not safe to re-start chelation empirically.  
+2) Hx iron deficiency – off iron for several months. Likely contributing to fatigue + ↑lead absorption risk.  
+3) Fatigue – likely multifactorial (shift work + probable Fe def).  
+
+Plan  
+– Explained cannot “just repeat” chelation w/o BLL + tox input. Pt reluctantly agrees to bloods today.  
+– Path (S&N):  
+  • Whole blood lead level (urgent, occ exposure)  
+  • FBC  
+  • U&E, Cr, LFT  
+  • Iron studies (ferritin, iron, TIBC)  
+  • Zn/Cu if lab can do  
+– Meds:  
+  • Start ferrous sulfate 325 mg PO mane (≈105 mg elemental) with vit C drink. Warn constipation / dark stools. Avoid tea/coffee around dose.  
+  • NO chelation Rx today – document: do NOT re-start chelation unless BLL↑ and after tox advice.  
+– Brief occ advice: consistent PPE, no eating in work area, wash hands, change/shower after shift. Suggest discuss with workplace H&S re monitoring / possible role change if BLL↑.  
+– Safety net: ED if severe headache confusn seizures severe abdo pain vomiting new neuro Sx. RTC if fatigue/SOB worse.  
+
+F/up  
+– Review 1/52 (or earlier if results back sooner) to discuss BLL + iron studies.  
+– If BLL significantly ↑ → urgent discussion with clinical toxicologist / Poisons Info, consider removal from exposure ± hospital-based chelation.  
+– If Fe def confirmed → continue oral Fe ≥3/12 after Hb/ferritin normal. Consider GI workup if marked / unexplained.  
+
+Pt understanding: initially frustrated re no “same script” but agrees to single blood draw today before work.  
+
+08:55 finished (running late)

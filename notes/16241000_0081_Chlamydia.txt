@@ -1,0 +1,93 @@
+22/11/25  
+
+29M Aboriginal, hosp worker, new pt  
+
+CC: cough  
+
+HPC  
+Dry cough ~1–2/52 ?on/off worse night + at work (kitchen). No CP, no SOB at rest, no haemoptysis. ?low-grade temp after beers. Mild ST only. No rhinorrhoea. Smoker 5–10/d. Thinks maybe from smoke at work.  
+
+Recent STI hx via shared record  
+- CT NAAT +ve urine 4/52 ago  
+- NG NAAT +ve pharynx 4/52 ago  
+- HIV Ab/Ag +ve new dx 2/12 ago (linked tertiary HIV svc)  
+- Syphilis serology +ve RPR 1:16 2/12 ago – on tx via sexual health  
+Pt vague re meds "pills + needle in bum" ?incomplete abx. Ongoing sex multiple partners M/F, inconsistent condoms.  
+
+PMHx  
+HIV on ART (likely BIC/FTC/TAF od – to confirm)  
+Syphilis – had benzathine pen 6/52 ago (per records)  
+CT urogenital – ?undertreated  
+NG pharyngeal – ?undertreated  
+No known asthma/COPD/TB  
+NKDA recorded  
+
+O/E  
+Obs WNL: BP 118/72 HR 86 RR 16 T 37.1 SpO₂ 99% RA  
+Chest clear, no wheeze/crackles, nil ↑WOB  
+ENT: mild post pharyngeal erythema, no exudate, no thrush  
+Abdo soft NT  
+Declined GU exam  
+
+Ix today  
+- Urine FP NAAT CT/NG  
+- Throat NAAT CT/NG  
+- Rectal NAAT CT/NG (self-collect with nurse)  
+- Syphilis serol (RPR)  
+- HIV VL + CD4 requested (noted usually done by HIV team → will reconcile to avoid duplication)  
+No CXR today – reserve if cough >3–4/52 or red flags  
+
+A  
+1) Subacute dry cough – likely viral URTI resolving / irritant (smoke, cigs). Chest clear, obs ok, low concern PNA/TB/asthma.  
+2) CT – recent +ve, poor adherence, high-risk behaviour → retreatment req.  
+3) NG – recent pharyngeal, ?incomplete tx → retreat as persistent infection.  
+4) HIV – new dx, on ART via tertiary svc, clinically well today.  
+5) Syphilis – on tx via sexual health; need coord.  
+6) Engagement/adherence issues – poor historian, chaotic work, ↑risk non-adherence/LTFU.  
+
+P  
+Cough  
+- Reassured, likely viral/irritant.  
+- Symptomatic only:  
+  - Paracetamol 1 g PO q6h PRN (max 4 g/d)  
+  - Simple linctus / honey PRN  
+- Smoking brief intervention – not ready to quit, will "cut down" → revisit later.  
+- Safety-net: RTC/ED if SOB, CP, fever, haemoptysis, worse; review if >3–4/52 → consider CXR/spiro.  
+
+CT retreatment  
+- Given adherence concerns, opted azithro regimen:  
+  - Azithromycin 1 g PO stat in clinic (DOT)  
+  - + Azithromycin 1 g PO to take at home 12–24h later (labelled pack, written + verbal instr)  
+- No sex x7/7 after starting tx + until any sx resolved. Strong condom advice ongoing.  
+- TOC NAAT ≥4/52 post-tx (esp rectal). Book GP review 4–6/52.  
+
+NG retreatment  
+- Treat as persistent:  
+  - Ceftriaxone 500 mg IM stat with 1 mL 1% lignocaine (R gluteal, nurse)  
+  - Azithro as above covers dual tx per local protocol  
+- No sex as above.  
+- TOC throat/rectal NAAT at 2/52 → book nurse/GP appt.  
+
+Contact tracing  
+- Discussed partners last 6/12 need STI screen (HIV, syph, CT, NG).  
+- Gave info for anonymous SMS notification services.  
+- Pt will contact "on/off girlfriend" + 1 male partner.  
+
+HIV/syph coord  
+- With pt consent will msg/fax HIV/sexual health clinic re:  
+  - Today’s CT/NG retreatment  
+  - Req confirm: current ART, adherence support, latest VL/CD4, syph plan + RPR schedule  
+- Encouraged to attend upcoming HIV appt (pt to check SMS/letter).  
+- Next visit here to cover vax (Hep A/B, HPV etc), smoking, broader preventive care.  
+
+Adherence support  
+- Simple written plan: time for 2nd azithro dose, no sex x7/7, f/up dates, red flags.  
+- Teach-back – pt able to repeat basics, needed exact time written ("take 2nd dose tonight 9 pm").  
+- Nurse phone call 2–3/7 to check 2nd dose taken, SEs, reinforce abstinence + f/up.  
+
+F/up  
+- Nurse call 2–3/7  
+- GP 2/52: cough review ± CXR, TOC NG throat/rectal  
+- GP 4–6/52: CT TOC, HIV/syph/prev care review  
+
+Billing: likely Level B, bulk billed (time slightly >15 mins but complex → left as B today due to clinic running late)

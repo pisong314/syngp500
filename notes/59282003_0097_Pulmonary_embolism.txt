@@ -1,0 +1,55 @@
+22/11/25   11:10  
+
+Review – SOB / “still puffing badly”  
+
+58 y/o F, known PE/DVT on apixaban, NSTEMI + stent last year, IBD.  
+Came in saying “I’m still so short of breath, this treatment’s not working, I can’t even walk to the letterbox.” Worsened over last ~1–2 days. No fever, no cough, no haemoptysis, no pleuritic pain today. Some chest “tightness”, feels can’t get a full breath. Mild light-headed on exertion only, no syncope.  
+
+Very focused on getting CT + abx from GP: “My usual doctor would send me straight for a scan and some antibiotics… I can’t sit in Emergency all night.” Repeatedly asking if she could avoid ED.  
+
+Meds (per pt, to match EMR):  
+- Apixaban 5 mg bd (PE/DVT) – says not missing doses  
+- Aspirin 100 mg daily  
+- Atorvastatin 40 mg nocte  
+- Bisoprolol 2.5 mg mane  
+- Ramipril 5 mg daily  
+- Mesalazine 800 mg tds (IBD). Recent pred course finished ~2/52 ago.  
+NKDA.  
+
+Obs on arrival (RA, sitting):  
+BP 124/76, HR 104 regular, RR 24, SpO₂ 95%, T 36.8. BMI ~29.  
+Later (end consult ~11:25): BP 122/78, HR 102, RR 22, SpO₂ 95%.  
+
+Exam (focused):  
+Gen: Anxious, talking in full sentences but clearly puffed walking in from waiting room.  
+Chest: Mild tachypnoea, chest clear, no wheeze, no focal crackles, good AE, no rub.  
+CVS: HS dual, no added sounds, JVP not up, no peripheral oedema, cap refill <2s.  
+Calves: L>R mild swelling, non-tender, no erythema/warmth (per previous baseline).  
+Abdo: Soft, mild diffuse tenderness only, no peritonism.  
+
+Recent background (from discharge summary 5/52 ago – base hospital):  
+- CTPA: segmental PE both lower lobes, mild RV strain  
+- Echo: preserved LV, mild RV dilatation  
+- Troponin mildly ↑ at that time (demand).  
+No new bloods since.  
+
+Impression (messy):  
+→ Known PE 6/52 ago, now with ongoing + recently worse exertional dyspnoea, tachypnoea and mild tachycardia. Haemodynamically stable, saturating OK, lungs clear.  
+Concern for:  
+- residual dyspnoea post-PE vs recurrent/progressing PE despite DOAC (esp with IBD, recent flare, ?absorption issues, immobility)  
+- less likely infection (no fever, chest clear)  
+- less likely ACS (no current chest pain, vitals stable, main sx SOB).  
+Given history of PE + RV strain, not appropriate for GP workup only – needs ED-level assessment and imaging (CTPA/VQ, trops, ECG, ?echo, review of anticoag).  
+
+Plan:  
+- Strongly advised URGENT ED review TODAY for reassessment of PE / RV strain and anticoagulation strategy. Explained cannot escalate anticoagulation or arrange urgent CTPA safely as outpatient. Discussed risk of deterioration / sudden death if recurrent/worsening PE.  
+- Offered ambulance given breathlessness + VTE hx – pt declined, wants partner to drive. Documented: pt states she will go straight to ED after leaving here, understands risks. Advised not to drive herself, call 000 if worse en route.  
+- No meds given here (no indication for SABA, no analgesia). Continue apixaban 5 mg bd and other cardiac meds until ED advises otherwise.  
+- Did NOT prescribe antibiotics – explained no evidence of infection and abx won’t treat PE; she unhappy but accepted after discussion.  
+- Printed brief summary + sent HealthLink referral/letter to local ED with today’s obs, exam, hx of PE/DVT, MI, IBD, current meds, and concern re possible recurrent PE / RV strain / DOAC failure.  
+
+Follow-up:  
+- GP review in 3–5 days after ED (or earlier if discharged sooner) to go through ED results, any change to anticoag, reassess SOB, then IBD/cardio stuff later in longer appt.  
+- Usual safety net: attend ED now as advised, 000 if acutely worse.  
+
+Time: ~15 mins, most spent on risk explanation + negotiating ED attendance.

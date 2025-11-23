@@ -1,0 +1,184 @@
+22/11/2025  
+
+Telehealth video consult r/v  
+
+# ID  
+52F office admin Sydney  
+
+# Reason  
+Gritty eyes bilat x few wks  
+
+# HPI  
+~2–3/52 hx bilat ocular discomfort  
+Describes "gritty scratchy burning abit" worse later in day esp after prolonged computer use conc@work ↑  
+Onset unclear "maybe last week or longer"  
+
+Intermittent mild redness of lid margins and bulbar conj  
+Some lash crusting on waking "little bits stuck on my lashes"  
+Nil sig mucopurulent discharge  
+Vision "mostly fine" occasional transient blur that clears with blinking  
+Nil diplopia nil marked photophobia nil acute vision loss nil severe eye pain nil halos  
+
+Prev "little lumps" on lids dx chalazion per pt managed conservatively nil current tender lumps  
+
+Self care  
+Occasional rinsing in shower  
+OTC lubricating drops "green box" partial relief  
+Nil CL use  
+Eye makeup most workdays sometimes not removed overnight  
+↑ screen time due to end of yr workload  
+Queries contribution from aircon at work and hand sanitiser transfer to eyes  
+
+Nil recent URTI or systemic illness  
+Nil known autoimmune or sig derm dx  
+Face flushes with wine but denies known rosacea  
+
+Telehealth limitations explained unable to do slit lamp or detailed lid exam advised need for in person if red flags  
+
+# PMHx  
+Difficult historian  
+Denies DM HTN but not fully certain "they havent said anything lately"  
+Hx chalazia both eyes timing unclear nil eye surgery  
+Nil known glaucoma  
+Nil known drug allergies  
+
+# Meds  
+Pt unable to clarify "little white pill in the morning for cholesterol or blood pressure" unclear  
+Occasional paracetamol  
+Lubricant drops name unknown  
+No current abx or ocular steroids recorded  
+
+(Review 03/05/2023 15/08/2024 meds list not available in My Health Record for this practice)  
+
+# FHx  
+Mother cataracts older age  
+Nil known FHx glaucoma or autoimmune disease per pt  
+
+# SHx  
+FT office admin high computer use  
+Non smoker  
+Social ETOH wine weekends  
+Lives with partner drives has access to pharmacy denies cost barrier  
+
+# ROS (focused)  
+Eyes as above  
+Nil sig photophobia nil diplopia nil acute unilateral sx  
+Skin nil sig flaking scalp/face "just a bit dry sometimes"  
+Neuro nil headache nil focal neuro sx  
+
+Partner in background briefly agrees eyes "look a bit red by the end of the day"  
+
+# Telehealth exam (video limited)  
+Gen well appearing NAD speaking full sentences  
+Eyes mild bilat lid margin erythema esp upper lids  
+Sclerae appear mildly injected but image intermittently pixelated  
+Nil obvious lid swelling nil obvious chalazion  
+Crusting not visible currently  
+EOM grossly full  
+Face mild diffuse cheek flushing no clear papules/pustules seen at this resolution  
+
+Nil vitals (telehealth)  
+
+# Assessment  
+1 Bilateral blepharitis likely chronic mixed anterior/posterior SNOMED 41446000  
+   Clinical picture consistent with lid margin inflammation with probable MGD  
+   Burning grittiness worse later in day morning crusting mild erythema transient blur that improves with blinking  
+   Age >50 raises suspicion of posterior blepharitis and possible Demodex involvement though cannot confirm without slit lamp  
+   Currently mild–mod sx nil red flag features for keratitis acute glaucoma orbital cellulitis etc  
+
+2 Hx recurrent chalazia  
+   Supports underlying MGD and chronic posterior blepharitis  
+   Nil current discrete lesion  
+
+3 Telehealth constraints  
+   Limited resolution prevents detailed assessment of lashes glands cornea  
+   Plan for in person r/v if not settling or if red flag sx  
+
+DDx considered  
+– Dry eye disease evaporative type 2° MGD vs primary aqueous deficiency  
+– Allergic conjunctivitis less likely given limited itch and minimal discharge  
+– Infective conjunctivitis unlikely nil mucopurulent discharge nil contact spread hx  
+– Rosacea blepharitis ? underlying ocular rosacea possible given facial flushing but no clear papulopustules on video  
+
+# Plan  
+
+Blepharitis / MGD management  
+Education  
+Explained chronic relapsing nature of blepharitis pathophys of MGD obstruction and tear film instability as per standard ophthalmic guidelines  
+Expectation of gradual improvement over wks with regular lid care rather than immediate cure  
+
+Lid hygiene  
+– Warm compresses both eyes bd x at least 4/52 then daily maintenance  
+  Clean face washer soaked in warm not hot water over closed lids 2–5 mins to soften secretions and crusts  
+– Lid cleaning immediately after compress  
+  Option 1 tea tree oil based  
+   • 1 tsp 100% tea tree oil in 100 mL freshly boiled cooled water  
+   • Use clean cotton bud/pad to gently clean along lash line upper and lower lids eyes closed  
+   • Avoid solution in eye stop if marked sting prepare fresh daily  
+  OR  
+  Option 2 baby shampoo  
+   • ~5 drops baby shampoo in 100 mL boiled cooled water  
+   • As above gentle lid margin clean  
+  Emphasised gentle technique clean materials discard leftover solution same day  
+
+– Lid massage for posterior component  
+  After compress gentle rolling massage of lids towards lash line to help express meibomian glands  
+
+Lubrication  
+– Adv to use preservative free artificial tears qid prn for dryness/grittiness pharmacist to assist brand selection suitable for frequent use  
+– Avoid preserved drops >qid  
+
+Makeup / environment  
+– Remove eye makeup nightly esp mascara eyeliner  
+– Avoid eyeliner on inner lash line  
+– Suggested short "makeup holiday" few wks while sx active  
+– Reduce continuous screen time 20–20–20 rule explained  
+– Avoid direct aircon blowing at face adjust workstation if possible  
+
+Demodex  
+– Explained Demodex mites common >50yrs may contribute to chronic blepharitis  
+– Tea tree oil based lid hygiene particularly useful aim is sx control not eradication  
+
+Meds  
+– Nil topical abx for now as nil evidence bacterial conjunctivitis or focal lid infection  
+– Nil oral doxycycline at this stage reserve for refractory posterior blepharitis after ≥4–6/52 of good compliance with hygiene as per usual GP/ophthalmology practice  
+
+Safety net / red flags  
+Advised urgent in person r/v GP or ED/eye casualty if  
+– Sudden ↑ eye pain esp unilateral or severe  
+– Marked photophobia or inability to open eye due to pain  
+– Sudden change or loss of vision or halos around lights  
+– Rapidly ↑ lid swelling warmth fever systemic unwell ?preseptal/orbital cellulitis  
+– Dense purulent discharge or eyelids glued shut  
+
+Comorbid / other issues  
+– Chalazia hx same warm compress massage regime to ↓ recurrence  
+  If new persistent lump develops will need in person exam poss ophthal ref for I&C if recurrent  
+– Unclear PMHx and meds "little white pill"  
+  Asked pt to bring all med boxes and written list to next face to face appt for reconciliation and BP lipids check  
+
+Fatigue  
+Pt briefly mentioned feeling "abit more tired lately"  
+Explained time limited today primary focus ocular sx suggested separate longer appt for general health review bloods etc  
+
+Investigations  
+Nil ordered today clinical dx via hx + limited exam  
+Future in person consider BP check fasting lipids FBE TFTs etc once PMHx clarified  
+
+Follow up  
+– Non urgent face to face r/v this practice in 3–4/52  
+  • Reassess blepharitis sx response to hygiene  
+  • Full ocular exam incl VA lids lashes MGD assessment fluorescein if available  
+  • Clarify PMHx meds CV risk factors  
+– If persistent sx after 4–6/52 of good adherence esp ongoing grittiness signs of posterior blepharitis  
+  • Consider doxycycline 100 mg mane for 6–8/52 then 50 mg mane depending response and tolerability  
+  • Consider ophthal ref if recurrent chalazia diagnostic uncertainty or concern for corneal involvement  
+
+Pt factors  
+Poor historian timelines and med details vague  
+Required repetition of lid hygiene steps  
+Summarised plan pt able to repeat key points "warm cloth then tea tree mix on the lids twice a day and drops when it feels scratchy"  
+Encouraged to write instructions down and pharmacist reinforcement  
+
+Billing  
+Telehealth video long consult item 92746 bulk billed

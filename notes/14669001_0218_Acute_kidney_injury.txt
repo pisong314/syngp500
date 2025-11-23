@@ -1,0 +1,81 @@
+22/11/25  Telehealth (phone) – ~15 mins  
+62yo male, retired construction worker, known decomp cirrhosis + HRS  
+At home near Bega. Wife in background on/off.
+
+Reason for call  
+Pt booked as “general health check, just want to go over everything and make sure nothing’s being missed” but mostly talking about liver/kidneys. Very anxious.
+
+Hx (all a bit mixed)  
+Says last few days “just more tired, need more rests”, still doing bits around house/yard. No clear SOB, no chest pain. Eating “a bit less but still 2–3 small feeds”. No weights (no scales).
+
+Ascites: abdomen “still big from the fluid”, maybe “a touch tighter than last month but could just be me overthinking it”. Last tap 4 wks ago at regional. Ankles “about the same as usual”. No sudden big jump in girth, no severe pain, no breathless at rest.
+
+Renal worries: has been googling AKI/HRS, says “sounds pretty deadly, I’m scared this’ll turn into permanent kidney failure or even cancer”. Wants kidneys checked “every couple of weeks at least”.  
+Urine: no dysuria, no haematuria, colour unchanged. Feels “maybe not peeing as much, especially in the mornings” but not measuring, definitely not anuric. Drinks ~1.5L/day, trying not to “overdo the water because of the liver”.
+
+Odd theories: thinks maybe “hard town water” or artificial sweetener “might be toxic to the kidneys”. Briefly reassured, not a likely cause in his context.
+
+Red flags asked: denies fevers/rigors, no black or bloody stools, no haematemesis, no new bruising/epistaxis. Says no new confusion; wife says “he’s about the same, I’m keeping an eye on him”.
+
+Meds (per pt, to recheck):  
+- Spironolactone 100 mg mane  
+- Frusemide 40 mg mane  
+- Propranolol 20 mg BD  
+- Lactulose 15 mL BD  
+- Omeprazole 20 mg mane  
+- Oxycodone 5 mg PRN (rare)  
+No NSAIDs – “they told me never to touch Nurofen again”.
+
+Admits on a few hot days he took extra frusemide 40 mg “to get the fluid off quicker”. No ACEi/ARB, no recent contrast, no new meds.
+
+Psych: longstanding health anxiety, repeatedly asks “are you sure we shouldn’t do more tests? I don’t want to wait till it’s too late”. Hard to redirect, catastrophises. Wife sounds a bit worn out with it but supportive.
+
+O/E (phone only)  
+No vitals (no BP, no temp at home). Speaking full sentences, sounds anxious but coherent, no audible SOB/cough. Describes abdomen as tight but “not really painful”. No suggestion of severe tenderness/rebound. Urine output not objectively known but clearly > complete oliguria from hx.
+
+Recent results (regional clinic, 10 days ago – from EMR, check date)  
+UEC: Cr 165 µmol/L (prev pre-HRS ~95; post-HRS baseline ~140), eGFR ~38  
+Na 130, K 4.6, urea mildly ↑  
+LFTs: cirrhotic pattern, albumin 26  
+FBC: mild normocytic anaemia, low platelets, stable. CRP low, no infection markers.
+
+Impression (messy)  
+Known decompensated cirrhosis with ascites + HRS, now ?worsening renal function / AKI on CKD in cirrhosis. Mild ↑ fatigue and subjective ↓ urine, no obvious sepsis or bleed from hx. High risk for HRS-AKI progression.  
+Prominent health anxiety driving request for “full check”. Needs monitoring but also boundaries.
+
+Plan (in no real order)  
+- Red flags discussed: attend ED/call 000 if:  
+  • Marked drop or no urine for 12–24h  
+  • New confusion/drowsiness, sudden ↑ abdominal girth, severe abdo pain  
+  • Fever, vomiting, melaena/haematemesis, chest pain, acute SOB.  
+  Wife aware, both say they understand.
+
+- Ix: pathology form sent electronically to local collection:  
+  • UEC, LFT, FBC, CRP.  
+  • Urine MCS; spot urine sodium if lab does it.  
+  Asked to go today or first thing tomorrow. Will arrange telehealth/phone review within 24–48h of results (set recall).
+
+- Meds/volume (primary care stop-gap):  
+  • Strong advice not to self-adjust diuretics.  
+  • Hold frusemide for 48 hrs pending bloods (unless hepatology/renal advise otherwise).  
+  • Continue spironolactone 100 mg mane for now – will review once new UEC esp K/Cr back.  
+  • Reinforced strict avoidance of NSAIDs and random “kidney cleanse” supplements he mentioned from internet.  
+  • Aim fluids ~1.5–2L/day unless specialists say otherwise.
+
+- Specialist coordination:  
+  • Will send brief summary via secure msg/fax to his hepatology team at regional centre today re: concern about possible renal deterioration, temporary frusemide hold, request guidance on diuretic/albumin strategy.  
+  • If new bloods show Cr ↑ >50% from recent 165 or >200, and/or worsening Na/urea, will direct straight to ED for likely HRS-AKI management.
+
+- Anxiety:  
+  • Validated worries but explained we’re focusing on bloods first, scans etc only if indicated.  
+  • Mentioned regular monitoring plan when stable (likely 2–4 weekly bloods) – to formalise later.  
+  • Flagged option of psych support/telehealth for health anxiety; he says “maybe later, want to sort the kidney thing first”.
+
+- “General health check” stuff mostly deferred – told him we’d need a longer face-to-face.  
+  • Asked to book long (20–30 min) F2F in 2–3 wks if stable to review cirrhosis care, vaccines, advance care planning, knee pain etc.  
+
+Follow-up  
+- Recall set for 24–48 hrs post-path results (telehealth/phone).  
+- ED earlier if any red flags as above.  
+
+Pt agrees overall but again asks “are you sure we don’t need more tests like scans now?” → reiterated bloods are priority and imaging will be guided by results/specialist advice.

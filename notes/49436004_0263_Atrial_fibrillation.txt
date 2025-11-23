@@ -1,0 +1,171 @@
+22/11/25   10:05  
+
+RACF GP ROUND – INITIAL R/V  
+
+S  
+84yo male RACF resident Anglo Aust ex coal miner  
+
+C/O  
+- “Backs been playing up for about a week now doc”  
+- Known AF COPD  
+
+HPC  
+LBP x ~7–10/7 gradual onset nil specific injury  
+Pain across lower back “dull ache across the belt line” occas sharp if twists  
+Worse getting out of bed standing walking >few mins  
+Eases sitting leaning fwd on walker “once I hunch over a bit its not as bad”  
+Pain up to 7/10 at worst currently ~4/10 after morning Panadol from staff  
+
+Nil leg radiation nil numbness tingling or weakness  
+Nil saddle anaesthesia  
+Nil bowel or bladder incontinence or retention  
+Nil recent falls baseline 4WW use unchanged  
+
+Sleep abit disturbed turning in bed pain worse initially on lying then settles  
+Pt theories “maybe this new mattress its too soft” also “sitting in that lounge chair too long watching the cricket”  
+
+Analgesia  
+On paracetamol 1g BD regular + PRN per chart says “I’ve been taking it every day like you said”  
+Avoiding NSAIDs due to anticoag  
+
+Systemic screen  
+Nil fevers night sweats wt stable per RACF  
+Appetite ok  
+
+Cardioresp sx  
+Baseline exertional SOB >20–30m unchanged  
+Nil chest pain nil ↑palps beyond usual “flutter” which he barely notices  
+Nil presyncope syncope  
+
+AF background  
+Known persistent NVAF yrs on rate control + DOAC  
+No recent fast HR episodes dizziness or ↑SOB  
+No recent hosp for AF or CCF  
+Asks “should I be worried this back pain is from the blood thinner or the heart” reassured likely mechanical but advised to report new chest pain collapse sudden SOB  
+
+PMHx  
+- Persistent NVAF  
+- COPD GOLD II–III  
+- HTN  
+- Hyperlipidaemia  
+- OA knees lumbar spine  
+- BPH  
+- ?CKD none known last eGFR ~60 >6/12 ago  
+
+Meds (per chart)  
+- Apixaban 5mg BD  
+- Metoprolol ER 50mg mane  
+- Perindopril 5mg mane  
+- Atorvastatin 20mg nocte  
+- Tiotropium 18mcg daily  
+- Budesonide/formoterol 200/6 2 puffs BD  
+- Salbutamol inh PRN  
+- Paracetamol 1g BD regular + 1g BD PRN (max 4g/d)  
+- Tamsulosin 0.4mg nocte  
+
+Allergies  
+NKDA  
+
+Social / functional  
+Widowed 2 adult kids visit weekly  
+Mobilises 4WW independent most ADLs staff assist showers  
+Ex heavy smoker quit ~20yrs rare etoh  
+Cognitive fxn intact EPOA eldest daughter  
+
+ROS focused  
+Cardiac nil CP orthopnoea PND ankle swelling  
+Resp baseline cough/SOB only nil haemoptysis  
+Neuro nil new focal deficit gait change only pain related  
+GU nil retention nil incontinence  
+Constitutional nil fevers chills night sweats  
+
+O  
+Seen in room seated in armchair  
+
+Obs  
+BP 126/72  
+HR 82 irregularly irregular  
+RR 18  
+SpO₂ 95% RA  
+T 36.6°C  
+BMI ~26  
+
+Gen  
+Alert orientated looks comfortable at rest moves carefully  
+
+CVS  
+HS I+II irreg irreg rate ~80 nil m/r/g JVP not ↑ nil oedema  
+
+Resp  
+Barrel chest ↓AE bilat scattered end exp wheeze no crackles consistent w baseline COPD  
+
+Back / MSK  
+Mild thoracolumbar kyphosis  
+Local TTP over lower lumbar paraspinals R>L  
+Nil focal midline spinous tenderness  
+ROM ↓ in flex ext lat flex due to pain but doable  
+SLR neg bilat  
+Gait short distance w 4WW antalgic but stable nil foot drop  
+
+Neuro LL  
+Power 5/5 L2–S1  
+Sensation LT intact  
+Reflexes symm plantars flexor nil saddle anaesthesia  
+
+Abdo  
+Soft NT no masses no obvious pulsatile mass (limited exam in chair)  
+
+Red flags screen  
+Nil trauma nil neuro red flags nil systemic sx nil cancer hx nil steroid use  
+On apixaban but nil bruising spinal TTP nil haemodynamic concern  
+
+A  
+1 Mechanical LBP likely flare of chronic lumbar spondylosis / OA 2° posture mattress/chair ergonomics  
+   - No features of cauda equina spinal infection fracture malignancy or retroperitoneal bleed at present  
+2 Persistent NVAF clinically stable on rate control + apixaban  
+3 COPD stable no current exacerbation  
+4 Elderly pt on DOAC polypharmacy needs renal fxn monitoring for safe dosing  
+
+P  
+
+#1 Mechanical low back pain  
+- Education re likely mechanical cause reassured not cardiac / DOAC related on todays findings  
+- Safety net: advise pt + staff to report immediately if new leg weakness numbness saddle anaesthesia bowel/bladder change severe sudden back pain or systemic sx  
+- Analgesia  
+  - Change Panadol regimen → paracetamol 1g TDS regular for 5–7/7 then reassess max 4g/d keep PRN charted but nursing to avoid >4g total  
+  - Continue to avoid NSAIDs given age AF DOAC COPD HTN  
+- Non pharm  
+  - Nursing staff to encourage short frequent walks w 4WW vs prolonged sitting in soft lounge chair  
+  - Simple lumbar flexion stretches within comfort verbal advice  
+  - Req RACF to check mattress firmness seating ergonomics consider firmer overlay if avail  
+- Ix  
+  - Nil immediate imaging indicated in absence of red flags  
+  - If pain persists >4–6/52 or worsens or red flags → consider LS spine XR ± further w/u  
+
+#2 AF – persistent NVAF  
+- Stroke risk high CHA₂DS₂‑VASc ≥4 age HTN etc anticoagulation appropriate  
+- Rate controlled haemodynamically stable nil change to metoprolol or apixaban today  
+- Ix ordered via RACF pathology  
+  - FBC U&E eGFR LFT TSH INR (baseline only despite DOAC)  
+- Counselled re bleeding risk vs stroke prevention pt asked “should I be worried about these side effects” discussed signs of bleeding melena haematuria large bruises sudden severe back or abdo pain instructed to alert staff/GP/hosp if occurs  
+
+#3 COPD  
+- Clinically stable continue tiotropium bud/formoterol salbutamol PRN  
+- Asked about “getting a bit more puffed on really hot days” explained expected w COPD and heat staff to monitor  
+- Plan dedicated COPD r/v next visit to check vax (flu pneumo COVID) action plan spirometry hx  
+
+#4 Meds / monitoring  
+- Med change today  
+  - Paracetamol 1g BD → 1g TDS regular short term as above  
+- Check renal fxn with ordered bloods to confirm ongoing safe apixaban dose adjust if eGFR ↓  
+
+Communication / follow up  
+- Nursing staff informed of back pain plan paracetamol dose change mobilisation advice physio r/f and red flag monitoring  
+- Physio r/f requested for back pain exercises + bed/chair assessment  
+- Pathology form left for routine bloods in next 7–10/7  
+- Plan GP r/v next RACF round ~1–2/52 or earlier if  
+  - Back pain ↑ significantly or any red flag  
+  - New AF sx CP palps syncope bleeding sx  
+  - Resp status deteriorates  
+
+10:22 finished note

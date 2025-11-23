@@ -1,0 +1,63 @@
+22/11/25  
+
+32F Aboriginal, known HIV. Hosp worker. F/up HIV + cough  
+
+HPC  
+10/7 hx URTI → sore throat, rhinorrhoea, low-grade temp, dry cough  
+Now URTI sx mostly settled, cough persists  
+Mainly dry, occasional small clear sputum, worse at night + talking/laughing at work  
+No SOB (can still do stairs at work), no pleuritic CP, no haemoptysis, no night sweats, no wt loss  
+No GI sx, no neuro sx  
+Max temp home 37.8  
+Contacts w “flu” at work + housemate  
+No recent OS/remote travel, no known TB contacts  
+Pt: “worried it’s something like PCP not just a virus” + queries bleach at work “irritating my airways”  
+Asked re “guidelines and low threshold for CXR in people with HIV and a new cough”  
+
+PMHx  
+HIV dx ~5y. On Biktarvy 1/d, excellent adherence  
+Last ID review ~3/12 ago → VL undetectable, CD4 ~420 (pt “just over 400”)  
+No prior OIs, not on TMP-SMX proph  
+Hx PID/recurrent BV – asymptomatic now  
+No asthma/COPD/DM/CKD/heart dz  
+
+Meds  
+Biktarvy mane  
+PRN paracetamol  
+Condoms for contraception  
+NKDA  
+
+Exam  
+Looks well, speaking full sentences, NAD  
+Obs: T 37.4 HR 86 BP 112/70 RR 16 SpO2 99% RA  
+Chest clear, no wheeze/crackles, good AE, no dullness  
+ENT mild postnasal drip, OP mild erythema, no exudate  
+CVS dual, no oedema  
+Abdo soft NT  
+No rash  
+
+Impression  
+1) Persistent cough ~10d in well-controlled HIV → c/w post-viral / post-infectious cough. Low suspicion PNA/PCP/TB given short duration, normal sats, normal chest exam, CD4 >400 but will err on cautious side (pt concerned)  
+2) HIV stable on ART, f/up ID as planned  
+3) Hx PID/BV – nil current issues, defer  
+
+Plan  
+– CXR PA/lat today (QXR) given HIV + new cough + pt anxiety re PCP/TB  
+– No resp viral PCR (onset >1 wk, unlikely to change Mx)  
+– Symptomatic only:  
+   • Honey/simple linctus PRN  
+   • Saline nasal spray/steam for postnasal drip  
+   • Paracetamol 1 g q6h PRN (max 4 g/d)  
+   • Avoid bleach fumes at work if poss, mask if needed  
+– Briefly discussed typical PCP picture (progressive exertional SOB, dry cough, fever, hypoxia) – current hx not typical but low threshold for Ix. Pt: “that matches what I read in the BHIVA guidance”  
+– HIV: continue Biktarvy, no change. Has ID clinic review ~3/12 – bring CXR report. Routine HIV bloods to be done via ID (avoid duplication)  
+– Vaccinations: ?pneumococcal – to check records next visit, may need update  
+
+Safety net  
+RTC/ED if SOB esp on exertion, high fevers/rigors, haemoptysis, pleuritic CP, or systemic decline (↑fatigue, night sweats, wt loss)  
+
+F/up  
+Review 1/52 (telehealth OK if stable) to check CXR + sx  
+Earlier if deteriorates  
+
+Review 03/05/2023 15/08/2024 – ignore, old recall left in system, will update at next visit

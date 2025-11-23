@@ -1,0 +1,53 @@
+22/11/25 08:42  
+
+69yo M, retired truckie, ex‑smoker (60 pack yrs, quit ~5 yrs). Lives with wife.  
+
+Came in “for those breathing tests and the blood clot scan – only got 10 mins”. Mainly result review. Known COPD, OSA on CPAP, recent PE.  
+
+Hx today (bit rushed, pt trying to leave):  
+- Still SOB on exertion – “puffed hanging the washing, used to walk to the shops fine”. No sudden change last few days.  
+- No ↑ cough, sputum, or infective features. Occasional dry cough AM. No haemoptysis.  
+- Using salbutamol most days, ~2–3x/day before walking further than letterbox.  
+- No chest pain now, no palpitations, no syncope.  
+- OSA – admits CPAP only ~4 nights/wk, sometimes sleeps in recliner.  
+
+Recent PE:  
+- Admitted ~6 wks ago with SOB + pleuritic CP → CTPA: segmental PE RLL, no RHS. Started apixaban 5 mg bd. No bleeding sx reported today.  
+
+Obs today (quick): BP 132/78, HR 82 reg, RR 18, SpO₂ 93% RA, afebrile.  
+Gen: Overweight, mildly dyspnoeic walking from waiting room but talking full sentences.  
+Chest: Hyperinflated, ↓ AE bilat, scattered end‑expiratory wheeze, no focal crackles. CVS: HS dual, no oedema.  
+
+Results reviewed:  
+- Spirometry (last week, with bronchodilator): FEV1 52% pred, FVC 78% pred, FEV1/FVC 0.52. Post‑BD ↑FEV1 only 6% (no sig reversibility). → Moderate obstructive defect consistent with COPD.  
+- CTPA (hospital 6 wks ago): segmental PE RLL, background emphysema, no consolidation, no RHS.  
+- CXR (hospital): hyperinflated, no acute infiltrate.  
+- Hosp bloods: FBC, U&E, LFT all WNL, trop/BNP normal.  
+
+Impression (scribbled while he’s standing at door):  
+1) COPD – moderate, clinically stable today, no clear exacerbation. Persistent exertional dyspnoea likely COPD + recent PE + deconditioning. Reliever use high.  
+2) Recent PE on apixaban – stable, no recurrence or bleed sx. Need clarification on duration (min 6–12/12?).  
+3) OSA with poor CPAP adherence – overlap with COPD. Needs more time for counselling.  
+4) Time‑limited consult – will need long review soon for chronic disease tidy‑up.  
+
+Plan (abbreviated – pt rushing):  
+- Explained spirometry in simple terms: “moderate COPD, this is your baseline, not a flare today”.  
+- Continue LAMA/LABA: tiotropium 18 mcg inhaled daily + indacaterol 150 mcg daily (confirmed no ipratropium).  
+- Salbutamol pMDI 100 mcg: continue PRN, advised not to exceed ~6–8 puffs/day and to see GP if needing more or worsening SOB.  
+- Very quick verbal check of inhaler technique; pt declined demo, agrees to see practice nurse for full inhaler check + COPD education at longer appt.  
+- PE: continue apixaban 5 mg bd. No new script required today. Asked reception to chase hospital discharge summary / resp/haem letters (via HealthLink / My Health Record) to confirm PE aetiology + anticoag duration.  
+- OSA: reminded re CPAP use each night; offered sleep clinic review for mask issues – declined today (“no time”), will reconsider.  
+- Mentioned pulmonary rehab as option given deconditioning + recent PE – pt “maybe, depends on mornings”. To discuss properly at long review.  
+- No new tests ordered today due to time and clinical stability. Plan next visit: baseline bloods (FBC, U&E, LFT, lipids, HbA1c) – likely SNP/QML.  
+- Brief safety net only: attend ED/000 if sudden SOB, chest pain, haemoptysis, or can’t walk room to room; see GP same day if needing Ventolin more than every few hours.  
+
+Follow‑up:  
+- Asked reception to book long (20–30 min) appt within 1–2 wks AM for COPD review, action plan, inhaler technique with nurse, pulmonary rehab referral, OSA/CPAP, bloods, and to finalise apixaban duration once hosp info back. Pt reluctant but agreed to early‑morning long slot “so I can get on with my day”.  
+- Vaccs, CV risk, BP etc – defer to long review.  
+
+Billing: Std Level B, bulk billed.  
+
+[Added 16:30 – Dr L. Smith]  
+- Hospital discharge summary now in inbox (quick read): PE described as ?provoked by recent immobility post viral illness, plan at least 6/12 apixaban then review. No contraindications noted.  
+- Will review with pt at upcoming long appt, consider total duration 6–12/12 depending on risk factors.  
+- Task left for reception to ensure long appt booked if not already.

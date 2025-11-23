@@ -1,0 +1,137 @@
+22/11/25  
+Telephone consult  
+
+Pt: 42 yr woman regular pt of practice lives in rural town works as community support worker
+
+Reason for consult  
+Pt requested phone appt re recurrent oral thrush  
+"cream for thrush on my tongue again"  
+Also wanting to "check its not something worse with my HIV"  
+
+Hx of presenting problem  
+5–6/7 Hx oral sx  
+White patches on tongue and hard palate "like cottage cheese" that she can scrape off  
+Mild burning esp with hot or spicy foods otherwise "mostly just annoying not really painful"  
+Altered taste "food tastes abit funny like cottony"  
+Nil dysphagia nil odynophagia nil retrosternal pain  
+Nil fevers rigors or feeling systemically crook  
+Nil SOB cough new wt loss appetite ok  
+
+Context  
+Completed abx course ~2/52 ago for leg skin infection likely fluclox per old notes  
+Onset of sx shortly after stopping abx  
+Has ↑ intake of sugar‑free soft drink lately asking "could that be making it worse" explained may alter oral environment but main drivers likely abx + BSLs  
+
+Prev episodes  
+Recurrent oral thrush in past in setting of HIV + variable DM control  
+Last episode ~8/12 ago good response to topical miconazole oral gel x10/7  
+Nil Hx oesophageal candidiasis documented  
+
+PMHx (brief r/v)  
+HIV on ART tenofovir/emtricitabine + dolutegravir usually adherent  
+Last HIV VL undetectable 4/12 ago CD4 420  
+T2DM on metformin 1 g BD + gliclazide MR 60 mg mane last HbA1c 8.2% (3/12 ago) pt says "my sugars been abit up and down esp with night shifts"  
+Obesity BMI ~34 at last face to face r/v  
+Nil inhaled steroids nil dentures non smoker  
+
+Meds (per record confirmed)  
+- Tenofovir/emtricitabine 1 tab mane  
+- Dolutegravir 50 mg mane  
+- Metformin 1 g BD  
+- Gliclazide MR 60 mg mane  
+- Atorvastatin 20 mg nocte  
+Nil anticoag incl nil warfarin  
+NKDA  
+
+Red flag screen (tel)  
+Nil difficulty swallowing solids or liquids  
+Nil retrosternal pain  
+Nil fixed white patches or lumps per pt description lesions wipe off  
+Nil oral ulceration or bleeding  
+Nil recent hospital stay neutropenia indwelling lines  
+
+ICE  
+Ideas thinks due to "those antibiotics" and "my sugars not being great"  
+Concerns worried "is this a sign my HIV is getting worse again" reassured current picture + recent VL/CD4 suggest stable HIV oral thrush common with abx + DM  
+Expectations wants effective tx and advice to avoid recurrence  
+
+Exam (tel only)  
+Not examined in person  
+On phone speaking full sentences voice clear nil audible SOB nil distress  
+Hx and prior pattern suggest pseudomembranous oral candidiasis mild–mod  
+Nil features from Hx to suggest oesophageal involvement or systemic sepsis  
+
+Assessment  
+1 Oral/oropharyngeal candidiasis pseudomembranous type in adult with risk factors recent abx T2DM suboptimal control HIV (currently well controlled) obesity  
+   Likely uncomplicated oral thrush confined to oropharynx  
+2 HIV infection stable on ART last VL undetectable CD4 420 not primary issue today  
+3 T2DM suboptimal glycaemic control contributing to recurrent infections brief discussion only this consult  
+4 Obesity background RF  
+
+Differential dx  
+- Oral candidiasis most likely given classic description removable white plaques temporal link to abx DM HIV  
+- Less likely leukoplakia or oral lichen planus as lesions wipe off and acute onset  
+- Viral stomatitis unlikely nil ulcers nil systemic sx  
+- Oesophageal candidiasis unlikely currently as nil dysphagia odynophagia retrosternal pain  
+
+Ix  
+Given recurrent thrush + immunocompromise (HIV + DM) plan further r/v  
+- Arrange in person GP appt within 1/52 for full oral exam  
+- At that visit consider oral swab for MCS if lesions atypical or poor response to current tx or ?resistance  
+Path ordered today via EMR to local pathology (S&N)  
+- HbA1c  
+- Fasting lipids UEC LFT  
+- Fasting BSL  
+- HIV VL + CD4 count (due for routine monitoring so aligning)  
+Results pending  
+
+Management  
+
+1 Oral candidiasis  
+- Start miconazole 2% oral gel 2.5 mL QID after food for 10–14/7 continue ≥2/7 after sx resolution  
+  Apply with clean finger spread over tongue cheeks palate hold in mouth then swallow  
+  Avoid food drink x30 mins post dose  
+- Explained expected improvement over few days advised complete course even if beter  
+- AEs discussed nausea local irritation possible advised to seek care if rash breathing difficulty or sx worsen or nil improvement by ~5–7/7  
+- If inadequate response or intolerance at f/u will consider oral fluconazole eg 200 mg daily x7/7 per eTG check for DDI with ART (none signif with current regimen but will reconfirm)  
+
+2 Risk factor modification / self care  
+- Oral hygiene emphasised brush teeth BID soft brush gentle tongue clean rinse mouth with water after meals and after soft drinks  
+- Advised ↓ frequency of soft drink including sugar‑free as acidic and may predispose to oral issues encourage water as main drink  
+- Already non smoker nil dentures  
+
+3 Diabetes  
+- Reiterated link between ↑ BGLs and recurrent thrush and skin infections  
+- Asked pt to book chronic disease r/v with PN + GP in next 2–3/52 to address  
+  • Meds optimisation  
+  • Diet physical activity wt  
+  • Foot check vaccs etc  
+Pt says "I can come in next week after my morning shift"  
+(Prev plan DM r/v 03/05/23 15/08/24 not done so will combine)  
+
+4 HIV  
+- Reassured that this episode does not necessarily indicate HIV progression given recent undetectable VL and reasonable CD4  
+- Encouraged strict adherence to ART pt says "I havent missed any tabs"  
+- Will r/v new VL/CD4 when available and continue usual specialist f/u schedule  
+
+5 Safety net  
+- Advised to seek urgent review GP or ED if  
+  • New difficulty or pain swallowing food sticking or chest pain on swallowing (?oesophageal candida)  
+  • Fevers rigors feeling very crook or markedly fatigued  
+  • New oral lesions that do not wipe off persistent ulcers lumps or bleeding  
+Pt verbalised understanding repeated key points coherantly  
+
+6 Other issues  
+Pt briefly mentioned wt concerns and "knees playing up abit" deferred detailed discussion to upcoming chronic disease r/v due to time today  
+
+Plan / F/U  
+- Script for miconazole oral gel sent to local pharmacy eRx  
+- In person GP appt within 1/52 for oral exam assess response to tx collect any outstanding pathology forms if needed  
+- Chronic disease r/v (DM wt HIV monitoring knee pain) with GP + PN in ~2–3/52 consider care plan / review item  
+- If thrush not significantly improved by day 7 or recurs soon  
+  → consider oral fluconazole course  
+  → oral swab MCS  
+  → discuss with HIV specialist if atypical or resistant picture  
+
+Pt engagement  
+Cooperative engaged asked appropriate Qs about meds and prevention good recall of ART + DM meds confirms adherence appears reliable historian

@@ -1,0 +1,66 @@
+22/11/25  Tel consult – bulk billed – post-hosp f/up
+
+Pt rang to “go over those lung test results and the X-ray, see if my lungs are stuffed”.
+
+72yo male, known COPD/asthma overlap, OSA on CPAP, recent RLL pneumonia with COPD exacerbation. Former heavy smoker – now says “only the odd one when the boys come over”.
+
+Recent hosp (about 10 days ago, local regional hospital) – discharge summary in letters:
+- Dx: RLL pneumonia, type 2 resp failure, COPD exacerbation
+- IV abx + steroids + nebs → home on 5/7 pred, 5/7 doxy, usual inhalers
+- Suggested: GP review 1/52, repeat CXR 6–8/52, pulm rehab, smoking cessation, check inhaler technique
+
+Today by phone:
+Breathlessness “about the same as when I left hospital”. Gets SOB walking lounge → kitchen, rests, then ok. Mild cough, small amount white sputum, no blood. No chest pain, no fevers/rigors, no new ankle swelling. Sleeping “so‑so”, worse if lies flat without CPAP.
+
+Non-adherence again:
+- “Ran out of the blue puffer a few weeks ago… just used the grey one when I remembered.”
+- Abx: “stopped a day early ‘cause I felt alright”.
+- Pred: “might’ve missed a couple”.
+- Has not booked pulm rehab or resp clinic – “didn’t get around to it”.
+- CPAP “maybe three nights a week”, mask uncomfortable. Wife on phone briefly – says he “forgets half his puffers unless I nag him”.
+
+Results (in MyHR/letters):
+- CXR (8 days ago): RLL consolidation improving, no effusion, hyperinflated lungs c/w COPD. Radiology rec repeat CXR 6–8/52 to ensure resolution / exclude lesion.
+- Bloods on discharge: WCC 9.8 (was 15 on admission per letter), CRP 18 and falling, U&E/LFTs normal.
+- Spirometry ~3/12 ago: FEV1 45% predicted, FEV1/FVC 0.54 → mod–severe COPD (no prior spirometry values given to compare).
+
+Telehealth “exam” (limited):
+Speaking full sentences on phone, no audible wheeze, answers appropriately. Denies confusion, central chest pain, blue lips/fingers, marked leg swelling. Can manage ADLs slowly at home with rests. No SpO2 available.
+
+Meds (per pt + discharge):
+- Tiotropium 18mcg daily – “forget it half the time”
+- Budesonide/formoterol 400/12, 2 puffs BD – often only takes “a couple of puffs when I’m tight”
+- Salbutamol 100mcg pMDI PRN – currently none at home
+- CPAP nocte – poor adherence as above
+No known drug allergies.
+
+Assessment (all interlinked really):
+1) COPD mod–severe – post recent exacerbation, now clinically stable by history but still quite limited exercise tolerance and very poor adherence. High risk for further exacerbations.
+2) Recent RLL pneumonia – improving clinically + on CXR, but not fully resolved; needs repeat imaging given age + smoking history (?underlying lesion).
+3) OSA – suboptimal CPAP use, likely contributing to fatigue and nocturnal SOB.
+4) Non-adherence to meds/follow-up – major issue; pt admits “I just forget” / “couldn’t be bothered going back in”.
+
+Plan (telehealth constraints):
+- Explained CXR: pneumonia improving, COPD/emphysematous changes present. Reassured lungs “damaged but not totally stuffed”, but stressed risk if he keeps missing meds / still smoking.
+- Reiterated importance of completing courses – flagged that stopping abx/pred early ↑risk relapse and rehosp.
+- Scripts:
+  • eRx: Salbutamol pMDI 100mcg, 1–2 puffs PRN SOB/wheeze, max 6–8 puffs/day, use with spacer.
+  • No steroids/abx now – no clear current exacerbation by hx.
+- Reinforced: tiotropium DAILY, budesonide/formoterol BD REGULAR even when “feels alright”. Suggested phone alarms, keeping puffers where visible; wife to help remind.
+- Inhaler technique to be checked properly at next face‑to‑face (not feasible over phone).
+
+- Safety net: advised to call 000/ED if marked ↑SOB (can’t speak in full sentences / can’t walk room to room), new chest pain, confusion, blue lips/fingers, high fevers, or needing salbutamol more than q3h or with no relief. Told to ring clinic sooner if any deterioration or new concerns.
+
+- Investigations:
+  • Ordered repeat CXR (PA + lat) for ~6 weeks from initial pneumonia (e-request to local imaging). To review result in person and consider further workup if not resolved.
+
+- OSA: encouraged more regular CPAP use, even partial nights initially. Suggested review of mask fit with sleep clinic; he “hasn’t got around to calling them” – will revisit next appt, can re-refer if needed.
+
+- Smoking: admits “maybe one or two smokes” socially. Strongly advised complete cessation; offered Quitline, not keen today.
+
+- Follow-up:
+  • Book face‑to‑face review in ~5–7 days: obs incl SpO2, chest exam, COPD symptom review, inhaler technique, adherence, consider COPD action plan + pulm rehab referral.
+  • Separate appt in ~6–8/52 to review repeat CXR.
+  • Other chronic care (vaccines, CV risk, ACP) to be done later when more time and if he attends.
+
+Time ~12–13 mins, mostly results explanation + COPD/pneumonia review + adherence + safety net.

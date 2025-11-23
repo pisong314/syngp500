@@ -1,0 +1,80 @@
+22/11/25 10:05 – RACF Cobram round
+
+ID: 82F, high-care RACF (note: prev letter says 81F 2024).  
+
+CC: “yeast on my face + scalp – want strong tablets”.
+
+HPI  
+- Chronic flaky/itchy scalp + facial rash, ↑ last 3–4/52  
+- Distrib: scalp, eyebrows, NL folds, peri-auric, hairline; mild presternal + under breasts  
+- Itch mild, “tight/greasy/scaly”  
+- No fever/rigors, no oral/genital thrush, no new prods  
+- No hx psoriasis/eczema/rosacea documented  
+- Very fixated on oral “anti-fungal tablets” – says Sydney GP “always gave tablets” (none on MyHR / med chart)
+
+PMHx  
+- Seb derm (old GP letters)  
+- Otherwise minimal comorb (simple analgesia, laxatives, Ca/Vit D only)  
+- No known immunosuppression, no known HIV
+
+Allergies: NKDA
+
+Meds (relevant)  
+- Sorbolene PRN  
+- No current medicated shampoo / topical steroid / topical azole
+
+Obs (RACF set)  
+- BP 132/70, HR 76 reg, RR 16, T 36.5, SpO₂ 97% RA
+
+Exam – skin focused  
+- Scalp: diffuse fine white-yellow scale, mild erythema frontal/parietal, no plaques, no pustules, no fissures  
+- Face: erythematous greasy scale in NL folds, medial cheeks, eyebrows, peri-auric; NL folds involved (→ seb derm, not ?CLE). No sig telangiectasia/ocular ∴ rosacea unlikely today  
+- Trunk: mild erythema + fine scale presternal + under breasts; no maceration, no satellite lesions, NIL thrush  
+- No nail pitting / classic psoriatic plaques  
+- No oral thrush, no LN↑
+
+Impression  
+1) Seborrhoeic dermatitis – scalp/face + mild truncal/flexural. Chronic, current mild–mod flare. Typical pattern, Malassezia-related, NIL 2° bacterial infxn, NIL candidiasis.  
+2) High-expectation / tablet-seeking behaviour – wants systemic Rx despite mild dz; lengthy explanation re risk/benefit.  
+3) HIV risk low by hx, dz not severe/recalcitrant → defer HIV screen unless poor response/atypical later.
+
+Plan (Rx today)  
+- Face/flexures/trunk:  
+  • Hydrocortisone 1% + clotrimazole 1% cream bd to affected areas x up to 14/7 max, very thin layer, avoid eyes. Cease when clear. RACF to chart/admin.  
+- Scalp:  
+  • Ketoconazole 2% shampoo BIW – leave 3–5 mins then rinse. Other days: gentle non-perfumed shampoo.  
+- Skin care:  
+  • Change to soap-free wash (e.g. QV/Cetaphil) for face/flexures.  
+  • Continue sorbolene as emollient to non-medicated areas.
+
+Rationale (brief)  
+- Explained chronic/relapsing nature; Malassezia contributory but not “wipe-out” infection.  
+- Advised oral azoles not 1st line here (mild–mod dz, age, systemic risks).  
+- Pt queried “why holding back” – discussed guideline-based stepwise approach. Some residual dissatisfaction but agrees to trial.
+
+Monitoring / red flags  
+- RACF to notify GP if:  
+  • ↑ erythema, pain, weeping, crusting, fever → ?2° infxn  
+  • NIL improvement after 2/52 topical combo + ketoconazole  
+  • Suspected steroid AE (skin atrophy, perioral derm etc)
+
+Next steps if poor response  
+- Consider:  
+  • Step-up to separate mild topical steroid (e.g. desonide or methylprednisolone aceponate) + topical antifungal  
+  • Tar-based scalp preps  
+  • Derm referral if severe/recalcitrant/atypical  
+  • HIV test if disease pattern atypical or refractory (explained; pt dismissive, but documented).
+
+Ix  
+- NIL today – typical seb derm, mild–mod, no red flags. Will reconsider if non-responder / atypical.
+
+Other issues  
+- Pt requested urgent local derm referral – discussed limited local access; agreed to trial 1st-line Rx first.  
+- Mentioned hearing concerns – asked RACF to book separate appt for hearing review ± audiology.  
+- Review 03/05/2023 15/08/2024 – correction: plan review 2/52 next RACF round or earlier if deterioration.
+
+Follow-up  
+- 2/52 on RACF round to assess response.  
+- Earlier PRN if worse / ?infection / Rx intolerance.
+
+[No addendum – single author]

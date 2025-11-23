@@ -1,0 +1,83 @@
+22/11/25 09:15  
+Telehealth (phone) – standard  
+
+Pt: 72 y/o Aboriginal man (ret truck driver) well known to clinic with T2DM, glaucoma, cataracts, diabetic eye disease.  
+
+Reason for call:  
+Wants “laser for the bad eye” today. Says optom told him “spots near the middle bit, macula”. Very anxious about going blind.  
+
+HPI (bit all over the place):  
+- Seen by community optom ~3 days ago – report scanned yesterday. Mild–mod NPDR OU, R>L, lesions close to macula/disc R, ?early macular oedema R. IOP “within target”. Recomm “urgent (within 2 weeks) ophthalmology assessment; ?anti‑VEGF vs laser”.  
+- Pt reports 4–6/52:  
+  • Blurry R eye esp reading small print  
+  • Trouble with street signs at night, glare from lights  
+- Denies: sudden vision loss, curtain/veil, flashes, new floaters, eye pain, redness, HA, N/V, trauma.  
+- Very fixated on immediate procedure:  
+  “They told me I could go blind if I don’t get the laser now.”  
+  “My mate got injections in his eye… fixed straight away – why can’t you just book me in for that?”  
+  Wants this week, not “months in the public system”.  
+
+Background bits (scattered):  
+- T2DM ~18 yrs. On metformin XR 1 g mane + insulin glargine 24 u nocte (self‑titrates). HbA1c 8.3% 3/12 ago (was 7.9% last year).  
+- eGFR 76, ACR mildly ↑ (3/12 ago). LFTs normal.  
+- On perindopril 5 mg mane, atorvastatin 40 mg nocte, aspirin 100 mg mane.  
+- Glaucoma – latanoprost 0.005% 1 gtt OU nocte but “I forget some nights”. Last ophthal review >3 yrs? (kept getting cancelled per pt).  
+- Cataracts – previously described as early, no surgery yet.  
+- Smoking still ~5–7 cig/day.  
+- Lives with partner, limited $$, not keen on private fees. Some mistrust of hospital system.  
+
+Objective (no exam – phone):  
+Last vitals in EMR (about 3 weeks ago): BP 146/82, HR 72, BMI 30.  
+Eyes: relying on optom report only today. VA not clearly documented there, just “slightly reduced R eye”.  
+
+Assessment (jumping around a bit):  
+1. Diabetic retinopathy – mild–mod NPDR with macular involvement R (?early macular oedema). Vision‑threatening but not an acute retinal emergency based on hx (no sudden loss, no flashes/floaters, no pain). Needs URGENT but not same‑day ED.  
+2. T2DM with chronic complications – suboptimal control (HbA1c 8.3%, trend up from prior). Long duration.  
+3. Glaucoma – probably stable IOP per optom but overdue specialist review; adherence to drops poor.  
+4. Cataracts – contributing to visual sx, non‑urgent.  
+5. Vascular risk – on high‑intensity statin; candidate for fenofibrate re retinopathy progression (renal function ok).  
+6. High expectations / health system frustration – pushing for “laser this week”, risk of non‑attendance if process too slow/complex.  
+
+Plan (slightly out of order):  
+
+– Ophthalmology  
+• Explained I cannot directly “book laser/injections” without ophthal review and OCT.  
+• URGENT e‑referral sent today to local public hospital eye clinic (diabetic eye service) – attached optom report + old ophthal letters. Marked: “72 y/o man with T2DM, mild–mod NPDR, macular/disc‑adjacent lesions R, ?early macular oedema R. Vision‑threatening. Request review within 1–2 weeks.”  
+• Explained red flags for ED same day: sudden drop in vision, new flashes/floaters, curtain over vision, eye pain/redness, severe HA with N/V.  
+• Offered option of private ophthal for faster review if willing to pay – pt declines (“don’t want to pay big money, just make sure they don’t forget me”).  
+
+– Diabetes / risk factors (kept brief due to time)  
+• Pt asking for “stronger tablets” today – deferred med changes until proper review with BGLs etc; risk of hypoglycaemia and rapid control affecting eyes discussed briefly.  
+• Asked to book longer F2F appt in 1–2 weeks for diabetes review + foot check. He reluctantly agreed.  
+
+– Meds – fenofibrate  
+• Discussed benefit of adding fenofibrate in T2DM with retinopathy (PBS). Pt keen “if it helps the eyes”.  
+• Checked last labs (3 months ago): eGFR 76 (stable vs 80 last year), LFTs normal.  
+• Started fenofibrate 145 mg daily with food today.  
+• Warned re myalgia, weakness, dark urine esp with concurrent atorvastatin – seek review if occurs. Plan repeat LFTs, lipids, UEC/eGFR ~3/12.  
+
+– Glaucoma / cataracts  
+• Reinforced importance of nightly latanoprost even if no pain. Suggested phone alarm; he agreed.  
+• Ophthal to reassess IOP, optic nerve, cataracts at upcoming visit – included in referral.  
+
+– Smoking / lifestyle  
+• Very brief: advised smoking worsening eye blood vessels; pt not ready to quit – “one thing at a time, fix the eyes first”. Will revisit at diabetes review.  
+
+– Safety‑net / follow‑up  
+• If no contact from hospital eye clinic within 7–10 days, asked to call them and/or our practice so we can chase.  
+• ED if acute visual change as above.  
+• F2F booked in 1 week to:  
+   – Check if ophthal appt allocated  
+   – Review BSLs (bring meter)  
+   – Check tolerance to fenofibrate  
+   – Quick BP/CV risk review  
+• Longer diabetes review (40 min) to be arranged after that if needed.  
+
+Dx coding (for my recall):  
+- Diabetic retinopathy with macular involvement R, ?macular oedema – urgent ophthal  
+- T2DM with chronic complications  
+- Glaucoma – established, ?control  
+- Cataracts  
+- Tobacco use  
+
+10:02 – note finished (some details copied from previous DM review 03/05/23 15/08/24 and updated).

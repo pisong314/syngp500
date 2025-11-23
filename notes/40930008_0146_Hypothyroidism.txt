@@ -1,0 +1,68 @@
+22/11/25  
+
+28F, Down syndrome, new pt. Walk‑in  
+
+CC: cough  
+
+HPC  
+Cough ~1–2/52, mainly dry, occas mild phlegm, no blood. Worse at night. Mild ST initially now ↓. Denies SOB, CP, wheeze, fevers/rigors. Appetite ok. No sick contacts known. No recent travel. COVID/flu vax ? (SW thinks COVID booster last yr). Non‑smoker.  
+
+PMHx  
+- Down syndrome  
+- T1DM dx childhood – f/b endo (details unclear)  
+- Hypothyroidism (likely autoimmune)  
+No known asthma/COPD/CVD/CKD/coeliac.  
+
+Meds (per grp home list ~3/12 old)  
+- Insulin glargine ~18u SC nocte  
+- Insulin aspart with meals (sliding scale, unclear)  
+- Levothyroxine 100 mcg mane  
+- PRN paracetamol  
+NKDA  
+
+Obs  
+BP 118/72 HR 82 RR 16 Temp 36.9 SpO₂ 99% RA  
+Wt 65kg Ht 1.52m (BMI ~28)  
+
+Exam (focused)  
+Gen: Alert, DS phenotype, talking full sentences, NAD.  
+ENT: Mild pharyngeal erythema, no exudate, no LN.  
+Chest: AE good bilat, no wheeze/crackles, no focal signs.  
+CVS: HS dual, no oedema. Abd SNT. Thyroid not enlarged.  
+
+POC  
+RBG 9.8 mmol/L (~2h post lunch)  
+COVID RAT -ve  
+
+Impression  
+1) Acute cough – likely viral URTI / viral bronchitis. No red flags, chest clear, obs normal, RAT -ve, low susp COVID/flu.  
+2) Hypothyroidism in DS + T1DM – on thyroxine 100 mcg mane, adherence “most days”. Needs TFT review.  
+3) T1DM – established, appears reasonably controlled today, limited info. No DKA features.  
+
+Plan  
+1) Cough / URTI  
+- No abx  
+- Symptomatic Rx: paracetamol PRN, fluids, simple cough mix if needed  
+- Cert for work x2/7  
+- Safety net: ED/urgent review if ↑SOB, CP, haemoptysis, fevers ≥38° >48h, can’t keep fluids down, confusion. RTC if cough >3–4/52 or worse in 5–7/7  
+
+2) Hypothyroidism  
+- Continue levothyroxine 100 mcg mane (empty stomach, before brekkie – advised SW)  
+- Path forms given (am fasting if poss):  
+  • TFTs (TSH, FT4)  
+  • FBC, U&E, LFTs  
+  • Lipids, HbA1c  
+- Review 2–3/52 with results, consider dose adjust (aim TSH low‑normal)  
+- Consider endo review at f/u if abn or control poor  
+
+3) T1DM  
+- No insulin changes today (info incomplete, short consult)  
+- Adv SW: continue usual insulin, ↑BGL checks while unwell (pre‑meals + HS). Maintain fluids. Urgent care if BGL >15 with ketones, vomiting, abdo pain.  
+- HbA1c ordered with above  
+- Ask to bring updated diabetes plan, insulin chart, specialist letters next visit – book std/long appt for chronic dz review  
+
+4) F/U / admin  
+- SW to book review 2–3/52  
+- Bring med admin record + vax/immunisation record / check My Health Record next time (flu/COVID status unclear)  
+
+Pt + SW indicated understanding; note pt recall limited → rely on staff documentation.

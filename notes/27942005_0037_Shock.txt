@@ -1,0 +1,63 @@
+22/11/25 RACF room review  
+
+08:40 – 88F RACF. F/U post tertiary hosp d/c (3d ago) ?septic shock / lactate↑ from E. coli UTI.  
+
+HPI  
+- Pt: “mostly alright, just a bit wobbly”. Minimises sx.  
+- No CP, no SOB, no abdo pain.  
+- Mild exertional “heaviness” walking to toilet.  
+- Orthostatic sx: “light‑headed” on standing AM, settles sitting. No falls since return.  
+- Afebrile per staff. Eating ↓ but adequate, fluids ~1–1.2 L/d. No dysuria, no flank pain, nocturia baseline.  
+
+Hosp summary (fax) – key pts  
+- Dx: septic shock 2° E. coli UTI. Lactate peak 3.8 → normalised 1.6 pre‑d/c.  
+- Required IV fluids + brief low‑dose norad in HDU. No MI/PE.  
+- Echo: preserved LV, mild DD only.  
+- AKI: Cr 130 → 89 µmol/L, eGFR ~50 (resolved).  
+- B/Cx: E. coli, ceph‑sens. D/c on PO abx to complete 7/7.  
+
+Meds (chart)  
+- Cephalexin 500 mg PO QID (D4/7).  
+- Paracetamol 1 g PO QID PRN (using 1–2/d).  
+- No anti‑HTN, no anticoag, no vasodilators. NKDA recorded.  
+
+Obs / exam (relevant only)  
+- 08:45 Lying BP 118/64, HR 86, RR 18, SpO₂ 97% RA, T 36.8.  
+- 08:48 Standing (2 min) BP 96/58, HR 96 → mild LH, resolves seated.  
+- CVS: HS I+II, no murmur, periph warm, CRT ~2–3s, pulses DP/PT+. No oedema.  
+- Resp: clear, AE good.  
+- Abdo: soft, NT, no SP/CVA tenderness.  
+- Neuro: A+O x3, no focal deficit.  
+- Hydration: MM slightly dry, turgor ↓ mild.  
+- Skin/feet: intact, no ulcers/ischaemia.  
+
+Ix  
+- Hosp trends: Lactate 3.8 → 1.6 pre‑d/c. Cr 130 → 89, eGFR ~50 (no prior baseline in file). FBC at d/c: Hb 112, WCC 8.5, Plt 220. LFT N.  
+- RACF UA (clean catch, not MSU): LE trace, nitrite –, protein trace, blood –. Clinically asx.  
+
+Impression  
+1) Recent septic shock 2° E. coli UTI – now clinically stable, off pressors, lactate normalised in hosp. No current features of shock (BP/HR/CRT/mentation ok).  
+2) Post‑sepsis deconditioning + ?orthostatic hypotension (age, mild dehydration, post‑bedrest, ?autonomic).  
+3) Recent UTI – on cephalexin D4/7, asx, UA minimally abn only.  
+4) Frailty – RACF, high VTE risk post‑illness but currently mobilising w 4WW + supervision. No DVT/PE signs.  
+5) Stoic reporter – risk under‑reporting deterioration. Staff confirm she “never complains”.  
+
+Plan  
+- No re‑admit at this stage – haemodynamically stable, no sepsis red flags.  
+- Fluids: encourage PO ↑ to ~1.5 L/d as tolerated. Staff to monitor for overload given age, but no known CCF.  
+- BP: lying/standing BP daily x3d. Fax if ΔSBP ≥20 w sx or recurrent pre‑syncope.  
+- Positioning: slow stand, sit EOB first – explained simply.  
+- Abx: continue cephalexin 500 mg QID to complete 7/7. Watch for diarrhoea/rash.  
+- Mobilisation: continue TDS walks w 4WW as per physio plan. No pharm VTE prophylaxis at RACF while mobilising.  
+- Analgesia: paracetamol 1 g QID PRN. Note in nursing file: low threshold to offer – pt tends to say “just a bit sore”.  
+- Red flag instr to staff (documented in progress notes):  
+  • URGENT GP/AMB if: SBP <90 or persistent >20 drop w sx, HR↑ trend, new T ≥38, rigors, new confusion, ↓UO, new CP/SOB, new focal neurology, new flank pain/dysuria, or concern re recurrent sepsis/shock.  
+- Alert added to RACF file: “Recent septic shock – high risk if infection recurs. Early escalation to GP/ED.”  
+- Daughter/EPOA: ask staff to phone update (recent hosp + current stable), offer GP phone if queries.  
+- Comfort: ask staff to review room temp / tea strength as per facility policy.  
+
+F/U  
+- GP review on‑site 3–5 d or earlier if staff concerned.  
+- Immediate transfer to ED if any sepsis/shock features as above.  
+
+Review 03/05/2023 15/08/2024 – next routine chronic/falls/meds review to be booked 2–3 wks once recovered.

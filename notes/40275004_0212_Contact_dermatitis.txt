@@ -1,0 +1,88 @@
+22/11/25  
+
+S  
+34yo F hairdresser R/V R knee pain + hand rash  
+Seen 1/52 ago after slip on wet salon floor twisting injury nil direct blow  
+
+Knee  
+Pain abit beter than last wk still anteromedial worse end of day on feet  
+Occ mild giving way down stairs nil locking nil true instability nil night pain nil fever  
+Fully WB working full time no time off  
+Using ibuprofen 200mg nocte PRN only reluctant tabs  
+Nil prev sig knee injury nil hx inflam arthritis gout systemic sx  
+
+Hands  
+Ongoing itchy dry cracked skin dorsum hands fingers worse after busy days frequent wet work shampoos colours bleach  
+Minimal glove use finds gloves "too sweaty" needs dexterity  
+Nil rash elsewhere nil weeping nil pustules sleep occas disturbed by itch  
+Reluctant meds esp steroid creams worried re "thinning skin"  
+Came alone partner not present today  
+
+PMHx  
+Nil signif mentioned today  
+
+SHx  
+Lives with partner works FT hairdresser stands most of day finances tight reluctant time off  
+Non smoker occas EtOH  
+
+O  
+Obs BP 114/72 HR 74 RR 14 afebrile BMI ~24  
+
+R knee  
+Inspection nil swelling deformity erythema  
+Palp mild tenderness medial joint line nil warmth nil effusion  
+ROM flex ~130° ext 0° mild pain only end flex  
+Special tests McMurray mild medial discomfort nil click Thessaly 20° mildly uncomfortable Lachman AP drawer varus valgus stable  
+Gait slight antalgic after repeated squat otherwise steady  
+
+Hands / skin  
+Dorsum both hands esp R with erythematous dry mildly scaly plaques fine fissuring knuckles  
+Palms largely spared nil vesicles exudate crust pustules nil nail changes  
+Nil lymphangitis  
+
+A  
+1 R knee sprain ?mild medial meniscal irritation vs PFJ overload improving exam reassuring nil red flags nil current need imaging  
+2 Occupational irritant contact dermatitis hands 2° repeated wet work/chemicals hairdresser SNOMED 40275004 persistent but mild–mod impact on comfort sleep nil evidence infection or psoriasis pt steroid hesitant  
+
+P  
+
+# R knee sprain  
+1 Education re likely soft tissue / minor meniscal irritn expect gradual improvement over next 4–6/52 discussed red flags  
+2 Analgesia  
+   - Paracetamol 1g QID PRN max 4g/24h  
+   - Ibuprofen 400mg TDS PRN with food short term avoid if GI upset  
+3 Activity  
+   - Relative rest from deep squats pivoting kneeling hard surfaces 1–2/52  
+   - Encouraged gentle ROM + quad strengthening SLR wall sits to comfort  
+   - Ice after work 10–15min elevation PRN  
+4 Work  
+   - May continue work advised brief seated breaks avoid prolonged squatting at basin  
+5 Ix  
+   - Nil imaging now if persisting pain or new locking / true instability → Xray knee ± MRI + physio / ortho ref  
+
+Safety net  
+   - ED / RTC if acute swelling severe pain inability WB fever locking or giving way causing falls  
+
+# Irritant contact dermatitis hands  
+1 Education re irritant hand dermatitis related to wet work shampoos dyes bleach minimal glove use risk chronicity if ongoing exposure  
+   Reassured topical steroid safe short term when used correctly  
+2 Topical tx  
+   - Start mometasone furoate 0.1% oint OD nocte to affected areas x 7–10/7 then stop  
+   - Then regular emollient e.g. sorbolene with glycerine multiple times/day esp after work  
+   Pt initially reluctant agreed trial "for a week" discussed risks benefits documented  
+3 Irritant avoidance / workplace  
+   - Strongly advised nitrile or vinyl gloves for colouring bleaching shampooing consider cotton liners change regularly to ↓sweating  
+   - Avoid harsh soaps at home use soap free wash lukewarm water  
+   - Suggested simple usage test inner elbow for new products if concerned  
+4 Infection  
+   - Nil signs bacterial infection nil abx  
+5 Referral  
+   - If persistent / worsening or spread to face/eyelids → derm ref for formal patch testing + workplace advice pt prefers wait see how cream goes first  
+
+Follow up  
+R/V 2–3/52 re knee + hands earlier if deterioration  
+If knee not signif improved or mechanical sx → knee Xray + consider physio ref  
+If hand dermatitis not settling with above → derm ref consider work modifications / med cert  
+
+Billing  
+Standard Level B consult private billed gap $45 PBS script for mometasone issued

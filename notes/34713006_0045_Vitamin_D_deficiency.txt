@@ -1,0 +1,58 @@
+22/11/25  
+
+RACF review – weakness / vit D / CKD4  
+
+82F long-term RACF. Known vit D def, rickets, CKD4 (eGFR ~22 per nephro 6/12 ago).  
+
+CC: “bit wobbly on my pins lately” x months, worse few wks. Trouble getting out of low chair/bed, ↑ help for shower/transfers. Near falls with 4WW, no definite fall. “Don’t want to be a bother”.  
+Aches thighs/hips esp after standing with physio, ~3/10 when asked, staff say more. No focal back pain, no radicular sx. No bowel/bladder change, no fevers/weight loss/N/S.  
+
+Meds (per chart – partial):  
+- Colecalciferol 1000 IU mane (often missed)  
+- CaCO3 600 + vit D 400 IU BD (adherence ?).  
+- Amlodipine 5 mg mane  
+- Perindopril 4 mg mane  
+- Frusemide 20 mg mane  
+- Paracetamol 1 g TDS PRN (usually nocte)  
+NKDA  
+
+O/E (today RN obs): BP 132/68 HR 74 reg RR 16 SpO2 97% RA T 36.6  
+Thin elderly, NAD in chair.  
+Gait w 4WW + standby: slow, wide-ish base, hesitant turns. Needs arms to push up, multiple attempts.  
+Power: prox ↓ LL>UL – hip flex ~3+/5, knees 4/5, distal 5/5. Shoulders ~4-/5. Tone nl, reflexes ↓ but present, sensation grossly intact. No spinal tenderness. Mild diffuse ache over prox femurs.  
+
+A:  
+1) Proximal muscle weakness – likely multifactorial → vit D def/osteomalacia + deconditioning, RACF, ↓ sun. ↑ falls risk. Neuro exam non-focal, no red flags for cord/CVA/neuropathy.  
+2) Vit D deficiency (mod–severe, last 25-OH 24 nmol/L 3/12 ago) – undertreated + poor adherence.  
+3) CKD4 – needs updated UEC/eGFR, Ca/PO4/PTH before any big vit D changes. Nephrology previously advised avoid mega-dose, consider active vit D if PTH ↑.  
+4) Rickets/osteomalacia – chronic deformity, ?active component now.  
+
+P:  
+Ix – forms left for mobile phleb/RN (within 1/52):  
+- 25-OH vit D  
+- UEC, eGFR  
+- Corrected Ca, PO4, ALP  
+- PTH  
+- FBC, CRP  
+
+Meds:  
+- ↑ colecalciferol to 4000 IU PO mane x 8/52 (nursing admin – chart updated) → then plan ↓ to 1000–2000 IU mane maint once vit D ≥50 + nephrology happy. Avoid 300,000 IU mega-dose given age/falls/CKD.  
+- Continue CaCO3 + vit D combo for now – RN to check actual doses given vs chart.  
+- Ask facility to use standard milk rather than “skinny one” if dietitian ok – for Ca intake.  
+
+Falls / mobility:  
+- Continue 4WW + supervised ambulation.  
+- Physio review requested – focus prox strength + safe transfers.  
+- RN to document any falls/near falls and notify GP.  
+
+Letters/comm:  
+- Plan note/letter to nephrologist once bloods back re: need for calcitriol vs ongoing colecalciferol (esp if PTH ↑ / Ca/PO4 borderline).  
+- Family/EPOA to be updated once results back (note in file).  
+
+F/U:  
+- Review 2–3/52 (or earlier if abn bloods) – check Ix, reassess strength/falls risk, finalise vit D plan / consider calcitriol / nephro re-referral.  
+- Longer review then for chronic R shoulder pain (“from the old nursing days”) – deferred today due time.  
+
+Bulk billed today.  
+
+(Prev review 03/05/23 15/08/24 vit D also low – pattern unchanged)

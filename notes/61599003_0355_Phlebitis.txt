@@ -1,0 +1,144 @@
+22/11/25  
+Telehealth – phone consult from home Gold Coast  
+
+GP Reg: Dr ___  Supervisor: Dr ___  
+
+Reason for call  
+- Vax query pre Xmas  
+- Hx recurrent superficial phlebitis L leg + prior PE on apixaban  
+
+ID  
+72 yr Anglo-Australian woman retired admin known pt  
+
+HPI  
+- Wants to “get whatever jabs I’m meant to have before Christmas”  
+- Says not keen on “too many needles” prefers to avoid tablets  
+- Unsure what due  
+  - COVID booster: recalls “sometime last year before winter”  
+  - Thinks had “the lung one” yrs ago  
+  - Thinks had shingles vax “one on the arm that made it a bit sore”  
+- Worried re clot hx and vax “might have messed up the last clot by sitting too long in the recliner” asking if that means she “shouldn’t really be having jabs”  
+  - Reassured vax recommended not contraindicated in VTE hx  
+- Current leg sx  
+  - Known recurrent superficial phlebitis L lower leg varicose veins L>R  
+  - PE ~18/12/23 post knee arthroscopy now on long term apixaban 5mg BD per haematology due to recurrent superficial thrombophlebitis venous insufficiency  
+  - Past 7/7 mild sx same leg medial calf “bit of a tender line” over previous varicose vein area  
+  - Earlier in week some redness slight warmth feels “like a bruise”  
+  - Nil whole leg swelling able to mobilise inside house ok  
+  - Denies sudden ↑ calf pain marked swelling skin discolouration SOB pleuritic CP haemoptysis dizziness syncope palps fevers rigors  
+  - No recent surg long haul travel or major immob apart from “too much time in the recliner”  
+- Meds  
+  - Apixaban 5mg BD  
+  - Perindopril 5mg mane  
+  - Atorvastatin 20mg nocte  
+  - Paracetamol PRN  
+  - Admits “missed a few here and there” apixaban earlier this mth when ran low before getting repeat  
+  - Reluctant re ongoing anticoag “keep wondering if I can just stop it now” but acknowledges “I know I should keep taking it”  
+  - Nil recent bleeding  
+
+Family input  
+- Husband in background per pt “he’s the one who tells me to ring you lot” apparently encouraging her to come in for leg check and vax  
+
+PMHx (problem list – from record + briefly confirmed)  
+- Recurrent superficial phlebitis L lower leg  
+- PE 18/12/23 segmental no RV strain post op provoked but haematology rec ongoing AC due to recurrent superficial thrombophlebitis venous insufficiency  
+- Varicose veins L>R  
+- HTN  
+- Hyperlipidaemia  
+- Nil known thrombophilia testing (age >45 provoked PE)  
+
+Allergies  
+- NKDA  
+
+Immunisations (AIR + recall – summarised)  
+- COVID19 primary + booster 4/22  further booster 5/24 (≈18/12 ago)  
+- Influenza last 4/24  
+- Pneumococcal PCV13 @65 PPSV23 @70 (schedule complete)  
+- Shingles Shingrix x2 2021  
+- Td/Tdap Boostrix 2017  
+
+Social  
+- Lives with husband independent in ADLs  
+- Non smoker occasional wine  
+- Prefers local services mild reluctance to in person appts unless “really necessary”  
+
+Telehealth “exam” / risk stratification  
+- Voice coherant speaking full sentences  
+- Nil SOB CP haemoptysis presyncope palps systemic sx by hx  
+- Describes area L medial calf as “a strip maybe the length of my hand and not very wide” previously slightly warm now “seems to be settling”  
+- Able to weight bear walk inside ok  
+- Given limitations of phone unable to assess calf circumference tenderness Homan etc  
+
+Recent results (from record)  
+- Last BP in clinic 3/24 132/78 on perindopril  
+- Lipids 2/24 TC 4.5 LDL 2.2 on atorva 20 (prev LDL 2.8 9/23)  
+- eGFR stable ~78 over last 12/12  
+
+Assessment  
+1) Vax needs 72 yr woman on apixaban hx PE  
+- Appears up to date pneumococcal and shingles  
+- Due for COVID19 booster (last 5/24 age >65 chronic venous disease hx PE)  
+- Next flu vax due autumn 2026  
+- No apparent contraindication from VTE hx or current apixaban  
+- IM vax on DOAC generally low bleeding risk with firm pressure post inj  
+
+2) Recurrent superficial phlebitis L leg hx provoked PE now on long term apixaban  
+- By hx sounds like mild localised superficial thrombophlebitis vs simple varicose vein irritation  
+- Low suspicion for extensive DVT or acute PE from phone screen but limited by telehealth unable to examine for cord warmth oedema etc  
+- Important red flag given hx PE and some recent non adherence with apixaban  
+- Needs in person r/v for leg exam assessment of extent proximity to deep system consider venous duplex U/S if any concern  
+- Also oppurtunity to reinforce VTE education leg elevation mobilisation compression stockings  
+
+3) Hx PE on long term apixaban – pt reluctant to continue  
+- Haematology letter on file rec ongoing AC due to recurrent superficial thrombophlebitis and venous disease despite original PE being provoked  
+- Pt querying if can stop now complex risk benefit needs longer face to face discussion ± repeat haematology opinion  
+- For today brief reiteration that missing doses ↑ VTE risk and that COVID infxn itself ↑ clot risk more than vax  
+
+Plan  
+# Vaccinations  
+- COVID19  
+  - Recommended updated seasonal mRNA booster as per ATAGI for >65  
+  - Explained clot hx not a contraindication infection itself ↑ VTE risk  
+  - Pt hesitant does not want “a whole bunch of them at once” but agrees to COVID booster alone for now  
+  - Plan nurse appt within next 2–3/52 for COVID booster  
+  - Continue apixaban usual dosing on day firm pressure 2–5 min post inj  
+- Influenza  
+  - Not yet available for 2026 season recall set for autumn  
+- No further pneumococcal or shingles vax needed currently  
+
+# L leg phlebitis / VTE risk  
+- Explained sx most consistent with mild superficial phlebitis given short segment tender line over known varicosity and settling sx  
+- However due to hx PE on AC and recent missed doses advised in person review  
+- Booked F2F appt within 3–5/7 for leg exam vitals AC review  
+- If on exam extensive superficial thrombophlebitis esp near saphenofemoral junction or any calf swelling etc will arrange urgent L leg venous duplex U/S  
+- Safety net  
+  - Advised ED/urgent care if any of  
+    - Sudden or worsening calf/thigh pain or swelling  
+    - New SOB CP haemoptysis feeling faint palps  
+
+# Anticoagulation / PE follow up  
+- Briefly re-explained rationale for ongoing apixaban per previous haematology advice  
+- Encouraged strict adherence missing doses ↑ risk recurrent PE/DVT  
+- Pt currently has enough apixaban ~1/12 will check repeats duration at F2F  
+- Plan longer discussion next visit re duration of AC bleeding risk vs VTE risk consider updated haematology r/f if contemplating change  
+
+Other issues  
+- Pt asked if “sitting in the recliner too long” caused the clot advised prolonged sitting is a contributor but main focus on regular walking leg elevation when resting weight control and taking apixaban  
+- Mentioned intermittent nocturnal “heartburn” chose to defer given time asked to book separate standard consult if persisting or worsening  
+
+Follow up  
+- Nurse appt 2–3/52 COVID booster  
+- GP F2F in 3–5/7 for L leg exam vitals AC review detailed discussion re ongoing apixaban ± haematology r/f  
+- Earlier ED if red flag sx as above  
+- Pt verbalised understanding though tends to minimise sx “nearly didn’t bother ringing”  
+
+Learning points (registrar)  
+- Telehealth assessment of possible VTE quite limited phone hx can stratify but low threshold for in person exam esp with prior PE on AC  
+- Good opportunity to link vax counselling with discussion re VTE risk from COVID infection  
+
+[Supervisor addendum – Dr ___ 16:40]  
+Reviewed case with reg  
+Agree likely mild superficial thrombophlebitis by hx low suspicion DVT/PE but agree F2F exam within few days appropriate given hx PE and recent missed apixaban  
+Happy with plan for COVID booster nurse clinic and to continue apixaban for now until proper risk–benefit discussion  
+ED advice for red flags appropriate  
+Co-signed

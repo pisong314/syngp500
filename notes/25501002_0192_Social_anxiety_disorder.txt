@@ -1,0 +1,164 @@
+22/11/2025  
+Telehealth video – f/u Sydney  
+
+GP Reg: Dr ___  Supervisor: Dr ___  
+
+Pt  
+27F works remote customer support lives alone inner city apt  
+
+C/O  
+↑ avoidance social / work situations  
+“Im avoiding more and more stuff its getting ridiculous can we just sort something Ive only got 10 minutes”  
+
+HPC  
+Known social anx dx ~2023 per old notes  
+Had brief online CBT early 2024 x4–5 sessions good effect then stopped due to work schedule  
+
+Last 3–4/12  
+- ↑ avoidance of team video meetings camera off often dials in audio only  
+- avoids monthly in person office days “always find an excuse not to go”  
+- skipping social events birthdays drinks even small dinners  
+
+When has to attend  
+- anticipatory anx for days poor sleep night before sleep latency up to 2–3h  
+- during events palpitations sweating tremor nausea “mind goes blank” strong fear saying something “stupid” being judged  
+- often leaves early or switches camera off to calm down  
+
+Symptoms present >2yrs in most social / performance contexts involving perceived scrutiny  
+Impact  
+- ↑ work stress isolation  
+- turning down promotion opps that involve presentations  
+
+Pt theories  
+- ?caffeine contribution currently 3–4 coffees by midday more on busy roster days  
+- thinks fully remote work “probably stuffed my social skills” asking if she should “force myself back to the office more”  
+
+Mood  
+Says not depressed “I get frustrated with myself but Im not depressed”  
+Enjoys reading walking TV  
+Energy ok appetite ok  
+Sleep only disturbed before social events otherwise reasonable  
+
+Screening (verbal est only time limited)  
+- GAD7 by verbal answers ~11–12 → mod range  
+- PHQ9 verbally nil anhedonia sig low mood guilt psychomotor change appetite change SI → overall minimal depn sx currently  
+
+Risk  
+SI nil  
+Nil self harm hx nil attempts  
+Nil agg nil psychotic sx  
+
+Substances  
+Etoh 1–2 std drinks on w/e rarely more denies binge  
+Illicits nil  
+Caffeine as above 3–4 coffees/day up to more on stressful days  
+
+Past psych  
+Social anx since high school worsened early pandemic with shift to online meetings  
+Nil psych admissions  
+Nil prev antidepressant or anxiolytic meds  
+Brief online CBT helpful esp exposure tasks then stopped due to time  
+
+PMHx  
+Otherwise well  
+Nil known cardiac thyroid resp dz  
+Nil reg meds  
+NKDA  
+
+FHx  
+Mum with “nerves and panic attacks” ?panic disorder no formal dx per pt  
+Nil known bipolar or psych hosp in family  
+
+SHx  
+Lives alone inner city  
+FT remote customer support shift based but mostly business hrs high job demands frequent back to back video calls finds it hard to take time off or attend in person appts “really need to get back to work after this”  
+Limited local social network close to sister by phone parents interstate supportive  
+
+Telehealth behaviour  
+On time joined with camera off initially turned on after prompting  
+Visibly anxious fidgeting avoids eye contact with camera speech slightly pressured frequently checking time  
+Asking for quick fix “Can you just give me something to take the edge off Ive got another meeting at 11”  
+Initially reluctant re therapy more open when framed as brief online skills based  
+
+Exam (video only)  
+Gen app well groomed looks stated age  
+Colour normal work of breathing normal speaking full sentences  
+Speech normal rate/vol coherent thought form logical  
+Affect anxious congruent  
+Nil obvious tremor at rest nil intox  
+
+Impression  
+1 Social anxiety disorder chronic currently exacerbated with sig functional impact work + social  ICD10 F40.1 SNOMED 25501002  
+2 Nil current MDD or substance misuse evident but appears at some risk of secondary depn if isolation persists  
+3 Time poor young professional barriers to in person psych  
+
+DDx considered  
+- GAD overlap given GAD7 mod range but sx appear predominantly performance / social context related  
+- Panic disorder less likely as attacks linked to social exposure rather than spont  
+- Thyroid / other med cause less likely given age hx but will check baseline bloods in context of starting SSRI  
+
+Plan  
+Discussed with pt within time constraints explained social anx common treatable vicious cycle of avoidance → short term relief → long term ↑ anx  
+
+# Non pharm  
+- Recommended structured CBT with exposure as 1st line  
+  - e-referral to online psych service telehealth flexible hrs sent today (pt prefers after hours)  
+  - Discussed evidence based internet CBT eg THIS WAY UP social anx program provided link via secure msg  
+  - Agreed focus cognitive reframing of negative evaluation fears + graded exposure eg camera on briefly in small meetings first  
+- Caffeine  
+  - Explained caffeine can worsen physical anx sx advised trial ↓ to max 1–2 coffees/day avoid large doses pre meetings  
+- Remote work  
+  - Suggested graded reintro of low stakes social contact rather than “forcing” full office days initially  
+
+# Pharm  
+Given severity impact and pt preference ok to trial SSRI after risks/benefits discussed  
+- Start sertraline 25mg mane 7/7 then ↑ to 50mg mane ongoing if tolerated  
+  - explained may take 2–4/52 for initial benefit up to 6–8/52 for full effect  
+  - counselled re common early AEs nausea mild headache transient ↑anx GI upset sleep change usually settle  
+  - avoid abrupt cessation avoid other serotonergic meds / illicits without med advice  
+  - discussed very small risk emergent SI advised if mood worsens or any SI to stop med and seek urgent help ED / 000 / Lifeline or contact practice for urgent r/v  
+
+Pt requested “something just to take before meetings”  
+- Explained beta blockers eg propranolol can help discrete performance anx but her pattern broader day to day social anx  
+- Benzos not recommended 1st line due dependence + interfere with CBT  
+- Plan nil benzo for now may consider situational propranolol later for specific events after f/u  
+
+# Ix  
+Baseline bloods in context of starting SSRI and to exclude med contributors  
+- FBC U&E LFT TSH  
+Path form emailed via secure msg pt to attend local path on weekend when able  
+
+Safety net  
+Currently nil SI good insight some family support by phone  
+Advised if marked mood deterioration agitation or SI after starting sertaline to stop and seek urgent r/v or ED  
+
+Other issues  
+Near end raised “constant neck tightness from sitting at my desk” advised needs separate appt video or F2F for MSK exam + ergonomic advice asked her to book std appt when able  
+
+Meds today  
+- Sertraline 25mg tabs take 1 tab mane 7/7 then 2 tabs (50mg) mane if tolerated Qty 30 rpt 1 eRx sent  
+  (Medication change new start no prior psych meds)  
+
+F/U  
+- Telehealth r/v 3/52 to assess tolerability early response and engagement with CBT / online program  
+  - plan at f/u repeat GAD7 focused social anx questions review AEs consider dose ↑ if partial response  
+  - check if psych appt booked and refine exposure hierarchy  
+Earlier r/v if side effects problematic mood ↓ or any concerns  
+
+Review 03/05/2023 15/08/2024 – correction 22/12/2025 booked in BP  
+
+---  
+
+Supervisor addendum Dr ___ 16:20  
+Reviewed case with reg after consult agree hx consistent with primary social anxiety disorder chronic with recent exacerbation nil current MDD features on todays screen though will need to keep under r/v esp once SSRI commenced  
+Sertraline choice appropriate starting low 25→50mg reasonable in context of work demands and concern re AEs  
+Bloods ordered appropriate though low pretest prob of thyroid etc  
+Agree avoiding benzos at this stage and encouraging CBT including online options  
+Safety net adequate  
+
+Learning points discussed with reg  
+- Importance of clarifying scope of performance vs generalised anx for dx  
+- Monitoring for emergent depn/SI in first 4–6/52 of SSRI esp in younger adults  
+- Using graded exposure goals that are specific and measurable eg camera on first 5 mins of 1:1 rather than vague “be more social”  
+
+Co-signed

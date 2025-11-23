@@ -1,0 +1,141 @@
+22/11/25  15:10  
+Telehealth – phone consult 10–15min  
+MBS 91809 bulk billed  
+
+# Reason for consult  
+Epilepsy – ↑ focal events R side  
+Pt worried re "seizure starting on one side of the brain" and "might be a brain tumour or something serious"  
+
+# Pt details  
+28yo male Anglo Aus on DSP NDIS participant lives w mum stepdad  
+Known tuberous sclerosis dev delay ID epilepsy  
+
+Mother on speaker phone assists hx  
+
+# HPI  
+Long hx epilepsy since childhood focal onset sometimes generalise  
+Last GTC ~8/12 ago  
+
+Past ~3/52  
+- 3 x events last wk  
+- "weird feeling and jerking just in my right arm and face" 30–60sec  
+- aware hears others speech arrest "cant talk properly"  
+- post ictal tired few mins nil prolonged confusn  
+- nil LOC nil gen tonic clonic activity  
+Mum says "same as his usual ones just abit more often"  
+
+Nil tongue bite nil incont nil injury  
+
+Triggers  
+- poor sleep ~1/12 due to worry "lying there thinking about my brain"  
+- ↑ energy drinks 2–3 cans/day new brand "chemicals"  
+Pt v anxious "really scared this means my brain is getting worse" "what if I have status epilepticus and no one notices"  
+
+Red flags from hx  
+- nil persistent weakness speech change vision loss  
+- nil new severe HA fever neck stiffness  
+- nil recent head trauma  
+- nil EtOH nil illicits  
+- meds unchanged per pt mum  
+- occ eve dose 1–2h late only  
+
+# PMHx  
+- Epilepsy focal onset 2° to tuberous sclerosis  
+- Tuberous sclerosis prev "brain tumours" ?cortical tubers / SEGA followed at tertiary (mum thinks RCH/Westmead equiv)  
+- Dev delay mod ID  
+- Nil known cardiac DM HTN  
+
+# Meds (per pt/mum – no SHP recs)  
+- Sodium valproate 500mg BD  
+- Lamotrigine 100mg BD  
+- Everolimus 5mg mane (dose approx)  
+- Midazolam nasal PRN prolonged sz never used >12/12  
+
+Mum does Webster pack believes >95% adherence  
+
+Allergies  
+- NKDA  
+
+Social  
+- Supported employment disability workshop 3 days/wk  
+- Does not drive  
+- Prefers bulk billing travel to tertiary hosp 2–3h drive diff  
+
+MH / health anxiety  
+Longstanding health anx re brain  
+Frequent googling seizures cancer stroke  
+Mum reports multiple prior GP/ED attendances for minor sx  
+Today repeatedly asking for "MRI every few months"  
+Nil SI  
+
+# Telehealth limitations  
+Phone only nil exam vitals  
+No direct witness of events relying on description  
+
+# Exam (tele)  
+Speaking in full sentences mildly anxious  
+Oriented chatting appropriately  
+No obvious dysarthria word finding problem or confusion on phone per brief screen  
+
+# Impression / Dx  
+1 Epilepsy – focal aware motor sz R arm/face ± speech arrest  
+   - Known symptomatic epilepsy 2° tuberous sclerosis  
+   - Mild ↑ frequency last 3/52  
+   - Pattern same as baseline per mum  
+   - Nil features from hx to suggest acute stroke CNS infection SOL or status  
+   - Needs non urgent but timely neuro r/v drug levels consider regimen tweak MRI timing  
+2 Tuberous sclerosis w ID dev delay  
+   - Chronic appears stable by hx nil new focal neuro deficit raised ICP sx  
+3 Health anxiety re epilepsy brain pathology  
+   - Driving help‑seeking request for repeated imaging  
+
+# Plan  
+
+Epilepsy / safety  
+- Reassured pt mum that focal seizures from one side brain typical for his known dx not by itself proof of "cancer or stroke"  
+- Explained occasional clusters can occur even when on meds  
+- No med dose change today over phone without levels / specialist letters  
+  → continue valproate 500 BD lamotrigine 100 BD everolimus 5 mane as currently  
+- Discussed likely triggers poor sleep high caffeine energy drinks  
+  advised ↓/stop energy drinks aim reg sleep consistent dosing times  
+  linked these as more likely cause than "chemicals damaging the brain"  
+
+Red flag / ED advice (safety net – standard)  
+- Any seizure >5min or repeated sz without full recovery → call 000 attend ED  
+- New persistent weakness facial droop speech difficulty vision loss severe sudden HA ↓ GCS fever or head injury w sz → ED  
+- Also advised usual resp safety net pt to return if fever >38.5 severe SOB CP or confusion  
+
+Monitoring  
+- Asked pt mum to keep simple sz diary over next 4/52  
+  date time duration R vs L side triggers recovery use for future med adjust  
+
+Ix – ordered non urgent bloods (to do in person next 1–2/52)  
+- FBC UEC LFT  
+- Valproate level  
+- Lamotrigine level (if lab able – noted on form)  
+- Lipids fasting BSL / HbA1c baseline given everolimus + AEDs  
+
+Referrals / records  
+- Will prepare non urgent ref to adult neurologist w epilepsy / tuberous sclerosis interest at nearest tertiary centre  
+  aims  
+  • review sz control  
+  • rationalise AEDs  
+  • review everolimus indication dose monitoring  
+  • consider timing/need for repeat MRI brain rather than serial scans via GP  
+- Asked mum to bring any old neuro letters imaging reports to next F2F  
+
+Health anxiety  
+- Validated fears gently challenged catastrophic thoughts  
+- Clarified "focal seizure starting on one side" is description of usual epilepsy type not new dx  
+- Briefly mentioned option of psych input / MHCP later to help w health anx coping w chronic epilepsy  defer detailed discn today  
+
+Driving / work safety  
+- Reconfirmed must not drive per Austroads until cleared by neuro  
+- Suggested ensure written seizure safety plan at workshop staff know when to call 000 etc can update once neuro r/v done  
+
+F/U  
+- Book F2F appt this clinic 1–2/52 or earlier if ↑ sz freq or any red flags  
+  → check bloods vitals brief neuro exam review sz diary finalise neuro ref  
+- Pt mum verbalised understanding of plan still abit anxious but settled once clear steps outlined  
+
+15:25 note completed

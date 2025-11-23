@@ -1,0 +1,130 @@
+22/11/25  
+Telehealth – video – standard consult ~15min  
+Location pt home on property near [remote NSW town] GP in regional NSW clinic  
+
+ID  
+74yo male retired cattle farmer Anglo-Australian  
+
+C/O  
+Fever feeling “crook” 2–3/7  
+
+HPI  
+2–3/7 fevers chills “hot and cold all night” wakes with soaked shirt thermom flat so nil home temps  
+Feels “achy and washed out” mild frontal HA ↓appetite some nausea nil vom nil diarrhoea  
+Over last ~1/52 notes ↑ache behind R knee where known popliteal aneurysm is “bit more pain behind the knee” describes dull baseline with occasional sharp stab on walking thinks “might be a bit puffier than usual” feels “warmer than the other leg” denies obvious redness nil trauma  
+
+Mild SOB on exertion past few days “puffing more coming up the stairs” nil chest pain nil orthopnoea nil PND nil cough nil sore throat nil rhinorrhoea  
+GU nil dysuria nil freq nil flank pain  
+Nil recent dental work skin infections sick contacts  
+Own theory ?“dodgy mince” or ?tank water “been tasting abit funny” but GI sx minimal  
+
+Wife present on video says he has “been off his food and sweaty” last 2 nights and “not himself”  
+
+PMHx  
+- R popliteal artery aneurysm dx ~6/12 ago seen vascular in [regional centre] rec further imaging + likely elective repair pt DNAA “too much on with the cattle”  
+- ASCVD – MI ~8yrs ago stent HTN HLD  
+- Nil known valvular disease nil prev endocarditis  
+- Nil IVDU nil recent vascular procedures  
+
+Meds (pt report)  
+- Aspirin 100mg mane “take it most days”  
+- Atorvastatin 40mg nocte ran out few wks ago not taking  
+- Perindopril 5mg mane admits poor adherence “maybe every second day if that”  
+Nil anticoag nil reg abx or steroids  
+
+Allergies  
+NKDA  
+
+Social  
+Lives with wife on remote property ~1.5h from nearest large regional hospital still doing light farm work drives  
+Ex smoker 40 pack yr stopped 20yrs ago occ beer  
+
+Telehealth exam (limited by video quality)  
+Gen alert orientated appears unwell but not toxic speaking full sentences  
+Colour no obvious pallor or cyanosis face slightly flushed  
+RR visually ~18–20 unlaboured nil audible wheeze or cough  
+Neuro speech coherant nil obvious confusion  
+Mobility able to stand walk a few steps gait mildly antalgic favouring R leg but stable  
+R leg behind knee shown on camera appears slightly fuller vs L per pt difficult to assess size pulsatility warmth due to poor lighting video quality nil obvious erythema or skin breakdown seen  
+
+Limitations  
+Nil vitals available (BP HR SpO2 temp) nil palpation of aneurysm possible  
+
+Impression / DDx  
+74yo man with known R popliteal artery aneurysm now with 2–3/7 fevers rigors systemic sx and new localised pain and ?↑swelling at aneurysm site in remote setting limited exam  
+
+Most concerned re  
+1 Fever of unclear source in context of peripheral aneurysm  
+   - ?infected (mycotic) popliteal aneurysm vs bacteraemia +/- endocarditis vs other occult bacterial focus  
+   - Less likely simple viral illness given focal limb sx and sweats  
+   - Nil clear resp or urinary source GI source less likely given nil abdo pain vomiting diarrhoea  
+
+2 Known R popliteal artery aneurysm  
+   - Previously for elective repair but poor f/u  
+   - Now more painful ?more swollen ?warmer  
+   - Risks include mycotic/infected aneurysm thrombotic occlusion distal ischaemia rupture  
+
+3 ASCVD with suboptimal secondary prevention due to poor adherence long hx missed specialist appts  
+
+Given combination of fever systemic sx focal aneurysm pain telehealth limitations and remote location this seems unsafe for community mx high risk pathology cannot be excluded  
+
+Plan  
+Emergency disposition  
+- Strongly advised urgent in-person assessment today at [nearest regional hospital] ED (vascular access or retrieval option)  
+- Explained concern re possible infected peripheral aneurysm + need for  
+  • Full obs incl BP HR temp SpO2  
+  • Complete CVS + limb neurovascular exam pulses cap refill sensory motor  
+  • Bloods FBC EUC LFT CRP ESR lactate blood cultures x2–3 sets prior to abx  
+  • Imaging – urgent vascular imaging R leg eg duplex US then likely CT angiogram with run-off  
+  • Consider TTE if any concern for endocarditis  
+  • Early vascular surgery review  
+  • Empiric IV abx to cover Staph incl MRSA + gram negatives as per local protocol pending cultures  
+  • Anticoagulation only after vascular input  
+
+- Advised travel today by private car wife to drive not pt  
+- Suggested overnight bag anticipate admission  
+- Discussed risks of staying home – sudden deterioration rupture limb ischaemia sepsis death  
+  Pt initially minimising “it’s a long drive doc I’ll see how I go tonight” wife appears worried  
+  Reiterated seriousness several times emphasised limb and life risk  
+  Pt ultimately agreed to go today though still saying “I’ll probably be fine”  
+
+Safety net  
+- If ↑leg pain sudden swelling colour change numbness weakness chest pain ↑SOB confusion presyncope or feeling “real crook” → call 000 rather than attempt drive  
+- Advised avoid NSAIDs pre assessment given CV hx renal and bleed risk  
+
+Meds today  
+- No community abx started to avoid partially treated sepsis before blood cultures  
+- Ok to take usual aspirin this morning  
+- Defer restarting statin or altering perindopril until hospital review  
+
+Investigations ordered  
+- Nil community tests ordered due to urgency and distance  
+
+Communication with ED  
+- Will send brief clinical summary via secure message / fax  
+- Plan to phone ED reg to handover concern re ?infected popliteal aneurysm high CV risk poor adherence  
+
+Non urgent / deferred issues  
+- CV risk review statin re-initiation BP control adherence strategies  
+- Offered future longer telehealth or face to face once acute issue resolved involve wife in med reminders pill organiser etc  
+
+Risk / adherence  
+Longstanding pattern of DNAA for vascular and cardiology poor med adherence documented  
+Both pt and wife verbally acknowledged seriousness today emphasised need to attend ED today not “tomorrow after I check the cattle”  
+
+Follow up  
+- Plan to phone pt or ED later today / tomorrow am to confirm arrival and outcome  
+- If fails to present and remains unwell will consider contacting local health service / welfare check (with pt consent – verbally agreed during consult)  
+
+Learning points (self)  
+- Low threshold for escalation when fever + known aneurysm esp in remote pt with poor f/u  
+- Telehealth limitations significant for vascular presentations in older pts  
+
+Discussed case with on-site supervisor Dr [Surname] immediately post consult  
+
+[Supervisor addendum – Dr [Supervisor Surname] 22/11/25 15:40]  
+R/V case with registrar agree high concern for infected peripheral aneurysm vs other bacteraemia source in setting of known popliteal aneurysm and systemic sx Telehealth exam very limited so agree not safe to manage in community  
+Plan for urgent ED assessment vascular imaging blood cultures and IV abx appropriate  
+Support decision not to start oral abx pre cultures given strong likelihood of admission  
+Emphasised need for clear safety netting and direct communication with ED registrar  
+I have asked registrar to phone ED now to handover Co-signed

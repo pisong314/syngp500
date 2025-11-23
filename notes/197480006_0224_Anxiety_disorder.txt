@@ -1,0 +1,151 @@
+22/11/25 RACF round  
+Seen in own room limited privacy nil family present  
+
+# Reason for r/v  
+– Script repeat for anxiety meds  
+– Reassurance re gen health pt worried meds "might be masking something serious" and "dont want to miss cancer"  
+
+# HPI  
+84yo F Anglo background retired admin now RACF resident known GAD MDD dementia (mild–mod) reg pt  
+
+Says due for repeat of her "nerve tablets" ie sertraline  
+Feels "more on edge the last few weeks" worries "about everything" esp memory and "what if its my heart or cancer"  
+Lots of qs about chest sx being "early cancer" or "heart attack"  
+Has been googling on daughters iPad "it said chest tightness at my age is usually cancer or a heart problem"  
+
+Anxiety  
+– Excessive worry most days worse evenings overnight  
+– Sleep takes longer to get off wakes 1–2x/nt with worry settles after staff reassurance nil nightmares  
+– Somatic sx intermittent mild chest tightness + fluttering when anxious lasts mins settles with slow breathing staff presence nil clear exertional comp nil radiation nil diaphoresis nil N/V nil collapse  
+   Similar pattern for yrs prev normal ECG + cardiology r/v in file ~5yrs ago nil IHD dx  
+– Mood "abit low some days" still enjoys chats TV nil anhedonia for all activities  
+– SI nil today "I wouldnt do that to the kids"  
+– Cogn aware of decline "losing words more often" worried "im going downhill real fast" staff report nil acute stepwise change  
+
+Health anxious behaviours  
+– Repeated requests to nursing staff past wk to check BP pulse "in case Im having a heart attack"  
+– Some tangential ideas eg "water here smells a bit funny maybe thats affecting my nerves" "extra cup of tea at night maybe not good for my heart"  
+
+RACF RN verbal  
+– Nil acute behavioural change nil falls  
+– Short self limiting anxiety episodes managed with reassurance  
+– Eating drinking ok  
+– Nil recent infections nil new meds  
+
+Past psych  
+– GAD long standing ↑ after move to RACF 2yrs ago  
+– MDD stable >12/12 on sertaline mirtazapine nil past attempts recorded  
+– Dementia likely Alz mild–mod needs assist with IADLs supervision meds/finances orientated person place date variable  
+
+PMHx (abridged)  
+– HTN  
+– Hyperlipidaemia  
+– OA knees spine  
+– Nil known IHD prior normal stress test ~5yrs ago  
+– Nil DM  
+
+Meds (per chart + RN pt partial recall)  
+– Sertraline 50mg mane  
+– Mirtazapine 15mg nocte  
+– Perindopril 5mg mane  
+– Atorvastatin 20mg nocte  
+– Paracetamol 1g TDS PRN  
+– Vit D  
+Nil reg benzos nil ETOH nil OTC stimulants  
+
+Allergies  
+– NKDA  
+
+Social brief  
+Widowed 2 adult kids daughter EPOA visits weekly supportive  
+Previously very independent high premorbid function now limited to facility so access to external psych tricky  
+
+# Exam  
+Gen elderly lady neatly dressed mildly anxious cooperative engaging repetitive qs  
+Obs today from RACF BP 136/72 HR 78 reg RR 16 SpO2 98% RA afebrile BSL not done today nil DM hx  
+CVS HS dual nil m/r JVP not elevated nil oedema  
+Resp clear good AE  
+Neuro/cog alert orientated person place unsure exact date "November sometime" speech coherant nil focal deficit on brief screen  
+
+MSE  
+Appearance behav pleasant anxious frequent reassurance seeking  
+Mood "abit worried all the time" affect anxious reactive  
+Thought content prominent health worries catastrophic interp of benign sx nil delusions nil halucinations SI nil  
+Thought form mostly linear some tangential but returns to health worries  
+Insight partial recognises anx but concerned "something serious could be missed"  
+Judgement fair for simple decisions  
+
+# Assessment (registrar)  
+1 GAD chronic currently mild–mod likely exacerbated by health anxiety dementia related uncertainty + online health info  
+   – No red flags for acute organic cause of anx today obs and exam reassuring  
+2 MDD in partial remission mood fairly stable on current regimen but age + dementia ↑risk of relapse so needs monitoring  
+3 Dementia mild–mod appears clinically stable today contributes to misinterpretation of bodily sensations + reliance on reassurance  
+4 Somatic health anxiety frequent reassurance seeking pattern long standing  
+5 Chest tightness appears anx related brief non exertional unchanged pattern prev normal cardiac workup low suspicion ACS today though aware age and RFs mean ongoing vigilance needed  
+
+Differentails considered  
+– ACS/angina less likely given non exertional short lived sx normal obs exam prev neg tests  
+– Arrhythmia less likely HR reg nil palps on exam  
+– PE unlikely nil SOB pleuritic pain risk factors  
+– Infection metabolic cause of ↑anx nil sx today  
+
+# Plan  
+Time limited consult ~15min focus script + anx r/v explained unable to investigate every transient sx prioritised main concerns  
+
+1 GAD / MDD  
+– Continue sertraline 50mg mane chart updated script done chose not to ↑dose today as overall functioning reasonable and sudden change may ↑confusion/anx in context dementia  
+– Continue mirtazapine 15mg nocte  
+– Psychoeducation  
+   • Discussed link between anx and physical sx eg chest tightness palps  
+   • Normalised some worry re health but gently pointed out catastrophic pattern  
+   • Reassured exam obs today not suggestive of MI or malignancy explained that if pattern of sx changed we would rethink  
+– Boundaries around Ix  
+   • Explained further routine tests eg repeat ECG bloods scans in absence of new features unlikely to help and may feed health anx  
+   • Emphasised focus on monitoring change rather than repeat testing  
+– Non pharm  
+   • Revised slow breathing grounding techniques left brief cue card via RN "Slow breaths talk to staff symptoms usually pass in a few minutes"  
+   • Asked RN to encourage participation in enjoyable activities TV room group sessions to ↓rumination  
+– Psych input  
+   • Formal CBT likely helpful but access limited in RACF  
+   • Plan to discuss possible telehealth psych with daughter at next family meeting ?MHCP then  
+
+2 Monitoring safety  
+– Safety net to pt and RN  
+   • Seek urgent help / call ambulance if chest pain prolonged >20min or clearly exertional or assoc radiation SOB diaphoresis N/V or collapse  
+   • R/V earlier if mood ↓ significantly new SI or acute change in behaviour cognition  
+– Asked RACF to monitor night time distress agitation if ↑ or unmanageable will need med r/v consider adjust antidepressant vs short term PRN strategy (avoid reg benzos if possible)  
+
+3 Dementia  
+– Appears stable today nil acute change  
+– Reassured that word finding diff and mild forgetfulness fit known dementia rather than new severe illness  
+– Plan longer cognition/function r/v with daughter present next 4–6/52 RN to help organise (likely extended appt)  
+
+4 Tangential concerns  
+– Water "smelling funny" reassured RACF supply treated safe sx pattern not suggestive of water issue  
+– Extra evening tea explained caffeine can ↑jitters affect sleep suggested limit caffeinated tea after ~4pm offer decaf/herbal in evening RN aware  
+
+5 Ix  
+– Nil new Ix ordered today given stable pattern reassuring exam and wish not to reinforce health anx  
+– Will consider routine annual bloods FBC U&E LFT TFT B12 folate lipids at next scheduled med r/v rather than now  
+
+6 F/U  
+– Routine RACF GP r/v 4–6/52 earlier PRN if ↑anx new physical sx or concerns from staff/family  
+– Plan extended family r/v with daughter/EPOA in 1–2/12 to discuss broader mgmt of anx depn dementia and potential telehealth psych referral  
+
+Pt understanding  
+Pt verbalised understanding but repeatedly asked "are you sure we dont need more tests I just dont want to miss something like cancer"  
+Reiterated reasoning + safety netting appeared somewhat reassured though expect ongoing intermittent reassurance seeking RN aware  
+
+Registrar learning points  
+– Challenging balance between validating health concerns vs not reinforcing health anxiety esp in dementia  
+– Uncertain if should have ordered baseline bloods today for reassurance vs risk of feeding pattern discussed with supervisor below  
+
+[Supervisor addendum 22/11/25 16:10]  
+Discussed case with registrar  
+Agree overall dx GAD with health anxiety on background mild–mod dementia and MDD in partial remission  
+Agree low suspicion ACS or other acute pathology today so reasonable to avoid further Ix at this stage safety net appropriate  
+Support decision to continue current sertaline and mirtazapine doses nil change today  
+Telehealth psych via MHCP worth exploring with daughter at planned family r/v  
+Co signed  
+
+[End of note]

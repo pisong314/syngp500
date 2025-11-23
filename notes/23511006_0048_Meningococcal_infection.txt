@@ -1,0 +1,81 @@
+22/11/25 09:10  
+
+22 yr old F (uni student) here after recent meningococcal admission – wants to “go over all the tests and make sure everything’s actually ok now”. Recently discharged from tertiary hospital ID ward.  
+
+Hx (bit all over the place as she talks):  
+- Onset ~9 days ago: high fevers, severe headache, neck stiffness, photophobia, N/V + “purple spots” on legs/trunk → ED → IV abx quickly, admitted.  
+- Dx in hosp: invasive meningococcal disease – meningitis + septicaemia. Blood cultures + CSF grew N. meningitidis serogroup B (per discharge summary/MyHR).  
+- Treated with IV ceftriaxone 2 g 12-hourly x 5 days. Dexamethasone started then stopped when N. meningitidis confirmed.  
+- Public health notified, close contacts (housemates, boyfriend, parents) had clearance abx (ciprofloxacin single dose). Pt did NOT get separate clearance as per letter – had 5 days ceftriaxone which counts.  
+
+Since discharge (4 days):  
+- No fever, no rigors, no new rash.  
+- Mild fatigue, needs nap some days.  
+- Occasional mild headache later in day, settles with paracetamol. No photophobia/neck stiffness/vomiting.  
+- Concentration “a bit foggy” with prolonged study but improving.  
+- Denies hearing loss, tinnitus, imbalance, focal neuro sx, seizures, visual change.  
+- Mood: mildly anxious re recurrence/contagion. Sleeping slightly lighter, no nightmares, no suicidal thoughts.  
+- Meds: only PRN paracetamol 1 g up to QID (actually taking 1–2/day). No OCP. NKDA.  
+- Immunisation: thinks had routine childhood + school MenACWY, unsure about MenB. Wants to know if more vaccines needed.  
+
+10:02 Exam (brief – mainly neuro):  
+- Looks well, alert, talking normally, NAD.  
+- Vitals: BP 112/70, HR 78 reg, RR 14, Temp 36.7, SpO₂ 99% RA.  
+- No petechiae/purpura visible.  
+- Neck supple, full ROM, no meningism.  
+- Neuro: oriented, CN grossly intact, power 5/5 all limbs, sensation intact to light touch, gait normal. Hearing grossly normal to conversation. No focal deficits.  
+
+Results (from discharge summary/MyHR – skimmed while she was talking):  
+- Blood cultures: N. meningitidis serogroup B, sensitive to penicillin, ceftriaxone, cefotaxime, cipro, rifampicin.  
+- CSF: high protein, low glucose, neutrophilic pleocytosis, culture same organism.  
+- CT brain pre-LP: no mass/bleed/hydrocephalus.  
+- Last bloods in hosp: WCC and CRP trending down, renal/LFTs normal.  
+
+Her main questions:  
+1) “Should I be worried about long-term brain damage or hearing loss?”  
+2) “Did I get this because I was run down / sharing drinks / had a bad cold before?”  
+3) “Can I still give it to other people?”  
+4) “Do I need more meningococcal vaccines, especially B?”  
+
+Explained briefly:  
+- Has completed adequate IV ceftriaxone course; no further abx needed for clearance. Not considered infectious now.  
+- Recurrence uncommon without underlying immune problem.  
+- Some post-infective fatigue and mild headaches/concentration issues are expected; usually improve over weeks.  
+- No current signs of hearing loss or neuro deficit today.  
+- Transmission usually via close prolonged contact; her contacts already treated.  
+- Past cold/exams/late shifts likely contributed to feeling run down but not sole cause.  
+
+Immunisation:  
+- Likely had MenACWY at school (per age group). Unsure MenB.  
+- Discussed that prior MenB disease gives some strain-specific immunity but MenB vaccine still recommended for broader protection; also MenACWY booster if not up to date. Mentioned may be out-of-pocket cost.  
+- 10:18 Sent request to check AIR via practice system (AIR record not immediately visible). Plan to confirm MenACWY status and discuss MenB schedule (2-dose) at longer visit.  
+
+A/P  
+1. Recent invasive meningococcal disease (N. meningitidis serogroup B) – meningitis + septicaemia, now day 9 post-onset, day 4 post-discharge. Clinically stable, afebrile, no meningism, no sepsis.  
+   - No additional abx.  
+   - Safety net: attend ED/000 if new high fever, rapidly worsening headache, neck stiffness, vomiting, confusion, new rash or feeling acutely very unwell.  
+
+2. Post-meningococcal convalescence – mild fatigue, mild non-specific headaches, subjective “brain fog”, no objective neuro deficit.  
+   - Continue graded return to normal activity over next few weeks.  
+   - Paracetamol PRN (max 4 g/day).  
+   - Review if headaches worsen, become persistent, or any neuro sx.  
+
+3. Anxiety re recurrence/contagion/long-term effects.  
+   - Reassured re low risk of ongoing contagion and recurrence.  
+   - Advised to return if ongoing anxiety, poor sleep, intrusive thoughts – can consider MHCP/psychology.  
+
+4. Hearing/cognitive monitoring post-meningitis.  
+   - Currently no red flags.  
+   - If she or others notice hearing difficulty or marked cognitive issues → will arrange audiology ± further neuro work-up.  
+
+5. Immunisation – meningococcal  
+   - Await AIR confirmation of prior MenACWY.  
+   - Likely to offer MenB course + MenACWY booster if not current, at separate nurse + GP appt once AIR checked and she’s ready.  
+
+Plan:  
+- F/U 1–2 weeks with longer appt to reassess recovery and go through immunisation plan once AIR available.  
+- Earlier review if any red flag sx, worsening headaches or mood changes.  
+
+Pt verbalised understanding, “feel a lot better knowing I’m not still contagious”.  
+
+Review 03/05/2023 15/08/2024 – ignore, old recall in system. New recall set for 1–2/52.

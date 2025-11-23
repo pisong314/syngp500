@@ -1,0 +1,60 @@
+22/11/25  
+
+68M, retired construction worker, Anglo-Aust  
+
+CC: “dizzy… very weak… no wee” per daughter. “Felt real crook yesterday, chest real bad but I lie down, ok now.”  
+
+Hx (via daughter mostly, pt limited Eng, keeps nodding “yes”):  
+3–4h hx marked weakness + light-headed esp on standing  
+Yesterday pm: “bad chest pain, sweating” ~30–40 mins, refused hosp, settled w rest  
+Since last night ↓urine (one small void o/night, none this am)  
+Daughter: “his neck vein sticking out when he’s half sitting”  
+No SOB, no cough, no wheeze, no orthopnoea, no leg swell  
+Mild nausea, no vomit  
+Home BP this am “very low” ~85/60 (not recorded)  
+No known prev MI/angina/HTN/AF/HF. No reg meds. Ex-smoker (~10y ago).  
+
+Obs (clinic):  
+BP 82/54 sitting → 88/58 supine  
+HR 96 reg  
+RR 18  
+SpO₂ 97% RA  
+T 36.6  
+
+Exam (focused):  
+Looks pale, unwell, mildly sweaty, prefers supine  
+JVP ↑ to angle of jaw @45°  
+HS dual, no obvious murmur (noisy room, brief)  
+Periph cool, CRT ~3s, no oedema  
+Chest clear, no crackles/wheeze  
+Abdo soft, NT, no mass, bladder not palpable  
+Neuro grossly non-focal  
+
+ECG (12L, clinic):  
+Sinus ~95  
+ST ↑ II, III, aVF w reciprocal ST ↓ I, aVL → c/w acute inferior STEMI. Pattern + hypotension + ↑JVP + clear lungs → ?RV infarct  
+
+BGL 7.1 mmol/L  
+
+Imp:  
+1) Suspected acute inferior STEMI + RV involvement → hypotension + oliguria + ↑JVP + clear chest → high risk evolving cardiogenic shock  
+2) Lang barrier (CALD, no prof interpreter avail) – consent via daughter only  
+
+Plan (time-critical, ~10–15 min):  
+– Explained in simple terms via daughter: “heart not pumping right… possible heart attack… BP dangerously low… need hospital now or could collapse/die”  
+– Pt: “ok, hospital, heart no good”  
+– 000 called → urgent ambulance, request priority transfer to nearest PCI-capable ED. Handover: probable inferior + RV STEMI, hypotensive, oliguria, ↑JVP, clear lungs, recent chest pain, no GTN given  
+– Position: supine, slight head up, monitored BP/HR/SpO₂ while waiting  
+– Meds here: Aspirin 300 mg PO stat, chewed (no prior today, no known allergy). Time given documented in ambulance sheet  
+– NO GTN (hypotension + ?RV infarct)  
+– NO morphine (no sig pain now + hypotension)  
+– O₂ not started (SpO₂ 97% RA)  
+– IV fluids left to ambos/ED (clinic not set up for safe monitored bolus, ETA mins)  
+
+To ED for: serial ECGs, trop, FBE, U&E, CMP, coags, CXR, echo, cardiology review, PCI as indicated, haemodynamic support incl cautious fluids for RV infarct, avoid preload ↓ agents  
+
+Letter sent with ambos summarising hx/exam/ECG + concern RV infarct.  
+
+F/up: asked daughter to book GP review 1–2/52 post-discharge for post-MI meds (DAPT, statin, ACEI/ARB, βB etc), cardiac rehab, risk factor work-up.  
+
+If deterioration pre-ambulance (more chest pain, collapse, SOB) → daughter to call 000 again. Staff stayed w pt till transfer.

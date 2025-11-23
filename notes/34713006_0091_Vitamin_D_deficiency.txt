@@ -1,0 +1,118 @@
+22/11/25  
+
+Reason for visit  
+C/O vit D deficiency possible osteomalacia  
+
+HPI  
+32y/o South Asian female new pt temp working remote area office based  
+Vit D def picked up ~3/52 ago in Syd routine bloods no copy today  
+Told level ~15 nmol/L or lower ?osteomalacia defective bone mineralisation  
+Since then reading Healthy Bones Aust NICE etc quite well informed  
+
+Symptoms ~6–9/12  
+- Deep generalised bone ache esp lower back hips shins not really joints worse after long sitting abit beter with movement  
+- Prox muscle weak difficulty stairs getting out of low chair floor carrying shopping quads feel weak  
+- Fatigue ↓ exercise tolerance stopped gym ~4/12 ago due to tiredness leg discomfort  
+- Nil low trauma # nil known ht loss  
+- Nil joint swell red morn stiffness >30min nil inflam back pain features  
+
+Risks  
+Dark skin Fitzpatrick V covers arms legs for cultural reasons sunscreen when out mainly indoors office minimal sun  
+Veg diet low dairy mostly almond milk rare cheese yoghurt prob low Ca  
+BMI 29 today gained ~4kg last 12/12 sedentary  
+
+Pt queries need for high dose colecalciferol eg 50000 IU or calcitriol concerned re falls risk with megadoses in older pts does not want harm BMD  
+Also ?fluoro lights aircon affecting vit D ?fortified almond milk confusing tests reassured not contributing main issues sun exposure skin type Ca intake  
+
+Nil hx liver renal disease coeliac IBD CF bariatric or other GI surg  
+Nil chronic meds nil steroids antiepileptics rifampicin  
+Nil pregn  
+FHx nil osteoporosis metabolic bone disease parents T2DM HTN  
+
+Systems screen focused  
+MSK nil joint swelling deformity trauma  
+Neuro nil paraesthesia nil distal weakness gait ok except “wobbly on stairs sometimes”  
+GI nil chronic diarrhoea steatorrhoea wt loss  
+Endo nil heat/cold intolerance palps skin hair change  
+
+PMHx  
+Essentially nil signif issues  
+Nil prev # needing med attn  
+
+Meds  
+OTC ibuprofen <1/week  
+Started supermarket multivit 400 IU vit D 2/52 ago  
+
+Allergies  
+NKDA  
+
+SHx  
+Non smoker rare ETOH 1–2 std/mth  
+Lives share house support via friends family phone  
+Access to GP patchy due to work rosters remote location bulk billed today  
+High health literacy uses reputable websites  
+
+O/E  
+Gen well appearing articulate NAD ambulates indep  
+Obs BP 112/70 HR 76 RR 14 SpO₂ 99% RA afebrile BMI 29 kg/m2  
+
+MSK  
+Gait normal  
+Mild diffuse tenderness ant tibiae prox femurs deep palp no focal bony point tenderness  
+Spine nil deformity nil focal vert tenderness  
+ROM hips knees shoulders full mild discomfort resisted hip flexion  
+
+Neuro  
+Prox power ~4+/5 hips shoulders vs distal 5/5  
+Reflexes normal symm sensation intact Romberg neg heel toe walk normal  
+
+Abdo soft NT no HSM  
+Skin nil rash bruising stigmata CLD  
+
+Impression / dx  
+1 Vit D deficiency suspected mod–severe SNOMED 34713006  
+   Clin picture fits vit D def with bone pain prox myopathy high risk factors dark skin low sun low Ca overweight previous low level per pt but unconfirmed today  
+   Likely early osteomalacia 2° vit D def but no red flags for sinister bone pathology atm  
+2 Low dietary Ca intake contrib to impaired bone mineralisation  
+3 Will need staged bone health workup DEXA etc once vit D corrected time limited consult today  
+
+Plan  
+
+Ix ordered today (local lab)  
+- 25-OH vit D  
+- CMP U&E LFT  
+- Corrected Ca PO₄ ALP  
+- PTH  
+- FBC  
+- Coeliac screen tTG IgA total IgA  
+
+Discussed need to confirm level here before high dose or calcitriol due to Medicare rules etc pt agreed  
+
+Vit D mgmt  
+- Start colecalciferol 1000 IU PO daily OTC from today empiric safe dose while awaiting results will not mask severe def  
+- If 25-OH vit D <30 nmol/L once results back plan ↑ dose to 3000–5000 IU daily for 6–12/52 then maint 1000–2000 IU daily per eTG repeat level ~3/12  
+- Avoid single megadose regimens 300000–500000 IU given evidence ↑falls esp older pts not indicated here good adherence expected  
+- Calcitriol discussed usually for CKD or specific vit D metabolism disorders not first line for her  
+
+Calcium & lifestyle  
+- Aim total Ca ~1000 mg/day  
+- Advised Ca fortified plant milks check label ~300 mg/serve plus tofu set with Ca almonds tahini leafy greens  
+- May need Ca supp ~500–600 mg elemental daily if diet inadequate to finalise after diet recall dietitian input at later r/v  
+- Brief sun exposure advice for her skin type and remote Aust setting short regular mid morning or mid afternoon exposure to face arms hands most days avoid sunburn  
+- Encouraged gentle WB exercise eg walking light resistance avoid sudden high impact until sx improve  
+
+Safety net  
+Pt advised to seek urgent r/v or ED if severe focal bone pain night pain waking from sleep neuro sx bowel/bladder change or any low impact #  
+If bloods show unexpected abnorm eg markedly ↑ALP abn Ca/PO₄ LFTs or renal will consider imaging and/or specialist ref  
+
+F/U  
+- R/V ~2/52 or earlier once results avail phone consult ok given remote location  
+  → review results adjust vit D dose as above  
+  → formal Ca intake review consider Ca supp  
+- Longer appt later once vit D stable for broader bone health assessment fracture risk DEXA consideration and routine preventive care cervical screen lipids etc  
+- Asked pt to obtain copy of previous Syd pathology for comparison  
+
+Billing  
+Bulk billed MBS item 23 standard consult ~15 min focus vit D / bone health  
+
+[No results yet – to addend when labs back]

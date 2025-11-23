@@ -1,0 +1,59 @@
+22/11/25  
+
+72F  
+
+CC: “Flu-like, just dragged on a bit”  
+
+HPI  
+Day 6 flu-like illness  
+Init: fevers/chills, myalgias, HA, dry cough, sore throat, very fatigued  
+Slight better D3–4 → last 48h ↑cough, R pleuritic chest pain on cough, still febrile “just wiped out”  
+Mild SOB on exertion only (“puffing walking to the letterbox”), nil at rest  
+Now small amt yellow sputum, no haemoptysis  
+Mild nausea, ↓appetite, keeping fluids “lots of tea”  
+Reluctant attender “probably nothing, my daughter made me come”  
+No known COVID/flu contact, no travel  
+Vax: ?flu this yr (likely not). COVID x3, last >12/12  
+No known chronic lung/CVD/DM  
+
+O/E  
+T 38.2 HR 98 BP 132/76 RR 20 SpO₂ 95% RA  
+Looks tired, talking full sentences  
+Chest: ↓AE + dull RLL, bronchial BS + coarse crackles RLL, rest clear, no wheeze  
+CVS/abdo NAD  
+
+Ix ordered today  
+– Resp viral PCR (incl flu A/B, COVID) – NP swab  
+– Sputum MCS if able  
+– FBC, U&E, CRP (local path)  
+– CXR PA/LAT – query RLL pneumonia. Report pend  
+
+Impression  
+?Flu-like illness D6 in high-risk older pt  
+→ Likely influenza  
+→ c/b suspected RLL community-acquired pneumonia  
+Need to r/o COVID co-inf  
+
+Plan  
+1) Antiviral  
+– Oseltamivir 75mg PO BD 5/7 (PBS, age ≥65 + ongoing sx). Explained benefit ↓ as days pass but still reasonable. Warned N+V, take with food  
+
+2) Abx – CAP  
+– Amoxycillin/clavulanate 875/125mg PO BD 7/7 (RLL pneumonia cover Strep pneumo etc)  
+– Emphasised complete course even if better  
+
+3) Symptomatic  
+– Paracetamol 1g PO QID PRN (max 4g/day) for fever/myalgia/HA  
+– Rest, fluids – brief  
+
+Safety-net  
+Discussed hospital vs home – pt “really doesn’t want hospital unless I’m absolutely dying”  
+Currently stable obs, sats OK → trial outpatient but low threshold admit  
+Red flags explained: ↑SOB esp at rest, chest pain not just on cough, confusion, can’t keep fluids down, worsening fevers, collapse → ED/000  
+
+F/up  
+Review 24–48h with GP (booked) or earlier if worse  
+Review CXR + path + PCR then – adjust abx/antiviral, consider hosp if no improvement  
+
+Preventive (deferred)  
+Briefly rec flu vax + COVID booster once well – pt “not big on jabs, will think about it”. To revisit later.
