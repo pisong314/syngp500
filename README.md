@@ -14,7 +14,7 @@ SynGP500 is a clinician-curated collection of 500 synthetic Australian general p
 
 **The Problem:** Access to clinical text data is a significant challenge for healthcare NLP research due to privacy regulations and ethical constraints. Publicly available datasets for Australian general practice are particularly limited.
 
-**The Solution:** SynGP500 provides privacy-preserving synthetic data that bypasses these constraints while maintaining clinical realism through systematic multi-dimensional grounding:
+**The Solution:** SynGP500 addresses this challenge by aiming to generate high-quality synthetic clinical notes, using systematic multi-dimensional grounding to approximate the clinical realism of genuine Australian general practice while avoiding the privacy constraints of real patient data:
 
 - **Condition selection:** Drawn from the RACGP curriculum for GP registrar training, ensuring educationally and clinically relevant presentations
 - **Case distribution:** Matched to BEACH study data, reflecting realistic prevalence patterns in Australian general practice
