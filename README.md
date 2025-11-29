@@ -38,8 +38,7 @@ SynGP500 is a clinician-curated collection of 500 synthetic Australian general p
 - **Epidemiologically validated:** Case distribution closely matches BEACH study data (within ±1-2% for most presenting complaint categories)
 - **Demonstrated realism:** Natural typo rate (0.83%), high stylometric diversity (MATTR 0.858–0.946), realistic length variation (CV 0.42-0.47)
 - **Medical authenticity:** 48.3% medical term density, SNOMED-CT-AU coded for systematic ontological coverage
-- **NER validated:** Grouped Type F1 score of 0.6951 (+14.7% improvement over baseline) using MedCAT, validated against gold fictional clinician-authored notes
-
+- **NER validated:** Grouped Type F1 score of 0.6951 (+14.7% improvement over baseline) using MedCAT on GP-authored hypothetical test cases
 ---
 
 ## Quick Start
