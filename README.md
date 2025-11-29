@@ -10,7 +10,7 @@
 
 ## Overview
 
-SynGP500 is a clinician-authored collection of 500 synthetic Australian general practice medical notes created to support machine learning and natural language processing research in primary care.
+SynGP500 is a clinician-curated collection of 500 synthetic Australian general practice medical notes created to support machine learning and natural language processing research in primary care.
 
 **The Problem:** Access to clinical text data is a significant challenge for healthcare NLP research due to privacy regulations and ethical constraints. Publicly available datasets for Australian general practice are particularly limited.
 
@@ -56,7 +56,65 @@ cat notes/14669001_0093_Acute_kidney_injury.txt
 All 500 synthetic medical notes are located in the `/notes` directory as plain text files (UTF-8 encoded). Each filename follows the pattern: `{SNOMED_code}_{ID}_{condition_name}.txt`
 
 ---
+
+## Realism of GP Consults
+
+GP consultations are rarely the neat, single-problem encounters depicted in medical dramas. Real patients juggle work pressures, financial stress, childcare, and multiple health issues—all competing for attention in a 15-minute appointment. These synthetic notes authentically reflect this messy reality, capturing not just medical facts but the human complexity that shapes every consultation.
+
+<details>
+<summary><b>Click to expand: Annotated examples demonstrating realistic complexity of real consultations</b></summary>
+
+### Example 1: Multiple Competing Demands
+
+**File:** `notes/17059001_0012_Prepatellar_bursitis.txt` (60 lines)
+
+**Context:** Tiler with knee pain, uncontrolled diabetes, and Centrelink forms—three problems in one brief visit.
+
+**Key realistic features:**
+- Line 5: `"bloody knee keeps blowing up"` — colloquial Australian language
+- Line 13-14: `Multiple DNAs... Admits poor adherence, ran out "a few weeks ago"` — frank non-adherence documentation
+- Line 16: `casual tiler, variable income. Applying public housing` — socioeconomic barriers shaping care
+- Line 46: `Pathology done on-site today to minimise DNA` — GP adapting strategy to patient behavior patterns
+- Lines 49-52: GP completing Centrelink/housing forms during clinical consultation—realistic administrative burden
+
+**Commentary:** Real GP consultations rarely address single problems—they involve competing demands, social complexity, and time constraints requiring pragmatic compromises.
+
+---
+
+### Example 2: When Patient and Doctor Disagree
+
+**File:** `notes/44465007_0024_Ankle_sprain.txt` (68 lines)
+
+**Context:** Retail worker with ankle sprain wants MRI and "strong painkillers"—but evidence-based guidelines don't support either.
+
+**Key realistic features:**
+- Line 11: `"Just need the strong ones again, my usual doc would just give it, no questions"` — patient comparing doctors, wanting previous treatment repeated
+- Line 13: `"Why can't we just scan it and fix it faster?"` — common misunderstanding that scans "fix" problems
+- Line 12: `"No time for physio, can't afford days off"` — work and money barriers to recommended treatment
+- Line 52: `Pt not happy but accepts "better than nothing" plan` — honest documentation that patient left dissatisfied
+- Line 60: Declines medical certificate — `"boss will just cut my shifts"` — job insecurity preventing proper recovery
+
+**Commentary:** Not all consultations end happily. GPs regularly navigate disagreements, balancing patient expectations with evidence-based practice, while maintaining the relationship even when patients are frustrated with the care plan.
+
+---
+
+**Why This Matters:**
+
+These examples show what's often missing from sanitized medical datasets—the human reality of healthcare:
+- **How people actually talk** ("bloody knee," "when I'm not wrecked after work")
+- **Work and money stress** shaping what treatment people can actually do
+- **Patients disagreeing with doctors** and consultations ending with both sides frustrated but moving forward
+- **Non-adherence** documented honestly (missing appointments, running out of medications, not doing exercises)
+
+Medical AI trained only on neat, textbook-style notes won't understand the real complexity of healthcare delivery. These authentic notes capture the chaos, compromise, and human messiness that define actual general practice.
+
+</details>
+
+---
 ## Generation Architecture
+
+<details>
+<summary><b>Click to expand: Detailed generation methodology</b></summary>
 
 This dataset was created using a multi-stage synthetic data generation pipeline designed to ensure clinical realism, diversity, and accuracy:
 
@@ -82,6 +140,8 @@ This dataset was created using a multi-stage synthetic data generation pipeline 
 - **Human-in-the-loop review:** Flagged cases undergo manual clinical review by the author (qualified GP) for validation and correction
 
 This architecture ensures that the synthetic notes capture not only the linguistic patterns of clinical documentation but also the medical complexity, contextual variations, and real-world constraints that characterize Australian general practice.
+
+</details>
 
 ---
 
@@ -191,6 +251,9 @@ If you use this dataset in your research or educational materials, please cite:
 
 ### Epidemiological Validation Against BEACH Study
 
+<details>
+<summary><b>Click to expand: BEACH study comparison table</b></summary>
+
 To ensure realistic case distribution, the presenting complaints in this synthetic dataset were calibrated against the BEACH (Bettering the Evaluation and Care of Health) study—Australia's most comprehensive epidemiological study of general practice activity. The comparison below demonstrates strong alignment between this synthetic dataset and real-world Australian GP consultations:
 
 | Category | BEACH % | Generated % | Difference |
@@ -237,7 +300,12 @@ To ensure realistic case distribution, the presenting complaints in this synthet
 
 This comparison indicates that SynGP500's case distribution is broadly consistent with epidemiological patterns in Australian general practice, within the expected variation for a 500-case synthetic dataset.
 
+</details>
+
 ### Stylometric Validation
+
+<details>
+<summary><b>Click to expand: Stylometric analysis metrics</b></summary>
 
 Comprehensive stylometric analysis confirms the dataset exhibits realistic variation and diversity characteristic of genuine clinical documentation:
 
@@ -255,18 +323,69 @@ Comprehensive stylometric analysis confirms the dataset exhibits realistic varia
 
 **Note:** MATTR (Moving-Average Type-Token Ratio) normalizes vocabulary richness across different note lengths. High CV values in style metrics indicate genuine diversity in clinician writing patterns rather than template-driven uniformity.
 
+</details>
+
+---
+
+## NER Performance Validation
+
+To validate the realism and utility of the synthetic notes, we evaluated Named Entity Recognition (NER) performance using MedCAT loaded with the SNOMED-AU lexicon plus the author's curated list of common Australian medical acronyms mapped to SNOMED concepts, then self-supervised trained on this 500-note corpus. **The model achieved a Grouped Type F1 score of 0.6951 (+14.7% improvement over baseline)**, demonstrating that even this small synthetic dataset exhibits sufficient clinical complexity and linguistic variation to support meaningful machine learning model training.
+
+> **Clinical Relevance Note:**
+>
+> While strict SNOMED CUI matching is commonly reported in NER research, **Grouped Type matching** is more clinically meaningful for medical NLP applications. In real clinical practice, semantic distinctions like "rash (morphology)" versus "rash (finding)" are functionally equivalent—both refer to the same clinical entity. Grouped Type matching (which consolidates such SNOMED type variants) better reflects how clinical concepts are actually used in healthcare settings and provides a more realistic assessment of model utility.
+
+### Training Performance Across Evaluation Strategies
+
+![NER Training Performance](images/ner_performance.svg)
+
+<details>
+<summary><b>Click to expand: Detailed findings and methodology</b></summary>
+
+### Key Findings
+
+**Primary Result (Clinically Relevant Matching):**
+- **Grouped Type F1: 0.6951** — Achieves strong performance with semantic type consolidation, plateaus at 2+ epochs
+- **Span Match F1: 0.7289** — Best entity boundary detection, stable from epoch 2 onward
+
+**Reference Results (Strict Matching):**
+- **Strict F1: 0.6340** — Peaks at 1 epoch, then shows clear overfitting behavior
+- **Training insight:** Model demonstrates classic overfitting pattern—performance peaks early (epoch 1) for CUI-based matching, then degrades as the model memorizes training examples rather than learning generalizable patterns
+
+**Dataset Validation:**
+- ✅ Untrained model achieves 58.8% F1, confirming baseline medical concept recognition
+- ✅ Training on synthetic notes yields +14.7% improvement (Grouped Type), demonstrating realistic learning signal
+- ✅ Performance plateau at 2+ epochs indicates dataset contains sufficient complexity for model convergence
+- ✅ Results validate that synthetic notes exhibit clinical linguistic patterns suitable for NER training
+
+### Evaluation Methodology
+
+- **Model:** MedCAT (Medical Concept Annotation Tool)
+- **Lexicon:** SNOMED CT-AU (Australian extension) + author's curated list of common Australian medical acronyms mapped to SNOMED concepts
+- **Evaluation strategies:** Strict CUI matching, Grouped Type matching (consolidates semantic type variants), Span matching (entity boundary detection), Type matching, Relaxed matching, Partial IOU
+- **Training:** 0–4 epoch progression to assess learning dynamics and overfitting
+
+These results provide evidence that SynGP500's synthetic medical notes contain realistic clinical language patterns and sufficient complexity to support NER model training, validating the dataset's utility for machine learning research in Australian general practice contexts.
+
+</details>
+
 ---
 
 ## Limitations
 
+<details>
+<summary><b>Click to expand: Dataset limitations</b></summary>
+
 Users should be aware of the following limitations:
 
 1. **No pediatric cases:** This release does not include pediatric consultations. Adult and elderly patients are well-represented. Pediatric cases will be included in future versions.
-2.  **Synthetic generation artifacts:** While designed to be realistic, these notes may contain patterns or inconsistencies not present in genuine clinical documentation
+2. **Synthetic generation artifacts:** While designed to be realistic, these notes may contain patterns or inconsistencies not present in genuine clinical documentation
 3. **Limited validation:** No large-scale clinical expert validation has been performed
 4. **Temporal currency:** Guidelines and best practices evolve; notes reflect knowledge current at time of generation
 5. **Australian context:** Notes are specific to Australian general practice; terminology, medications, and guidelines may not transfer to other healthcare systems
 6. **Scope limitations:** 500 cases cannot capture the full spectrum of presentations seen in general practice
+
+</details>
 
 ---
 
@@ -305,20 +424,30 @@ This dataset was created to support the clinical NLP research community and medi
 
 ## References
 
+<details>
+<summary><b>Click to expand: Full reference list</b></summary>
+
 1. **Australian Digital Health Agency.** SNOMED CT-AU (Australian extension of SNOMED CT). Available from: https://www.healthterminologies.gov.au
 
 2. **Britt H.** BEACH--bettering the evaluation and care of health: a continuous national study of general practice activity. *Commun Dis Intell Q Rep.* 2003;27(3):391-393. doi:10.33321/cdi.2003.27.68
 
 3. **Rajotte JF, Bergen R, Buckeridge DL, El Emam K, Ng R, Strome E.** Synthetic data as an enabler for machine learning applications in medicine. *iScience.* 2022;25(11):105331. doi:10.1016/j.isci.2022.105331
 
-4. **Royal Australian College of General Practitioners.** 2022 RACGP curriculum and syllabus for Australian general practice (6th ed.). 2022. Available from: https://www.racgp.org.au/education/education-providers/curriculum/curriculum-and-syllabus/home
+4. **Kraljevic Z, Searle T, Shek A, Roguski L, Noor K, Bean D, Mascio A, Zhu L, Folarin AA, Roberts A, Bendayan R, Richardson MP, Stewart R, Shah AD, Wong WK, Ibrahim Z, Teo JT, Dobson RJB.** Multi-domain clinical natural language processing with MedCAT: The Medical Concept Annotation Toolkit. *Artif Intell Med.* 2021;117:102083. doi:10.1016/j.artmed.2021.102083
+
+5. **Royal Australian College of General Practitioners.** 2022 RACGP curriculum and syllabus for Australian general practice (6th ed.). 2022. Available from: https://www.racgp.org.au/education/education-providers/curriculum/curriculum-and-syllabus/home
+
+</details>
 
 ---
 
 ## Changelog
 
+### Version 0.91 (Pre-release)
+- NER validation added: MedCAT evaluation on clinician-authored fictional notes with clinician annotations
+
 ### Version 0.9 (Pre-release)
-- 500 synthetic GP notes released
+- Initial release: 500 synthetic GP notes
 ---
 
 **Last Updated:** November 2025

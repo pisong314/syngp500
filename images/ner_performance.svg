@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="480" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="480" fill="#ffffff"/>
+
+  <!-- Title -->
+  <text x="400" y="25" font-family="Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#333">
+    NER Training Performance: F1 Score vs Epochs
+  </text>
+
+  <!-- Grid lines and axes -->
+  <g stroke="#e0e0e0" stroke-width="1">
+    <line x1="80" y1="60" x2="80" y2="400"/>
+    <line x1="80" y1="400" x2="750" y2="400"/>
+    <line x1="80" y1="400.0" x2="750" y2="400.0" stroke-dasharray="2,2"/>
+    <line x1="80" y1="357.49999999999994" x2="750" y2="357.49999999999994" stroke-dasharray="2,2"/>
+    <line x1="80" y1="314.9999999999999" x2="750" y2="314.9999999999999" stroke-dasharray="2,2"/>
+    <line x1="80" y1="272.5000000000001" x2="750" y2="272.5000000000001" stroke-dasharray="2,2"/>
+    <line x1="80" y1="230.0000000000001" x2="750" y2="230.0000000000001" stroke-dasharray="2,2"/>
+    <line x1="80" y1="187.50000000000006" x2="750" y2="187.50000000000006" stroke-dasharray="2,2"/>
+    <line x1="80" y1="145.00000000000006" x2="750" y2="145.00000000000006" stroke-dasharray="2,2"/>
+    <line x1="80" y1="102.50000000000003" x2="750" y2="102.50000000000003" stroke-dasharray="2,2"/>
+    <line x1="80" y1="60.0" x2="750" y2="60.0" stroke-dasharray="2,2"/>
+  </g>
+
+  <!-- Y-axis labels -->
+  <g font-family="Arial, sans-serif" font-size="12" text-anchor="end" fill="#666">
+    <text x="70" y="404.0">0.58</text>
+    <text x="70" y="361.49999999999994">0.60</text>
+    <text x="70" y="318.9999999999999">0.62</text>
+    <text x="70" y="276.5000000000001">0.64</text>
+    <text x="70" y="234.0000000000001">0.66</text>
+    <text x="70" y="191.50000000000006">0.68</text>
+    <text x="70" y="149.00000000000006">0.70</text>
+    <text x="70" y="106.50000000000003">0.72</text>
+    <text x="70" y="64.0">0.74</text>
+  </g>
+
+  <!-- X-axis labels -->
+  <g font-family="Arial, sans-serif" font-size="12" text-anchor="middle" fill="#666">
+    <text x="80.0" y="420">0</text>
+    <text x="247.5" y="420">1</text>
+    <text x="415.0" y="420">2</text>
+    <text x="582.5" y="420">3</text>
+    <text x="750.0" y="420">4</text>
+    <text x="400.0" y="445" font-weight="bold">Training Epochs</text>
+  </g>
+
+  <!-- Y-axis label -->
+  <text x="20" y="240.0" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" transform="rotate(-90 20 240.0)" fill="#666">
+    F1 Score
+  </text>
+
+  <!-- Data lines -->
+  <polyline points="80.0,315.85 247.5,88.47 415.0,83.59 582.5,83.59 750.0,83.59" fill="none" stroke="#2E7D32" stroke-width="3"/>
+  <polyline points="80.0,344.96 247.5,160.30 415.0,155.41 582.5,155.41 750.0,155.41" fill="none" stroke="#1976D2" stroke-width="3"/>
+  <polyline points="80.0,361.75 247.5,224.69 415.0,253.59 582.5,242.32 750.0,238.50" fill="none" stroke="#F57C00" stroke-width="2.5"/>
+  <polyline points="80.0,382.58 247.5,285.25 415.0,317.76 582.5,310.32 750.0,302.67" fill="none" stroke="#C62828" stroke-width="2.5" stroke-dasharray="5,3"/>
+
+  <!-- Data point markers -->
+  <g fill="#fff" stroke-width="2">
+    <circle cx="80.0" cy="315.85" r="4" stroke="#2E7D32"/>
+    <circle cx="247.5" cy="88.47" r="4" stroke="#2E7D32"/>
+    <circle cx="415.0" cy="83.59" r="4" stroke="#2E7D32"/>
+    <circle cx="582.5" cy="83.59" r="4" stroke="#2E7D32"/>
+    <circle cx="750.0" cy="83.59" r="4" stroke="#2E7D32"/>
+    <circle cx="80.0" cy="344.96" r="4" stroke="#1976D2"/>
+    <circle cx="247.5" cy="160.30" r="4" stroke="#1976D2"/>
+    <circle cx="415.0" cy="155.41" r="4" stroke="#1976D2"/>
+    <circle cx="582.5" cy="155.41" r="4" stroke="#1976D2"/>
+    <circle cx="750.0" cy="155.41" r="4" stroke="#1976D2"/>
+    <circle cx="80.0" cy="361.75" r="4" stroke="#F57C00"/>
+    <circle cx="247.5" cy="224.69" r="4" stroke="#F57C00"/>
+    <circle cx="415.0" cy="253.59" r="4" stroke="#F57C00"/>
+    <circle cx="582.5" cy="242.32" r="4" stroke="#F57C00"/>
+    <circle cx="750.0" cy="238.50" r="4" stroke="#F57C00"/>
+    <circle cx="80.0" cy="382.58" r="4" stroke="#C62828"/>
+    <circle cx="247.5" cy="285.25" r="4" stroke="#C62828"/>
+    <circle cx="415.0" cy="317.76" r="4" stroke="#C62828"/>
+    <circle cx="582.5" cy="310.32" r="4" stroke="#C62828"/>
+    <circle cx="750.0" cy="302.67" r="4" stroke="#C62828"/>
+  </g>
+
+  <!-- Legend -->
+  <g font-family="Arial, sans-serif" font-size="11">
+  <line x1="90" y1="405" x2="125" y2="405" stroke="#2E7D32" stroke-width="3"/>
+  <text x="130" y="409" fill="#333">Span Match (0.7289)</text>
+  <line x1="90" y1="423" x2="125" y2="423" stroke="#1976D2" stroke-width="3"/>
+  <text x="130" y="427" fill="#333" font-weight="bold">Grouped Type (0.6951) ⭐ Most Clinically Relevant</text>
+  <line x1="90" y1="441" x2="125" y2="441" stroke="#F57C00" stroke-width="2.5"/>
+  <text x="130" y="445" fill="#333">Type Match (0.6560)</text>
+  <line x1="90" y1="459" x2="125" y2="459" stroke="#C62828" stroke-width="2.5" stroke-dasharray="5,3"/>
+  <text x="130" y="463" fill="#333">Strict (0.6340, overfitting pattern)</text>
+  </g>
+</svg>
