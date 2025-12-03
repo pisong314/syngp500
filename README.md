@@ -63,6 +63,8 @@ All 500 synthetic medical notes are located in the `/notes` directory as plain t
 
 ## 📚 Documentation
 
+📄 **[Read the full paper](paper/syngp500_paper.pdf)** - Complete methodology, validation, and technical details
+
 ### Clinical Realism
 - **[Realistic consult complexity](docs/REALISM.md)** - See actual examples how complexities of real consults are reflected in this dataset.
 ### Validation
@@ -80,34 +82,16 @@ All 500 synthetic medical notes are located in the `/notes` directory as plain t
 
 ---
 
-## CRITICAL Disclaimers
+## ⚠️ CRITICAL Disclaimers
 
-**Please read this section carefully before using this dataset:**
+**Before using this dataset:**
 
-⚠️ **SYNTHETIC DATA ONLY**
-These notes are entirely synthetic and are NOT derived from real patients. No actual patient information was used in their creation.
-
-⚠️ **LIMITED CLINICAL VALIDATION**
-Cases underwent LLM-assisted screening to identify potentially problematic cases, followed by manual review of a subset by the author (a qualified general practitioner). However, this does NOT constitute comprehensive clinical validation by multiple independent clinicians. Clinical inaccuracies may be present despite best curation efforts.
-
-⚠️ **NOT ENDORSED BY RACGP**
-This is an independent research project and is NOT endorsed, sponsored, or affiliated with the Royal Australian College of General Practitioners (RACGP).
-
-⚠️ **MAY CONTAIN CLINICAL INACCURACIES**
-While created with medical knowledge and grounded in evidence-based guidelines, synthetic generation may introduce errors in clinical reasoning, medication dosing, investigation ordering, or management plans.
-
-⚠️ **PRIMARY USE: ML/NLP RESEARCH**
-This dataset is primarily intended for machine learning and natural language processing research purposes.
-
-⚠️ **MEDICAL EDUCATION USE REQUIRES INDIVIDUAL CASE REVIEW**
-If you are an educator considering using these cases for teaching:
-- **You MUST review each case individually** before using it with students
-- Verify clinical accuracy, appropriateness of management, and alignment with current guidelines
-- Annotate or correct any identified errors before teaching use
-- Do not assume clinical correctness without expert review
-
-⚠️ **REPORTING INACCURACIES**
-If you identify clinical inaccuracies or have concerns about specific cases, please report them via email to piyawoot.song@gmail.com. This helps improve the quality and utility of the dataset for the community.
+- **Synthetic data only** - No real patient data. Created entirely using LLMs and clinical knowledge.
+- **Limited validation** - Single-clinician review. May contain clinical inaccuracies despite careful curation.
+- **Not RACGP endorsed** - Independent research project, not affiliated with RACGP.
+- **Primary use: ML/NLP research** - For training models, benchmarking, proof-of-concept development.
+- **Educational use requires review** - Educators must verify clinical accuracy of each case before teaching.
+- **Report issues** - Found an error? Email piyawoot.song@gmail.com to help improve the dataset.
 
 ---
 
