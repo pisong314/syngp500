@@ -68,6 +68,20 @@ figures/
 # Logs
 *.log
 
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+
+# LaTeX backups
+*_*Nov*.tex
+*_*Dec*.tex
+
 # Local configuration or test files
 config.local.*
 test_*

@@ -152,10 +152,24 @@ svg_lines.append('  </g>')
 svg_lines.append('</svg>')
 
 # Write to file
-output_path = '/home/pi/dev/syngp500/images/ner_performance.svg'
-with open(output_path, 'w') as f:
+import os
+script_dir = os.path.dirname(os.path.abspath(__file__))
+svg_path = os.path.join(script_dir, 'ner_performance.svg')
+pdf_path = os.path.join(script_dir, 'ner_performance.pdf')
+
+with open(svg_path, 'w') as f:
     f.write('\n'.join(svg_lines))
 
-print(f"✓ Generated {output_path}")
-print(f"  Data ranges: F1 {y_min:.2f} - {y_max:.2f}")
-print(f"  Plot area: {plot_width}x{plot_height} pixels")
+print(f"✓ Generated {svg_path}")
+
+# Convert to PDF using inkscape
+import subprocess
+try:
+    subprocess.run(['inkscape', svg_path, '--export-filename=' + pdf_path],
+                   check=True, capture_output=True)
+    print(f"✓ Generated {pdf_path}")
+    print(f"  Data ranges: F1 {y_min:.2f} - {y_max:.2f}")
+    print(f"  Plot area: {plot_width}x{plot_height} pixels")
+except subprocess.CalledProcessError as e:
+    print(f"⚠ Failed to convert to PDF: {e}")
+    print(f"  You can manually convert: inkscape {svg_path} --export-filename={pdf_path}")
