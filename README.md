@@ -37,6 +37,7 @@ SynGP500 is a clinician-curated collection of 500 synthetic Australian general p
 - **Documentation styles:** Multiple synthetic clinician personas with varying patterns
 - **Epidemiologically validated:** Case distribution closely matches BEACH study data (within ±1-2% for most presenting complaint categories)
 - **Demonstrated realism:** Natural typo rate (0.83%), high stylometric diversity (MATTR 0.858–0.946), realistic length variation (CV 0.42-0.47)
+- **Semantic diversity validated:** Note-level embeddings show broad distribution (cosine similarity mean 0.52, range 0.09-0.95), providing evidence against mode collapse typical of naïve LLM generation
 - **Medical authenticity:** 48.3% medical term density, SNOMED-CT-AU coded for systematic ontological coverage
 - **NER validated:** Grouped Type F1 score of 0.6951 (+14.7% improvement over baseline) using MedCAT on GP-authored hypothetical test cases
 ---
@@ -68,9 +69,10 @@ All 500 synthetic medical notes are located in the `/notes` directory as plain t
 ### Clinical Realism
 - **[Realistic consult complexity](docs/REALISM.md)** - See actual examples how complexities of real consults are reflected in this dataset.
 ### Validation
-- **[NER Performance](docs/validation/ner_performance.md)** - MedCAT evaluation results (Grouped Type F1: 0.6951, +14.7% improvement)
 - **[BEACH Epidemiological Comparison](docs/statistics/beach_comparison.md)** - Case distribution validation against real Australian GP data
 - **[Stylometric Analysis](docs/statistics/stylometric_analysis.md)** - Linguistic diversity metrics (MATTR, typo rates, style variation)
+- **[Semantic Diversity Analysis](docs/statistics/semantic_diversity.md)** - Embedding space analysis showing broad distribution and absence of mode collapse
+- **[NER Performance](docs/validation/ner_performance.md)** - MedCAT evaluation results (Grouped Type F1: 0.6951, +14.7% improvement)
 
 ### Methodology
 - **[Generation Architecture](docs/methodology/generation.md)** - How the synthetic notes were created, including LLM-based generation, clinical grounding, and quality assurance
