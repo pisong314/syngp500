@@ -12,6 +12,7 @@
 \usepackage{xcolor}
 \usepackage{svg}
 \usepackage{tikz}
+\usepackage{subcaption}
 
 \title{\textbf{SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes}}
 
@@ -33,7 +34,7 @@ We introduce \textbf{SynGP500}, a clinician-curated collection of 500 synthetic 
 
 SynGP500 is messy by design, reflecting the authentic complexity of healthcare delivery: telegraphic documentation, typos, patient non-adherence, socioeconomic barriers, and clinician-patient disagreements—unlike sanitized synthetic datasets that obscure clinical realities.
 
-Multi-faceted validation demonstrates dataset quality through epidemiological alignment with real Australian GP consultation patterns (BEACH study), stylometric analysis confirming high linguistic variation, and exploratory downstream evaluation using self-supervised medical concept extraction, showing F1 improvements.
+Multi-faceted validation demonstrates dataset quality through epidemiological alignment with real Australian GP consultation patterns (BEACH study), stylometric analysis confirming high linguistic variation, semantic diversity analysis demonstrating broad coverage, and exploratory downstream evaluation using self-supervised medical concept extraction, showing F1 improvements.
 
 SynGP500 addresses a critical national gap, providing researchers and educators with a resource for developing and evaluating clinical NLP methods for Australian general practice while inherently protecting patient privacy.
 \end{abstract}
@@ -50,7 +51,7 @@ We introduce \textbf{SynGP500}, a clinician-curated collection of 500 synthetic 
     \item \textbf{To our knowledge, the first publicly available Australian general practice clinical text corpus} that is synthetic, privacy-preserving, and accessible without ethics approval—addressing a critical national infrastructure gap for clinical NLP research and education
     \item \textbf{Curriculum-based framework aiming to address the long-tail problem:} RACGP 2022 Curriculum for clinical breadth, BEACH epidemiological calibration for realistic prevalence, and SNOMED CT-AU ontology mapping—ensuring systematic coverage including less-common presentations that appear infrequently in single-practice populations. Framework scalable to rare conditions via specialty curriculum (Table~\ref{tab:coverage-tiers})
     \item \textbf{Authentic practice complexity:} nine consultation contexts (standard clinic, telehealth, residential aged care, bulk-billing, home visits, after-hours, Aboriginal health services, community health, mobile outreach) across metropolitan to remote settings (MM1--MM7), with varied clinician documentation styles and psychosocial complexity (cultural factors, adherence challenges, unrealistic expectations) capturing realistic clinical and linguistic diversity
-    \item \textbf{Multi-faceted validation} through epidemiological calibration (BEACH study comparison showing close alignment with real consultation patterns), stylometric analysis demonstrating high linguistic variation, and downstream task evaluation confirming practical utility for clinical concept extraction
+    \item \textbf{Multi-faceted validation} through epidemiological calibration (BEACH study comparison showing close alignment with real consultation patterns), stylometric analysis demonstrating high linguistic variation, semantic diversity analysis demonstrating absence of mode collapse, and downstream task evaluation indicating practical utility for clinical concept extraction
     \item \textbf{Public release} under CC BY-NC-SA 4.0 license supporting research, prototyping, and education without ethics approval barriers
 \end{itemize}
 
@@ -58,7 +59,7 @@ We introduce \textbf{SynGP500}, a clinician-curated collection of 500 synthetic 
 
 Existing clinical text datasets do not address primary care contexts, particularly Australian general practice. Large-scale corpora such as MIMIC-III/IV \cite{mimic} and i2b2 \cite{i2b2} focus on U.S. hospital inpatient and ICU settings rather than primary care. While some nations maintain research databases of primary care records (e.g., UK's Clinical Practice Research Datalink, Netherlands IPCI database), these remain access-restricted, geographically-specific, and do not address Australian clinical contexts. Primary care documentation presents distinctive NLP challenges compared to hospital settings: broader clinical scope spanning minor acute illness to complex multimorbidity, time-constrained telegraphic documentation, and the long-tail problem where less-common presentations collectively form a substantial part of practice.
 
-While synthetic data generation offers a privacy-preserving alternative for healthcare NLP \cite{tucker2020, chen2021, synthetic}, existing approaches have limitations. Synthea \cite{synthea} generates structured EHR data but not free-text clinical notes. Recent advances in large language models enable synthetic clinical text generation, but naïve LLM generation suffers from distributional collapse, producing templated, low-diversity notes when generating many cases. Our methodology counters this via structured conditioning across clinical breadth, prevalence, and contextual variation (Sections~3.1--3.2). To our knowledge, no publicly available corpus of primary care clinical text for Australian general practice—real or synthetic—currently exists.
+While synthetic data generation offers a privacy-preserving alternative for healthcare NLP \cite{tucker2020, chen2021, synthetic}, existing approaches have limitations. Synthea \cite{synthea} generates structured EHR data but not free-text clinical notes. Recent advances in large language models enable synthetic clinical text generation, but naïve LLM generation suffers from distributional collapse, producing templated, low-diversity notes when generating many cases. Our methodology counters this via structured conditioning across clinical breadth, prevalence, and contextual variation (Sections~3.1--3.2), validated through semantic diversity analysis (Section~5.2). To our knowledge, no publicly available corpus of primary care clinical text for Australian general practice—real or synthetic—currently exists.
 
 \section{Methods}
 
@@ -149,7 +150,7 @@ The dataset is distributed as plain text files (UTF-8 encoding) with filenames f
 
 \section{Dataset Validation}
 
-We validated dataset quality through three complementary approaches requiring no access to restricted clinical data: (1) stylometric analysis assessing linguistic variation, (2) epidemiological calibration against published consultation patterns, and (3) medical concept extraction evaluation measuring practical NLP utility.
+Direct comparison to real GP clinical notes would provide the strongest validation but requires ethics approval not obtained for this initial release. Our validation strategy therefore combines three complementary approaches: (1) comparison against publicly available statistics (BEACH study) to validate distributional realism; (2) stylometric and semantic diversity analyses to confirm absence of mode collapse and template artifacts common in synthetic datasets; and (3) downstream NER evaluation to demonstrate practical utility. Formal comparison with real GP documentation is planned pending ethics approval.
 
 \subsection{Stylometric Analysis}
 
@@ -164,6 +165,29 @@ Comprehensive stylometric analysis confirms that SynGP500 exhibits high linguist
 \end{itemize}
 
 These metrics validate that the dataset captures authentic stylistic variation rather than homogeneous, artificially polished text.
+
+\subsection{Semantic Diversity Analysis}
+
+Pairwise document cosine similarity (mean 0.52, range 0.06--0.94) and UMAP dimensionality reduction \cite{mcinnes2018umap} of clinical content embeddings (all-mpnet-base-v2 \cite{reimers2019sentence}) demonstrate broad semantic distribution across the embedding space---evidence against mode collapse typical of naïve LLM generation.
+
+\begin{figure}[ht]
+    \centering
+    \begin{subfigure}[b]{0.48\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{semantic_diversity_clean.png}
+        \caption{Clinical content}
+        \label{fig:umap_clinical}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.48\linewidth}
+        \centering
+        \includegraphics[width=\linewidth]{semantic_diversity_styled.png}
+        \caption{With persona writing styling applied}
+        \label{fig:umap_styled}
+    \end{subfigure}
+    \caption{UMAP projection of SynGP500 embeddings colored by medical conditions.}
+    \label{fig:umap}
+\end{figure}
 
 \subsection{Epidemiological Validation}
 
@@ -197,7 +221,7 @@ Other & 40.4 & 28.1 & –12.3 \\
 We used MedCAT \cite{medcat} v2.0.0-dev (commit a7d2a337) with SNOMED CT-AU \cite{snomed} vocabulary from the Australian National Clinical Terminology Service (NCTS SCT RF2 Distribution 32506021000036107, August 2025 snapshot) and the pre-built MedMentions vocab file from the MedCAT repository. The Clinical Database (CDB) was constructed from 366,306 active SNOMED concepts filtered to 16 clinically-relevant semantic types (e.g., disorder, finding, procedure, substance), augmented with 664 author-curated common Australian medical acronyms mapped to SNOMED concepts. Configuration: remove\_parenthesis=5, min\_letters\_required=2. FSNs and synonyms map to identical concept IDs, enabling ontology-grounded concept matching.
 
 \subsubsection{Evaluation Set}
-Access to real Australian GP documentation requires ethics approval, which was not obtained for this initial release. To enable pragmatic validation, the author created 19 fictional GP notes representing a typical workday in Australian general practice, containing 648 manually annotated entities using a web-based tool supporting span selection and SNOMED CT-AU concept search. While this approach has limitations (fictional notes, single annotator, modest sample), it provides preliminary evidence of dataset utility. Formal validation on real GP documentation with dual-annotator gold standards is planned pending ethics approval (Section~7.5).
+Access to real Australian GP documentation requires ethics approval, which was not obtained for this initial release. To enable pragmatic validation, the author created 19 clinician-authored fictional GP notes representing a typical workday in Australian general practice, containing 648 manually annotated entities using a web-based tool supporting span selection and SNOMED CT-AU concept search. While this approach has limitations (fictional notes, single annotator, modest sample), it provides preliminary evidence of dataset utility. Formal validation on real GP documentation with dual-annotator gold standards is planned pending ethics approval (Section~7.5).
 
 \subsubsection{Training}
 MedCAT was trained self-supervised for 0--4 epochs on SynGP500.
@@ -215,7 +239,7 @@ We report performance using four matching strategies of increasing clinical rele
 
 \subsubsection{Results}
 
-Table~\ref{tab:ner-results} presents NER performance across training epochs using four matching strategies. Results demonstrate substantial improvements from training on SynGP500, confirming the dataset's utility for training clinical NLP models.
+Table~\ref{tab:ner-results} presents NER performance across training epochs using four matching strategies. Results demonstrate substantial improvements from training on SynGP500, indicating the dataset's utility for training clinical NLP models.
 
 \begin{table}[h]
 \centering
@@ -354,11 +378,11 @@ This framework is replicable and adaptable to other clinical domains by substitu
 
 \subsection{Validation of Synthetic Data Utility}
 
-Our exploratory evaluation demonstrates that SynGP500 provides meaningful training signal for medical concept extraction in Australian general practice contexts, despite containing no real patient data. The substantial improvements in Grouped-Type F1 (+14.7\%) and Span F1 (+17.6\%) provide preliminary evidence that synthetic notes—when carefully grounded in clinical guidelines, epidemiology, and contextual complexity—can support machine learning model development for healthcare NLP applications.
+Our exploratory evaluation demonstrates that SynGP500 provides meaningful training signal for medical concept extraction in Australian general practice contexts, despite containing no real patient data. The substantial improvements in Grouped-Type F1 (+14.7\%) and Span F1 (+17.6\%) provide preliminary evidence that synthetic notes—when carefully grounded in clinical guidelines, epidemiology, and contextual complexity—can support machine learning model development for healthcare NLP applications. Semantic diversity analysis (Section~5.2) confirms broad embedding space coverage without template-driven clustering.
 
 While this evaluation employed single-annotator labels and a modest test set, the consistent performance gains across multiple evaluation metrics likely indicate genuine learning signal, though validation on real clinical data remains necessary. The performance plateau after 2 epochs is consistent with expected self-supervised learning dynamics on a 500-note corpus. Importantly, clinically relevant metrics (Grouped-Type, Span) show the strongest and most stable gains, while strict CUI matching exhibits overfitting-like behavior (peak at epoch 1, then degradation). This pattern suggests the importance of evaluation metrics that align with real-world clinical utility rather than artificial precision requirements.
 
-Our validation framework (Section 5) combines stylometric analysis, epidemiological calibration against BEACH consultation patterns, and NER evaluation on clinician-authored fictional test notes—enabling dataset release without requiring access to restricted clinical data. Comparison with real GP documentation is planned as future work (Section 7.5) pending ethics approval.
+Our validation framework (Section 5) combines stylometric analysis, semantic diversity analysis, epidemiological calibration against BEACH consultation patterns, and NER evaluation on clinician-authored fictional test notes—enabling dataset release without requiring access to restricted clinical data. Comparison with real GP documentation is planned as future work (Section 7.5) pending ethics approval.
 
 \subsection{Why ``Messy Reality'' Matters for Clinical NLP}
 
@@ -386,7 +410,7 @@ SynGP500 provides the first publicly available Australian general practice clini
 
 The generation framework integrates curriculum-based clinical breadth (RACGP 2022), epidemiologically calibrated prevalence (BEACH study), and authentic contextual variation—providing coverage of common presentations and less-common curriculum-specified conditions—together with deployment diversity across consultation settings, geographic locations, and documentation styles.
 
-Multi-faceted validation demonstrates dataset quality. Stylometric analysis confirms high linguistic variation, epidemiological comparison validates alignment with real Australian GP consultation patterns, and NER evaluation shows substantial performance improvements (Grouped-Type F1: +14.7\%, Span F1: +17.6\%), confirming practical utility for training machine learning models.
+Multi-faceted validation demonstrates dataset quality. Stylometric analysis confirms high linguistic variation, semantic diversity analysis demonstrates absence of mode collapse, epidemiological comparison validates alignment with real Australian GP consultation patterns, and NER evaluation shows substantial performance improvements (Grouped-Type F1: +14.7\%, Span F1: +17.6\%), indicating practical utility for training machine learning models.
 
 By deliberately capturing the authentic complexity of general practice—time pressure, patient non-adherence, socioeconomic barriers, patient-clinician disagreements, and pragmatic clinical compromises—SynGP500 prepares NLP systems for real-world deployment rather than sanitized textbook scenarios.
 
@@ -480,6 +504,18 @@ Chen RJ, Lu MY, Chen TY, Williamson DFK, Mahmood F.
 Synthetic data in machine learning for medicine and healthcare.
 \textit{Nature Biomedical Engineering}. 2021;5(6):493--497.
 doi:10.1038/s41551-021-00751-8
+
+\bibitem{mcinnes2018umap}
+McInnes L, Healy J, Melville J.
+UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction.
+\textit{arXiv preprint arXiv:1802.03426}. 2018.
+doi:10.48550/arXiv.1802.03426
+
+\bibitem{reimers2019sentence}
+Reimers N, Gurevych I.
+Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.
+\textit{Proceedings of EMNLP-IJCNLP}. 2019:3982--3992.
+doi:10.18653/v1/D19-1410
 
 \end{thebibliography}
 
