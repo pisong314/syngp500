@@ -102,7 +102,7 @@ The RACGP 2022 Curriculum \cite{racgp} ensured systematic coverage across acute,
 Cases were grounded across five dimensions:
 
 \subsubsection{Clinical Guidelines}
-Clinical reasoning was informed by the author's curated collection of contemporary Australian clinical guidelines and prescribing standards. No guideline content was reproduced; these resources provided the evidence-based foundation for synthetic clinical decision-making.
+Clinical reasoning was informed by the author's curated collection of contemporary Australian clinical guidelines and prescribing standards, which provided the evidence-based foundation for synthetic clinical decision-making.
 
 \subsubsection{Consultation Context Variation}
 Nine consultation settings were incorporated with setting-appropriate clinical constraints: standard clinic, bulk-billing (high volume, time pressure), residential aged care (multimorbidity), telehealth (examination limitations), home visits, after-hours (limited resources), community health, Aboriginal health services (cultural safety), and mobile outreach (resource constraints). Setting-appropriate variation in documentation style, investigation accessibility, and management pragmatism reflects real-world general practice diversity.
@@ -168,21 +168,21 @@ These metrics validate that the dataset captures authentic stylistic variation r
 
 \subsection{Semantic Diversity Analysis}
 
-Pairwise document cosine similarity (mean 0.52, range 0.06--0.94) and UMAP dimensionality reduction \cite{mcinnes2018umap} of clinical content embeddings (all-mpnet-base-v2 \cite{reimers2019sentence}) demonstrate broad semantic distribution across the embedding space---evidence against mode collapse typical of naïve LLM generation.
+Note level embeddings (all-mpnet-base-v2 \cite{reimers2019sentence}, averaged from first and last 512 tokens for notes exceeding model context) demonstrate broad semantic diversity. Pairwise document cosine similarity (mean 0.52, range 0.09--0.95) and UMAP dimensionality reduction \cite{mcinnes2018umap} across the embedding space provide evidence against mode collapse typical of naïve LLM generation.
 
 \begin{figure}[ht]
     \centering
     \begin{subfigure}[b]{0.48\linewidth}
         \centering
-        \includegraphics[width=\linewidth]{semantic_diversity_clean.png}
+        \includegraphics[width=\linewidth]{clean_mpnet_chunk.png}
         \caption{Clinical content}
         \label{fig:umap_clinical}
     \end{subfigure}
     \hfill
     \begin{subfigure}[b]{0.48\linewidth}
         \centering
-        \includegraphics[width=\linewidth]{semantic_diversity_styled.png}
-        \caption{With persona writing styling applied}
+        \includegraphics[width=\linewidth]{styled_mpnet_chunk.png}
+        \caption{With persona writing style applied}
         \label{fig:umap_styled}
     \end{subfigure}
     \caption{UMAP projection of SynGP500 embeddings colored by medical conditions.}
