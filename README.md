@@ -29,7 +29,7 @@ SynGP500 is a clinician-curated collection of 500 synthetic Australian general p
 
 ## Key Features
 
-- **500 synthetic consultation notes** (average 606 ± 257 words, range 241–1,538)
+- **500 synthetic consultation notes** (average 606 ± 257 words, range 213–1,444)
 - **Adult and elderly focus (18+ years)** - pediatric cases not included in this pre-release version
 - **Clinical presentations:** Aligned with RACGP registrar curriculum and BEACH study prevalence patterns
 - **Nine consultation settings:** Standard clinic, bulk billing, RACF, telehealth, home visits, after-hours, community health, Aboriginal health services, mobile outreach
