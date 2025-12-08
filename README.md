@@ -77,9 +77,10 @@ All 500 synthetic medical notes are located in the `/notes` directory as plain t
 ### Methodology
 - **[Generation Architecture](docs/methodology/generation.md)** - How the synthetic notes were created, including LLM-based generation, clinical grounding, and quality assurance
 
-### Reference
+### Additional Resources
 - **[Use Cases](docs/reference/use_cases.md)** - Recommended applications and precautions
 - **[Limitations](docs/reference/limitations.md)** - Important constraints and scope
+- **[Scalability](docs/reference/scalability.md)** - Pipeline scalability
 - **[Contributing](docs/reference/contributing.md)** - How to report issues and improve the dataset
 
 ---
@@ -167,6 +168,9 @@ This dataset was created to support the clinical NLP research community and medi
 
 ## Changelog
 
+### Version 0.92 (Pre-release)
+- Semantic diversity validation added (UMAP embeddings)
+- Framework scalability discussion added
 ### Version 0.91 (Pre-release)
 - NER validation added: MedCAT evaluation on clinician-authored fictional notes with clinician annotations
 - More organised README.md

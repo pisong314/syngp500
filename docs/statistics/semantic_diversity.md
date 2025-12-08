@@ -9,7 +9,7 @@ Note-level embeddings were generated using multiple embedding models:
 - **ModernBERT** - Recent efficient transformer architecture [2]
 - **Clinical ModernBERT** - Domain-adapted variant fine-tuned on clinical text [3]
 
-For notes exceeding the 512-token model context limit, embeddings were computed by averaging representations from the first and last 512 tokens.
+For notes exceeding the 512-token model context limit (all-mpnet-base-v2), embeddings were computed by averaging representations from the first and last 512 tokens.
 
 ## Analysis Metrics
 

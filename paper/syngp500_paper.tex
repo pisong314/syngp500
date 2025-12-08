@@ -195,6 +195,8 @@ Dataset distribution was assessed through LLM-based categorization into BEACH pr
 
 \begin{table}[h]
 \centering
+\footnotesize
+\setlength{\tabcolsep}{4pt}
 \caption{Representative comparison of SynGP500 vs BEACH epidemiology (full table in Appendix~A)}
 \begin{tabular}{lccc}
 \toprule
@@ -210,7 +212,7 @@ Anxiety & 1.0 & 1.2 & +0.2 \\
 Sleep disturbance & 0.7 & 1.2 & +0.5 \\
 Other & 40.4 & 28.1 & –12.3 \\
 \bottomrule
-\multicolumn{4}{l}{\small Most categories within $\pm$1--2\%. Complete 28-category comparison in Appendix~A.}
+\multicolumn{4}{l}{\footnotesize Most categories within $\pm$1--2\%. Complete 28-category comparison in Appendix~A.}
 \end{tabular}
 \label{tab:beach}
 \end{table}
@@ -235,7 +237,7 @@ We report performance using four matching strategies of increasing clinical rele
     \item \textbf{Span F1:} Exact span boundaries only (measures entity boundary detection quality regardless of concept mapping)
 \end{itemize}
 
-\textbf{Grouped-Type matching} is emphasized as the most clinically meaningful metric. In real clinical practice, SNOMED CT semantic distinctions like ``rash (morphology)'' versus ``rash (finding)'' are functionally equivalent—both refer to the same clinical entity. Grouped-Type matching better reflects how clinical concepts are actually used in healthcare settings and provides a more realistic assessment of NLP system utility.
+\textbf{Grouped-Type matching} is emphasized as the most clinically meaningful metric. In real clinical practice, SNOMED CT semantic distinctions like ``rash (morphology)'' versus ``rash (finding)'' are functionally equivalent—both refer to the same clinical entity. Grouped-Type matching better reflects how clinical concepts are actually used in healthcare settings and provides a more realistic assessment of NLP system utility (see Appendix~B for definitions).
 
 \subsubsection{Results}
 
@@ -243,7 +245,8 @@ Table~\ref{tab:ner-results} presents NER performance across training epochs usin
 
 \begin{table}[h]
 \centering
-\small
+\footnotesize
+\setlength{\tabcolsep}{4pt}
 \caption{NER performance progression (F1 scores) across training epochs on SynGP500}
 \label{tab:ner-results}
 \begin{tabular}{lccccccc}
@@ -256,9 +259,9 @@ Grouped Type & 0.6059 & 0.6928 & \textbf{0.6951}$^a$ & \textbf{0.6951}$^a$ & \te
 Span Match & 0.6196 & 0.7266 & \textbf{0.7289}$^a$ & \textbf{0.7289}$^a$ & \textbf{0.7289}$^a$ & 2--4e & \textbf{+17.6\%} \\
 \bottomrule
 \end{tabular}
-\vspace{0.2cm}
+\vspace{0.1cm}
 
-\noindent\small $^a$Identical values reflect rounding to 4 decimal places; minor variations exist at higher precision.
+\noindent\footnotesize $^a$Identical values reflect rounding to 4 decimal places; minor variations exist at higher precision.
 \end{table}
 
 \begin{figure}[ht]
@@ -519,14 +522,17 @@ doi:10.18653/v1/D19-1410
 
 \end{thebibliography}
 
+\clearpage
+
 \appendix
 
-\section{Appendix: Complete BEACH Epidemiological Comparison}
+\section{Appendix A: BEACH Epidemiological Comparison}
 
 \begin{table}[h]
 \centering
-\small
-\caption{Complete comparison of SynGP500 condition distribution vs BEACH real-world GP epidemiology}
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\caption{SynGP500 condition distribution vs BEACH real-world GP epidemiology}
 \label{tab:beach-full}
 \begin{tabular}{lccc}
 \toprule
@@ -560,6 +566,35 @@ Diarrhoea & 0.7 & 0.4 & –0.3 \\
 Sleep disturbance & 0.7 & 1.2 & +0.5 \\
 Swelling & 0.7 & 1.8 & +1.1 \\
 Other & 40.4 & 28.1 & –12.3 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Appendix B: Grouped-Type Semantic Equivalence}
+
+\begin{table}[h!]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3pt}
+\caption{Grouped-Type semantic equivalence groups with clinical examples}
+\label{tab:grouped-semantic-types}
+\begin{tabular}{p{3.8cm}p{9.7cm}}
+\toprule
+\textbf{Semantic Types} & \textbf{Real Examples} \\
+\midrule
+disorder / finding / morphologic abnormality &
+\textbf{``fracture''}: disorder vs morphologic abnormality; \textbf{``ganglion cyst''}: disorder vs morphologic abnormality; \textbf{``bleeding''}: morphologic abnormality vs finding; \textbf{``lump''}: finding vs morphologic abnormality; \textbf{``lymphoma''}: disorder vs morphologic abnormality; \textbf{``laceration''}: disorder vs morphologic abnormality; \textbf{``deformity''}: finding vs morphologic abnormality\\
+\midrule
+substance / product name / medicinal product / clinical drug / product / basic dose form &
+\textbf{``Clotrimazole''}: substance vs medicinal product; \textbf{``lignocaine''}: substance vs medicinal product; \textbf{``endone''}: product name vs substance\\
+\midrule
+procedure / regime / therapy & \\
+\midrule
+observable entity / attribute & \\
+\midrule
+occupation / role & \\
+\midrule
+physical object / specimen & \\
 \bottomrule
 \end{tabular}
 \end{table}
