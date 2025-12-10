@@ -52,7 +52,7 @@ UMAP (Uniform Manifold Approximation and Projection) dimensionality reduction re
 
 **Final notes with persona writing style applied** (all-mpnet-base-v2)
 
-All visualizations demonstrate absence of mode collapse, where diverse clinical scenarios occupy distinct regions of the embedding space. Application of writing styles introduces additional clustering patterns in style-sensitive embedding models, reflecting clustering of documentation approaches amongst clinicians
+All visualizations are consistent with the absence of mode collapse, where diverse clinical scenarios occupy distinct regions of the embedding space. Application of writing styles introduces additional clustering patterns in style-sensitive embedding models, reflecting clustering of documentation approaches amongst clinicians
 
 ---
 
@@ -62,7 +62,7 @@ All visualizations demonstrate absence of mode collapse, where diverse clinical 
 
 2. **Warner B, Chaffin A, Clavié B, et al.** Smarter, Better, Faster, Longer: A Modern Bidirectional Encoder for Fast, Memory Efficient, and Long Context Finetuning and Inference. arXiv preprint arXiv:2412.13663. 2024.
 
-3. **Lehman E, Hernandez E, Mahajan D, et al.** Do We Still Need Clinical Language Models? *Proceedings of the 3rd Machine Learning for Health Symposium*. PMLR 2023;219:578-597.
+3. **Lee SA, Wu A, Chiang JN.** Clinical ModernBERT: An efficient and long context encoder for biomedical text. arXiv preprint arXiv:2504.03964. 2025. Available from: https://github.com/Simonlee711/Clinical_ModernBERT
 
 ---
 
