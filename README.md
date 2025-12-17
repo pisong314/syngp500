@@ -14,27 +14,25 @@ SynGP500 is a clinician-curated collection of 500 synthetic Australian general p
 
 **The Problem:** Access to clinical text data is a significant challenge for healthcare NLP research due to privacy regulations and ethical constraints. Publicly available datasets for Australian general practice are particularly limited.
 
-**The Solution:** SynGP500 addresses this challenge by aiming to generate high-quality synthetic clinical notes, using systematic multi-dimensional grounding to approximate the clinical realism of genuine Australian general practice while avoiding the privacy constraints of real patient data:
+**The Solution:** SynGP500 addresses this challenge through systematic multi-dimensional grounding, combining curriculum-based clinical breadth, epidemiologically-calibrated prevalence, contextually diverse encounter settings, and authentic documentation complexity.
 
-- **Condition selection:** Drawn from the RACGP curriculum for GP registrar training, ensuring educationally and clinically relevant presentations
-- **Case distribution:** Matched to BEACH study data, reflecting realistic prevalence patterns in Australian general practice
-- **Clinical reasoning:** Grounded in curated Australian medical guidelines for valid, evidence-based management
-- **Contextual diversity:** Nine encounter settings (standard clinic, telehealth, after-hours, RACF, home visits, bulk billing, Aboriginal health services, community health, mobile outreach) across seven remoteness classifications (MM1–MM7), with management appropriately adapted to resource constraints and care pathways
-- **Psychosocial complexity:** Integration of social determinants of health—treatment reluctance, housing instability, cultural factors, family dynamics—that shape real-world clinical decision-making
-- **Stylistic authenticity:** Multiple documentation patterns reflecting writing styles observed across clinicians during years of medical practice, capturing natural variation in verbosity, abbreviation use, note structure, and reasoning documentation
+**The Result:** A dataset exhibiting realistic linguistic variation alongside the clinical complexity and contextual constraints of genuine general practice, providing researchers and educators with a privacy-preserving resource for developing and evaluating clinical NLP methods.
 
-**The Result:** A dataset exhibiting realistic linguistic variation—typos, abbreviations, diverse clinician voices—alongside the clinical complexity and contextual constraints of genuine general practice. These synthetic notes provide researchers and educators with a resource for developing and evaluating clinical NLP methods while inherently protecting patient privacy.
+📄 **Read the full paper: [SynGP500](paper/syngp500_paper.pdf)** - Complete methodology, validation, and technical details.
 
 ---
 
 ## Key Features
 
+### Dataset Characteristics
 - **500 synthetic consultation notes** (average 606 ± 257 words, range 213–1,444)
 - **Adult and elderly focus (18+ years)** - pediatric cases not included in this pre-release version
 - **Clinical presentations:** Aligned with RACGP registrar curriculum and BEACH study prevalence patterns
 - **Nine consultation settings:** Standard clinic, bulk billing, RACF, telehealth, home visits, after-hours, community health, Aboriginal health services, mobile outreach
 - **Geographic diversity:** Metropolitan, regional, rural, and remote (MM1-MM7 remoteness classifications)
 - **Documentation styles:** Multiple synthetic clinician personas with varying patterns
+
+### Validated Quality
 - **Epidemiologically validated:** Case distribution closely matches BEACH study data (within ±1-2% for most presenting complaint categories)
 - **Demonstrated realism:** Natural typo rate (0.83%), high stylometric diversity (MATTR 0.858–0.946), realistic length variation (CV 0.42-0.47)
 - **Semantic diversity validated:** Note-level embeddings show broad distribution (cosine similarity mean 0.52, range 0.09-0.95), providing evidence against mode collapse typical of naïve LLM generation
@@ -64,8 +62,6 @@ All 500 synthetic medical notes are located in the `/notes` directory as plain t
 
 ## 📚 Documentation
 
-📄 **[Read the full paper](paper/syngp500_paper.pdf)** - Complete methodology, validation, and technical details
-
 ### Clinical Realism
 - **[Realistic consult complexity](docs/REALISM.md)** - See actual examples how complexities of real consults are reflected in this dataset.
 ### Validation
@@ -76,11 +72,11 @@ All 500 synthetic medical notes are located in the `/notes` directory as plain t
 
 ### Methodology
 - **[Generation Architecture](docs/methodology/generation.md)** - How the synthetic notes were created, including LLM-based generation, clinical grounding, and quality assurance
+- **[Scalability](docs/reference/scalability.md)** - Framework scalability
 
 ### Additional Resources
 - **[Use Cases](docs/reference/use_cases.md)** - Recommended applications and precautions
 - **[Limitations](docs/reference/limitations.md)** - Important constraints and scope
-- **[Scalability](docs/reference/scalability.md)** - Pipeline scalability
 - **[Contributing](docs/reference/contributing.md)** - How to report issues and improve the dataset
 
 ---
