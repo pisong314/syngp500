@@ -168,7 +168,7 @@ These metrics validate that the dataset captures authentic stylistic variation r
 
 \subsection{Semantic Diversity Analysis}
 
-Note level embeddings (all-mpnet-base-v2 \cite{reimers2019sentence}, averaged from first and last 512 tokens for notes exceeding model context) demonstrate broad semantic diversity. Pairwise document cosine similarity (mean 0.52, range 0.09--0.95) and UMAP dimensionality reduction \cite{mcinnes2018umap} across the embedding space provide evidence against mode collapse typical of naïve LLM generation.
+Note level embeddings (all-mpnet-base-v2 \cite{song2020mpnet,reimers2019sentence}, averaged from first and last 512 tokens for notes exceeding model context) demonstrate broad semantic diversity. Pairwise document cosine similarity (mean 0.52, range 0.09--0.95) and UMAP dimensionality reduction \cite{mcinnes2018umap} across the embedding space provide evidence against mode collapse typical of naïve LLM generation.
 
 \begin{figure}[ht]
     \centering
@@ -519,6 +519,11 @@ Reimers N, Gurevych I.
 Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.
 \textit{Proceedings of EMNLP-IJCNLP}. 2019:3982--3992.
 doi:10.18653/v1/D19-1410
+
+\bibitem{song2020mpnet}
+Song K, Tan X, Qin T, Lu J, Liu TY.
+MPNet: Masked and Permuted Pre-training for Language Understanding.
+\textit{Advances in Neural Information Processing Systems}. 2020;33:16857--16867.
 
 \end{thebibliography}
 
