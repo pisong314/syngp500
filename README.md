@@ -18,7 +18,7 @@ SynGP500 is a clinician-curated collection of 500 synthetic Australian general p
 
 **The Result:** A dataset exhibiting realistic linguistic variation alongside the clinical complexity and contextual constraints of genuine general practice, providing researchers and educators with a privacy-preserving resource for developing and evaluating clinical NLP methods.
 
-📄 **Read the full paper: [SynGP500](paper/syngp500_paper.pdf)** - Complete methodology, validation, and technical details.
+📄 **Full paper on arXiv: [SynGP500](https://arxiv.org/abs/2512.15259)** 
 
 ---
 
@@ -111,15 +111,18 @@ https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 ## Citation
 
-If you use this dataset in your research or educational materials, please cite:
+If you use this dataset, please cite the arXiv paper. You can use GitHub's "Cite this repository" button or the BibTeX below:
 
 ```bibtex
-@dataset{songsiritat2025syngp500,
+@misc{songsiritat2025syngp500,
   author = {Songsiritat, Piyawoot},
-  title = {SynGP500: Synthetic Australian General Practice Medical Notes},
+  title = {SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes},
   year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/pisong314/syngp500}
+  note = {arXiv preprint arXiv:2512.15259},
+  eprint = {2512.15259},
+  archivePrefix = {arXiv},
+  primaryClass = {cs.CL},
+  url = {https://arxiv.org/abs/2512.15259}
 }
 ```
 
@@ -175,4 +178,4 @@ This dataset was created to support the clinical NLP research community and medi
 
 ---
 
-**Last Updated:** November 2025
+**Last Updated:** December 2025

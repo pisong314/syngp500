@@ -1,31 +1,63 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: "If you use this dataset, please cite the associated arXiv paper."
 authors:
   - family-names: Songsiritat
     given-names: Piyawoot
     email: piyawoot.song@gmail.com
     affiliation: "Independent Researcher"
-title: "SynGP500: Synthetic Australian General Practice Medical Notes"
-version: 0.9
-date-released: 2025-11-23
-url: "https://github.com/pisong314/syngp500"
+title: "SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes"
+version: 0.92
+date-released: 2025-12-17
+url: "https://arxiv.org/abs/2512.15259"
 repository-code: "https://github.com/pisong314/syngp500"
+identifiers:
+  - type: arxiv
+    value: "2512.15259"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Songsiritat
+      given-names: Piyawoot
+  title: "SynGP500: A Clinically-Grounded Synthetic Dataset of Australian General Practice Medical Notes"
+  year: 2025
+  journal: "arXiv"
+  identifiers:
+    - type: arxiv
+      value: "2512.15259"
+  url: "https://arxiv.org/abs/2512.15259"
 keywords:
-  - synthetic data
+  - synthetic clinical data
   - medical notes
   - clinical NLP
+  - SNOMED CT-AU
   - general practice
   - Australian healthcare
+  - Australian general practice
   - machine learning
   - natural language processing
   - clinical documentation
+  - clinical named entity recognition
 license: CC-BY-NC-SA-4.0
 abstract: >
-  SynGP500 is a collection of 500 synthetic Australian general practice
-  medical notes created to address the critical shortage of publicly
-  available clinical text data for machine learning and natural language
-  processing research. These notes were generated using medical knowledge
-  and technology to simulate realistic GP documentation while ensuring
-  patient privacy is inherently protected. The dataset features diverse
-  clinician styles, various practice settings, and conditions aligned with
-  RACGP curriculum and BEACH study statistics.
+  We introduce SynGP500, a clinician-curated collection of 500 synthetic
+  Australian general practice medical notes. The dataset integrates
+  curriculum-based clinical breadth (RACGP 2022 Curriculum),
+  epidemiologically-calibrated prevalence (BEACH study), and diverse
+  consultation contexts. This approach systematically includes both common
+  presentations and less-common curriculum-specified conditions that GPs
+  must recognize but appear infrequently in single practice populations,
+  potentially supporting more generalizable model training than datasets
+  constrained by naturally occurring case distributions. SynGP500 is messy
+  by design, reflecting the authentic complexity of healthcare delivery:
+  telegraphic documentation, typos, patient non-adherence, socioeconomic
+  barriers, and clinician-patient disagreements, unlike sanitized synthetic
+  datasets that obscure clinical realities. Multi-faceted validation
+  demonstrates dataset quality through epidemiological alignment with real
+  Australian GP consultation patterns (BEACH study), stylometric analysis
+  confirming high linguistic variation, semantic diversity analysis
+  demonstrating broad coverage, and exploratory downstream evaluation using
+  self-supervised medical concept extraction, showing F1 improvements.
+  SynGP500 addresses a critical national gap, providing researchers and
+  educators with a resource for developing and evaluating clinical NLP
+  methods for Australian general practice while inherently protecting
+  patient privacy.
